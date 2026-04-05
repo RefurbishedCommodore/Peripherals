@@ -5,6 +5,5 @@
 ![Name](https://img.shields.io/badge/Joystick-Prof_Competition-white?style=plastic)
 <br>
 ![Name](https://img.shields.io/badge/Remark-High_quality_joystick_by_Suzo_International-white?style=plastic)
-<br>
 ![Name](https://img.shields.io/badge/Int.Ref.-004-white?style=plastic)
 
