@@ -39,11 +39,11 @@ All the four screws at the bottom cover are present. They are quite corroded, bu
 Below are some pictures of the joystick before refurbish (click to enlarge).
 
 <p align="center">
-    <img src="Images/Start05.jpeg" alt="Description" width="600">
     <img src="Images/Start06.jpeg" alt="Description" width="600">
-    <img src="Images/Start04.jpeg" alt="Description" width="600">
-    <img src="Images/Start03.jpeg" alt="Description" width="600">
-    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="444">
+    <img src="Images/Start02.jpeg" alt="Description" width="499">
+    <img src="Images/Start04.jpeg" alt="Description" width="480">
+    <img src="Images/Start03.jpeg" alt="Description" width="500">
     <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
 
