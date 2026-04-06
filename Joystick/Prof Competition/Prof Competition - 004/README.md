@@ -22,6 +22,9 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+    </li>      
   </ul>
 </details>
 
@@ -120,6 +123,10 @@ All the eight Phillips screws[^2] are now removed from the microswitches. Note t
 </p>
 
 Finally the cable lugs are removed from the microswitches. This is the last stage of the disassembly. To avoid damaging the shaft, and other parts, no more disassembly is done.
+
+# Casing
+
+All the plastic parts (and the metal joystick shaft) are placed in a boc filled with mild soap water for about 24 hours. This will dissolve most of the dirt and greas - and oh my (!) - these plastic parts are really dirty.
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
