@@ -109,6 +109,9 @@ Disassembling the rest is straightforward, and can be done many ways, but I woul
 
 Next the two FIRE buttons are removed from the top cover. By pressing firmly (with a thin flat screwdriver) the four small plastic "hooks", the FIRE buttons can both be removed.
 
+<p align="center">
+    <img src="Images/Dis07.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
