@@ -128,9 +128,17 @@ Finally the cable lugs are removed from the microswitches. This is the last stag
 
 All the plastic parts (and the metal joystick shaft) are placed in a boc filled with mild soap water for about 24 hours. This will dissolve most of the dirt and greas - and oh my (!) - these plastic parts are really dirty.
 
+<p align="center">
+    <img src="Images/Case01.jpeg" alt="Description" width="600">
+</p>
+
+The parts looks very nice after cleaning. All the dirt and grease is gone. Four new rubber feet[^3] are added to the bottom cover.
+
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
+[^3]: Rubber feet dimension: 12 mm diameter, 3 mm height
 
 
 
