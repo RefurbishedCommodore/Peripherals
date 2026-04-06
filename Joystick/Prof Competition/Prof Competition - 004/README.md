@@ -50,6 +50,14 @@ Below are some pictures of the joystick before refurbish (click to enlarge).
     <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
 
+Close up pictures of the three visible scratches (click to enlarge).
+
+<p align="center" float="left">
+    <img src="Images/Start07.jpeg" alt="Description" width="280">
+    <img src="Images/Start08.jpeg" alt="Description" width="528">
+    
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Refurbish activities
