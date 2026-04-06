@@ -134,6 +134,14 @@ All the plastic parts (and the metal joystick shaft) are placed in a boc filled 
 
 The parts looks very nice after cleaning. All the dirt and grease is gone. Four new rubber feet[^3] are added to the bottom cover.
 
+<p align="center" float="left">
+    <img src="Images/Case02.jpeg" alt="Description" width="460">
+    <img src="Images/Case03.jpeg" alt="Description" width="370">
+</p>
+
+<p align="center">
+    <img src="Images/Case04.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
