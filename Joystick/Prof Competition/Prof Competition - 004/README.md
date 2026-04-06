@@ -76,7 +76,7 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-To start disassemblig the Prof Competition joystick the four Phillips screws [^1] at the bottom are removed with a low torque screwdriver.
+To start disassemblig the Prof Competition joystick the four Phillips screws [^1] at the bottom are removed with a low torque screwdriver. I can hear a small "cracking" noise from each screw. This is a quite good indicator that no-one has opened this joystick previously.
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="600">
@@ -89,6 +89,8 @@ As previously mentioned, the screws are quite oxidized after many years. To fix 
     <img src="Images/Dis03.jpeg" alt="Description" width="528">
     
 </p>
+
+With the screws out of the way the top cover is carefully lifted from the bottom. Now the interior is exposed after all these years for the first time! There is not too much dust and grease inside the joystick. And now I see that this joystick is build very much like the Competition Pro joystick: four microswitches attached to a plastic bracket surrounding the joystick shaft. 
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
