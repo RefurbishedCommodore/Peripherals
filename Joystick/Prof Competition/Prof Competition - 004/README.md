@@ -19,6 +19,9 @@
     <li>
       <a href="#refurbish-activities">Refurbish activities</a>
     </li>
+    <li>
+      <a href="#disassembly">Disassembly</a>
+    </li>
   </ul>
 </details>
 
@@ -46,4 +49,29 @@ Below are some pictures of the joystick before refurbish (click to enlarge).
     <img src="Images/Start03.jpeg" alt="Description" width="500">
     <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Refurbish activities
+
+The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
+
+- [ ] Refurbish casing
+- [ ] Refurbish the interior electronics
+- [ ] Refurbish the cable and connector
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+<br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Disassembly
+
+
+
+
+
+
+
 
