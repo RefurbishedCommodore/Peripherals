@@ -76,10 +76,15 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
+To start disassemblig the Prof Competition joystick the four Phillips screws [^1] at the bottom are removed with a low torque screwdriver.
+
+<p align="center">
+    <img src="Images/Dis01.jpeg" alt="Description" width="600">
+</p>
 
 
-
-
+**Footnotes**
+[^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 
 
 
