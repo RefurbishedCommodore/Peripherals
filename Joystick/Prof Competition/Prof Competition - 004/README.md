@@ -103,6 +103,13 @@ The classic Suzo International (Rotterdam) sticker inside says "L.E. 01-86". I t
 
 Disassembling the rest is straightforward, and can be done many ways, but I would recommend to first release the strain relief from the top cover. And then disconnect the four cable lugs from the FIRE buttons.
 
+<p align="center">
+    <img src="Images/Dis06.jpeg" alt="Description" width="600">
+</p>
+
+Next the two FIRE buttons are removed from the top cover. By pressing firmly (with a thin flat screwdriver) the four small plastic "hooks", the FIRE buttons can both be removed.
+
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 
