@@ -21,3 +21,30 @@
     </li>
   </ul>
 </details>
+
+# Starting point
+
+At first glance this looks very much like a normal Competition Pro joystick (see [here](https://refurbished-commodore.com/comppro-007) for an example). But with closer inspection this is a Prof Competition joystick by Suzo International which is the manufacturer of the famous "The Arcade" joystick. Later versions of the Prof Competition joystick have a different design for the two fire buttons (see [here](https://refurbished-commodore.com/profcomp-001) for an example). Could it be that the Prof Competition by Suzo International was looking too similar as the Competition Pro - forcing Suzo to change the design later?
+
+The joystick appears to be in quite ok condition - with one exception: there are some severe scratches on the ball top. These scratches does not degrade the functional quality of the joystick in any way, but it affects the cosmetic appearance. The joystick is very dirty. The pictures doesn't do justice - it is actually more dirty than it looks. There is a thick layer of dust and grease all around the casing and shaft. Also, there is a small scratch at the middle "base" (rear - just above the logo), but this is more or less insignificant. 
+
+All of the four rubber feet are gone I would assume. I can´t tell for sure if there was rubber feet originally, but I think it is a fair guess. There are residue which looks like glue where the pads should be, and other versions of the Prof Competition have rubber feet.
+
+One thing I notice, and really enjoy, is the "feel" of the shaft when moving the UP/DOWN/LEFT/RIGHT direction. It feels very firm and give the very nice "clicky" sound from the microswitches. 
+
+The joystick cable, connector and strain relief appear to be in good condition. The connector is a bit worn, but that is to be expected and completely normal.
+
+All the four screws at the bottom cover are present. They are quite corroded, but this is also to be expected after 30-40 years. 
+
+Below are some pictures of the joystick before refurbish (click to enlarge).
+
+<p align="center">
+    <img src="Images/Start07.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="600">
+    <img src="Images/Start06.jpeg" alt="Description" width="600">
+    <img src="Images/Start04.jpeg" alt="Description" width="600">
+    <img src="Images/Start03.jpeg" alt="Description" width="600">
+    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start01.jpeg" alt="Description" width="600">
+</p>
+
