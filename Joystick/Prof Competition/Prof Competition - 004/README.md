@@ -25,6 +25,9 @@
     <li>
       <a href="#casing">Casing</a>
     </li>      
+    <li>
+      <a href="#interior-electronics">Interior electronics</a>
+    </li>      
   </ul>
 </details>
 
@@ -67,7 +70,7 @@ Close up pictures of the three visible scratches (click to enlarge).
 
 The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
 
-- [ ] Refurbish casing
+- [x] Refurbish casing
 - [ ] Refurbish the interior electronics
 - [ ] Refurbish the cable and connector
 - [ ] Testing and validation
@@ -144,6 +147,27 @@ The parts looks very nice after cleaning. All the dirt and grease is gone. Four 
 <p align="center">
     <img src="Images/Case04.jpeg" alt="Description" width="600">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Interior electronics
+
+In contrast to other ("newer") Prof Competitions, and The Arcade, there are no PCB inside this one. Instead, there are four microswitches directly connected to the UP/DOWN/LEFT/RIGHT/FIRE/GND wires from the cable.
+
+The microswitches used are "MILTAC XGK6" made by SAIA. These are high quality microswitches made in Switzerland. All the microswithces are properly cleaned with isopropanol, and all the connectors protruding them are polished with a steel brush. This removes most of the oxidation - making sure that the connection is as good as possible.
+
+Below are some pictures of the microswitches after cleaning and polishing.
+
+<p align="center" float="left">
+    <img src="Images/Main02.jpeg" alt="Description" width="400">
+    <img src="Images/Main04.jpeg" alt="Description" width="419">
+</p>
+
+<p align="center">
+    <img src="Images/Main03.jpeg" alt="Description" width="500">
+</p>
+
+The two leaf switches are carefully sanded with some fine sand paper. This will help removing the oxidation and also make the metal surface a bit more "rugged". Also, the leaf switches are finally cleaned with isopropanol on a Q-tip (NOTE: be careful not to bend the switches during any cleaning).
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
