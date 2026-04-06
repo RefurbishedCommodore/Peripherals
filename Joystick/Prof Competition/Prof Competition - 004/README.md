@@ -119,6 +119,8 @@ All the eight Phillips screws[^2] are now removed from the microswitches. Note t
     <img src="Images/Dis08.jpeg" alt="Description" width="600">
 </p>
 
+Finally the cable lugs are removed from the microswitches. This is the last stage of the disassembly. To avoid damaging the shaft, and other parts, no more disassembly is done.
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
