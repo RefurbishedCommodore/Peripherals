@@ -169,6 +169,10 @@ Below are some pictures of the microswitches after cleaning and polishing.
 
 The two leaf switches are carefully sanded with some fine sand paper. This will help removing the oxidation and also make the metal surface a bit more "rugged". Also, the leaf switches are finally cleaned with isopropanol on a Q-tip (NOTE: be careful not to bend the switches during any cleaning).
 
+<p align="center">
+    <img src="Images/Main05.jpeg" alt="Description" width="500">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
