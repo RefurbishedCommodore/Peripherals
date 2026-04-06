@@ -113,8 +113,16 @@ Next the two FIRE buttons are removed from the top cover. By pressing firmly (wi
     <img src="Images/Dis07.jpeg" alt="Description" width="600">
 </p>
 
+All the eight Phillips screws[^2] are now removed from the microswitches. Note that these screws have the same dimension as the other used holding the covers in place.
+
+<p align="center">
+    <img src="Images/Dis08.jpeg" alt="Description" width="600">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
+[^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
+
 
 
 
