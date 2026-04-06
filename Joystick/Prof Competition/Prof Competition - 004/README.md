@@ -84,6 +84,12 @@ To start disassemblig the Prof Competition joystick the four Phillips screws [^1
 
 As previously mentioned, the screws are quite oxidized after many years. To fix this the screws are soaked in WD-40 oil for several days - wrapped in some plastic film. This removes most of the oxidation. 
 
+<p align="center" float="left">
+    <img src="Images/Dis02.jpeg" alt="Description" width="345">
+    <img src="Images/Dis03.jpeg" alt="Description" width="528">
+    
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 
