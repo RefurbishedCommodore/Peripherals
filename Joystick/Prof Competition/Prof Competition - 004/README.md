@@ -87,10 +87,19 @@ As previously mentioned, the screws are quite oxidized after many years. To fix 
 <p align="center" float="left">
     <img src="Images/Dis02.jpeg" alt="Description" width="345">
     <img src="Images/Dis03.jpeg" alt="Description" width="528">
-    
 </p>
 
-With the screws out of the way the top cover is carefully lifted from the bottom. Now the interior is exposed after all these years for the first time! There is not too much dust and grease inside the joystick. And now I see that this joystick is build very much like the Competition Pro joystick: four microswitches attached to a plastic bracket surrounding the joystick shaft. 
+With the screws out of the way the top cover is carefully lifted from the bottom. Now the interior is exposed after all these years for the first time! There is not too much dust and grease inside the joystick. And now I see that this joystick is build very much like the Competition Pro joystick: four microswitches attached to a plastic bracket surrounding the joystick shaft, and the two FIRE buttons using leaf-switches. 
+
+<p align="center">
+    <img src="Images/Dis04.jpeg" alt="Description" width="600">
+</p>
+
+The classic Suzo International (Rotterdam) sticker inside says "L.E. 01-86". I think it is fair to assume that this joystick was assembled by someone with initals "L.E." in January 1986. I find this quite interesting. Because another Prof Competition joystick I refurbished earlier had a similiar sticker from November 1986. But in this joystick the Prof Competition had a completely different design (both internal and external). Could this point to that Suzo International changed their design sometime during 1986? See [here](https://refurbished-commodore.com/profcomp-001) for an example of later Prof Competition joystick. The sticker is removed with some hot air from a hair dryer before cleaning.
+
+<p align="center">
+    <img src="Images/Dis05.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
