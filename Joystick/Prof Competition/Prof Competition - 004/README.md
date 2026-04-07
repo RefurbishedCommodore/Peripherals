@@ -28,6 +28,12 @@
     <li>
       <a href="#interior-electronics">Interior electronics</a>
     </li>      
+    <li>
+      <a href="#cable-and-connector">Cable and connector</a>
+    </li>      
+    <li>
+      <a href="#testing">Testing</a>
+    </li>      
   </ul>
 </details>
 
@@ -71,8 +77,8 @@ Close up pictures of the three visible scratches (click to enlarge).
 The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
 
 - [x] Refurbish casing
-- [ ] Refurbish the interior electronics
-- [ ] Refurbish the cable and connector
+- [x] Refurbish the interior electronics
+- [x] Refurbish the cable and connector
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
@@ -193,6 +199,11 @@ The FIRE and GND connections shows a bit high resistance level, but I think that
 <p align="center">
     <img src="Images/Main06.jpeg" alt="Description" width="800">
 </p>
+
+
+## Testing
+
+To verify that the joystick work as it should I check it with the [Joyride software](https://refurbished-commodore.com/tools). Result is that all directions and fire buttons works fine works as expected. All tests pass.
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
