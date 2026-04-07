@@ -182,11 +182,11 @@ The cable and connector is tested with a multimeter[^4] and a female DB9 connect
 > **Measured resistance levels:**
 >
 > RIGHT: 1.03 Ohm
-> LEFT: 1.02 Ohm
-> UP: 1.02 Ohm
-> DOWN: 1.70 Ohm
-> FIRE: 5.20 Ohm
-> GND: 8.94 Ohm
+> <br>LEFT: 1.02 Ohm
+> <br>UP: 1.02 Ohm
+> <br>DOWN: 1.70 Ohm
+> <br>FIRE: 5.20 Ohm
+> <br>GND: 8.94 Ohm
 
 The FIRE and GND connections shows a bit high resistance level, but I think that his is caused by the long chain of cable lugs. And it shoud not prevent the joystick from operating normal.
 
