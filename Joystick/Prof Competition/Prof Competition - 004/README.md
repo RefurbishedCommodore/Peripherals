@@ -227,6 +227,14 @@ To verify that the joystick work as it should I check it with the [Joyride softw
 A picture worth a thousand words"
 Below is a collection of the final result from the refurbishment of this QuickShot II Turbo joystick. Hope you like it! Click to enlarge!
 
+<p align="center">
+    <img src="Images/Final02.jpeg" alt="Description" width="600">
+    <img src="Images/Final01.jpeg" alt="Description" width="464">
+    <img src="Images/Final04.jpeg" alt="Description" width="500">
+    <img src="Images/Final03.jpeg" alt="Description" width="480">
+    <img src="Images/Final05.jpeg" alt="Description" width="483">
+    <img src="Images/Final06.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
