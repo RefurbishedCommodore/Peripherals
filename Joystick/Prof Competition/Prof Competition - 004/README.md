@@ -190,6 +190,10 @@ The cable and connector is tested with a multimeter[^4] and a female DB9 connect
 
 The FIRE and GND connections shows a bit high resistance level, but I think that his is caused by the long chain of cable lugs. And it shoud not prevent the joystick from operating normal.
 
+<p align="center">
+    <img src="Images/Main06.jpeg" alt="Description" width="800">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
