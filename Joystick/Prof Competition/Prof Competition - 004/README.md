@@ -28,6 +28,9 @@
     <li>
       <a href="#interior-electronics">Interior electronics</a>
     </li>      
+    <li>
+      <a href="#cable-and-connector">Cable and connector</a>
+    </li>      
   </ul>
 </details>
 
@@ -71,8 +74,8 @@ Close up pictures of the three visible scratches (click to enlarge).
 The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
 
 - [x] Refurbish casing
-- [ ] Refurbish the interior electronics
-- [ ] Refurbish the cable and connector
+- [x] Refurbish the interior electronics
+- [x] Refurbish the cable and connector
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
