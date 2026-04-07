@@ -175,10 +175,26 @@ The two leaf switches are carefully sanded with some fine sand paper. This will 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Cable and connector
+
+The cable and connector is tested with a multimeter[^4] and a female DB9 connector with Dupont wires. The multimeter is set to Ohms mode to measure the resistance end-to-end from the cable lugs to the Dupont wires.
+
+> **Measured resistance levels:**
+>
+> RIGHT: 1.03 Ohm
+> LEFT: 1.02 Ohm
+> UP: 1.02 Ohm
+> DOWN: 1.70 Ohm
+> FIRE: 5.20 Ohm
+> GND: 8.94 Ohm
+
+The FIRE and GND connections shows a bit high resistance level, but I think that his is caused by the long chain of cable lugs. And it shoud not prevent the joystick from operating normal.
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
 [^3]: Rubber feet dimension: 12 mm diameter, 3 mm height
+[^4]: Internal resistance in multimeter probes: 0.2 Ohms
 
 
 
