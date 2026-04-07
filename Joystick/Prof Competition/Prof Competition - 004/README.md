@@ -222,6 +222,10 @@ To verify that the joystick work as it should I check it with the [Joyride softw
     <img src="Images/Test09.jpeg" alt="Description" width="306">    
 </p>
 
+## Final result
+
+A picture worth a thousand words"
+Below is a collection of the final result from the refurbishment of this QuickShot II Turbo joystick. Hope you like it! Click to enlarge!
 
 
 **Footnotes**
