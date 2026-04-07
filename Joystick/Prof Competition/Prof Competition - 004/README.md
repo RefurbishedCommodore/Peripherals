@@ -66,8 +66,7 @@ Close up pictures of the three visible scratches (click to enlarge).
 
 <p align="center" float="left">
     <img src="Images/Start07.jpeg" alt="Description" width="280">
-    <img src="Images/Start08.jpeg" alt="Description" width="528">
-    
+    <img src="Images/Start08.jpeg" alt="Description" width="528">   
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
@@ -204,6 +203,26 @@ The FIRE and GND connections shows a bit high resistance level, but I think that
 ## Testing
 
 To verify that the joystick work as it should I check it with the [Joyride software](https://refurbished-commodore.com/tools). Result is that all directions and fire buttons works fine works as expected. All tests pass.
+
+<p align="center" float="left">
+    <img src="Images/Test01.jpeg" alt="Description" width="293">
+    <img src="Images/Test02.jpeg" alt="Description" width="300">   
+    <img src="Images/Test03.jpeg" alt="Description" width="298">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test04.jpeg" alt="Description" width="300">   
+    <img src="Images/Test05.jpeg" alt="Description" width="300">
+    <img src="Images/Test06.jpeg" alt="Description" width="300">   
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test07.jpeg" alt="Description" width="313">
+    <img src="Images/Test08.jpeg" alt="Description" width="300"> 
+    <img src="Images/Test09.jpeg" alt="Description" width="306">    
+</p>
+
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
