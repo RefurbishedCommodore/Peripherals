@@ -4,7 +4,7 @@
 
 ![Name](https://img.shields.io/badge/Serial_No.-327805-white?style=plastic)
 <br>
-![Name](https://img.shields.io/badge/Brand-Panasonic-white?style=plastic)
+![Name](https://img.shields.io/badge/Brand-Panasonic/Matsushita-white?style=plastic)
 ![Name](https://img.shields.io/badge/Model-JU_253_033P-white?style=plastic)
 
 # Table of contents
