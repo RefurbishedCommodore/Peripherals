@@ -8,3 +8,13 @@
 ![Name](https://img.shields.io/badge/Model-JU_253_033P-white?style=plastic)
 
 # Table of contents
+
+<!-- TABLE OF CONTENTS -->
+<details>
+<summary>TOC - Click to enlarge</summary>
+  <ul>
+    <li>
+      <a href="#starting-point">Starting point</a>
+    </li>
+  </ul>
+</details>
