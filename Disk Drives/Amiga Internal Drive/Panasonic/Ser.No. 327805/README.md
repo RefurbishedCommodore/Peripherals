@@ -29,3 +29,11 @@ From the starting point I do not know if the drive works or not, but with that "
 
 Below are some pictures of the internal disk drive before refurbish.
 
+<p align="center">
+    <img src="Images/Start06.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="600">
+    <img src="Images/Start03.jpeg" alt="Description" width="600">
+    <img src="Images/Start04.jpeg" alt="Description" width="600">
+    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start01.jpeg" alt="Description" width="600">
+</p>
