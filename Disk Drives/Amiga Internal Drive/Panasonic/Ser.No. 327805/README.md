@@ -21,3 +21,11 @@
 
 # Starting point
 
+This internal floppy drive from Panasonic was installed in the [Amiga 500 with "special" serial number 1](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201#readme). It doesn´t look too bad, but I can see that there is quite some dust inside it, and also that the SMD capacitor in the front has spilled all of its dielectrum - making the PCB area a bit of a mess.
+
+It does appear to be ok from a mechanical point of view. I can not see any immediate mechanical damage on the drive - neither external or internal (as much of the internal I can see).
+
+From the starting point I do not know if the drive works or not, but with that "melted" capacitor I have my doubts...
+
+Below are some pictures of the internal disk drive before refurbish.
+
