@@ -81,6 +81,16 @@ The lid is lifted from the drive and the interior is exposed. There is less dust
 
 Next step is to remove the eject button which is straightforward, but be careful not to break the brittle plastic. With a thin flat screwdriver the plastic eject button is removed from the little tab holding it in place.
 
+<p align="center">
+    <img src="Images/Dis04.jpeg" alt="Description" width="800">
+</p>
 
+To remove the inner floppy tray the eject button metal tab (now without the plastic button itself) needs to be pressed inwards.
+
+<p align="center">
+    <img src="Images/Dis05.jpeg" alt="Description" width="800">
+</p>
+
+With some care, the front of floppy tray can be lifted from the base. Be VERY careul to not loose any of the small metal wheels (and spacers). These are tiny!
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
