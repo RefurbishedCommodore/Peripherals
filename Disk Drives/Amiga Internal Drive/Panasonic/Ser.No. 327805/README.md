@@ -112,4 +112,14 @@ With the tray out of the way we are getting closer to the final disassembly. But
 
 First the plastic "lever" is removed. This is done by first removing the split plastic ring, then the special formed spring and finally the plastic "lever" itself. See pictures below.
 
+<p align="center" float="left">
+    <img src="Images/Dis10.jpeg" alt="Description" width="466">
+    <img src="Images/Dis11.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Dis12.jpeg" alt="Description" width="400">
+    <img src="Images/Dis13.jpeg" alt="Description" width="557">
+</p>
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
