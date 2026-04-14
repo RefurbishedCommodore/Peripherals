@@ -73,7 +73,7 @@ Before the lid can be lifted it needs to be freed from the two small metal tabs 
     <img src="Images/Dis02.jpeg" alt="Description" width="400">
 </p>
 
-The lid is lifted from the drive and the interior is exposed. There is less dust than I anticipated, but I can see that there is need for some significant cleaning of both PCB and the shaft.
+The lid is lifted from the drive and the interior is exposed. There is less dust than I anticipated, but I can see that there is need for some significant cleaning of both PCB and the worm gear.
 
 <p align="center">
     <img src="Images/Dis03.jpeg" alt="Description" width="800">
