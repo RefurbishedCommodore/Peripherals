@@ -75,6 +75,9 @@ Before the lid can be lifted it needs to be freed from the two small metal tabs 
 
 The lid is lifted from the drive and the interior is exposed. There is less dust than I anticipated, but I can see that there is need for some significant cleaning of both PCB and the shaft.
 
+<p align="center">
+    <img src="Images/Dis03.jpeg" alt="Description" width="800">
+</p>
 
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
