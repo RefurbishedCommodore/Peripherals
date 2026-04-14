@@ -93,4 +93,8 @@ To remove the inner floppy tray the eject button metal tab (now without the plas
 
 With some care, the front of floppy tray can be lifted from the base. Be VERY careul to not loose any of the small metal wheels (and spacers). These are tiny!
 
+<p align="center">
+    <img src="Images/Dis06.jpeg" alt="Description" width="800">
+</p>
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
