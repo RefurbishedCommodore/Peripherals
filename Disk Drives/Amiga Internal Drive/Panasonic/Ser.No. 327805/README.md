@@ -128,4 +128,9 @@ First the plastic "lever" is removed. This is done by first removing the split p
 
 Next, the two small springs are removed. The tension in these should be zero now since the metal plate is pushed towards the front of the drive.
 
+<p align="center" float="left">
+    <img src="Images/Dis15.jpeg" alt="Description" width="500">
+    <img src="Images/Dis16.jpeg" alt="Description" width="411">
+</p>
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
