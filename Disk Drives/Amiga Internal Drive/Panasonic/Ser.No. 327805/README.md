@@ -133,4 +133,16 @@ Next, the two small springs are removed. The tension in these should be zero now
     <img src="Images/Dis16.jpeg" alt="Description" width="411">
 </p>
 
+The metal plate can now be removed from the base. Below is a picture of the metal plate.
+
+<p align="center">
+    <img src="Images/Dis17.jpeg" alt="Description" width="500">
+</p>
+
+With the metal plate removed the rest of the interior is exposed. This is the final part of the disassembly.
+
+<p align="center">
+    <img src="Images/Dis18.jpeg" alt="Description" width="1000">
+</p>
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
