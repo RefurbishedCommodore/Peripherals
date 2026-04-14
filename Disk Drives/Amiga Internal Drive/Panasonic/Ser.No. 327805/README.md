@@ -104,4 +104,12 @@ Something to note: there are four metal wheels, but only two spacers. They are d
     <img src="Images/Dis08.jpeg" alt="Description" width="449">
 </p>
 
+With the tray out of the way we are getting closer to the final disassembly. But there is still a last metal shield which needs to be removed. There are two things to notice when removing this last shield. First, there is a plastic "lever" which needs to be carefully removed (see top left arrow). Second, there are two small springs which needs to be removed also.
+
+<p align="center">
+    <img src="Images/Dis09.jpeg" alt="Description" width="800">
+</p>
+
+First the plastic "lever" is removed. This is done by first removing the split plastic ring, then the special formed spring and finally the plastic "lever" itself. See pictures below.
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
