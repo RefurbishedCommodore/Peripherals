@@ -79,5 +79,8 @@ The lid is lifted from the drive and the interior is exposed. There is less dust
     <img src="Images/Dis03.jpeg" alt="Description" width="800">
 </p>
 
+Next step is to remove the eject button which is straightforward, but be careful not to break the brittle plastic. With a thin flat screwdriver the plastic eject button is removed from the little tab holding it in place.
+
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
