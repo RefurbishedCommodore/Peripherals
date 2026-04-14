@@ -24,7 +24,7 @@
 
 # Starting point
 
-This internal floppy drive from Panasonic was installed in the [Amiga 500 with "special" serial number 1](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201#readme). It doesn´t look too bad, but I can see that there is quite some dust inside it, and also that the SMD capacitor in the front has spilled all of its dielectrum - making the PCB area a bit of a mess.
+This internal floppy drive from Panasonic (Model JU-253-033P) was installed in the [Amiga 500 with "special" serial number 1](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201#readme). It doesn´t look too bad, but I can see that there is quite some dust inside it, and also that the SMD capacitor in the front has spilled all of its dielectrum - making the PCB area a bit of a mess.
 
 It does appear to be ok from a mechanical point of view. I can not see any immediate mechanical damage on the drive - neither external or internal (as much of the internal I can see).
 
@@ -59,4 +59,11 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
+# Disassembly
+
+Disassembly starts with removing the two small Phillips screws at the far end of the top lid. See picture below.
+
+<p align="center">
+    <img src="Images/Dis01.jpeg" alt="Description" width="600">
+</p>
 
