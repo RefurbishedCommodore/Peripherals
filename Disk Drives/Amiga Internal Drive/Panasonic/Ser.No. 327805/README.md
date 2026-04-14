@@ -61,9 +61,12 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-Disassembly starts with removing the two small Phillips screws at the far end of the top lid. See picture below.
+Disassembly starts with removing the two small Phillips screws[^1] at the far end of the top lid. See picture below.
 
 <p align="center">
-    <img src="Images/Dis01.jpeg" alt="Description" width="600">
+    <img src="Images/Dis01.jpeg" alt="Description" width="400">
 </p>
 
+Before the lid can be lifted it needs to be freed from the two small metal tabs located on each side of the drive. See picture below.
+
+[^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
