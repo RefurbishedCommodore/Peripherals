@@ -99,4 +99,9 @@ With some care, the front of floppy tray can be lifted from the base. Be VERY ca
 
 Something to note: there are four metal wheels, but only two spacers. They are distributed as shown in the picture below.
 
+<p align="center" float="left">
+    <img src="Images/Dis07.jpeg" alt="Description" width="400">
+    <img src="Images/Dis08.jpeg" alt="Description" width="449">
+</p>
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
