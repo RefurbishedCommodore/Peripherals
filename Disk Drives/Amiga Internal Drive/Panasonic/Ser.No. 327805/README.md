@@ -16,6 +16,9 @@
     <li>
       <a href="#starting-point">Starting point</a>
     </li>
+    <li>
+      <a href="#refurbish-activities">Refurbish activities</a>
+    </li>
   </ul>
 </details>
 
@@ -37,3 +40,23 @@ Below are some pictures of the internal disk drive before refurbish.
     <img src="Images/Start02.jpeg" alt="Description" width="600">
     <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
+# Refurbish activities
+
+The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
+
+- [ ] Clean the interior
+- [ ] Clean special parts such as R/W head and stepper motor shaft
+- [ ] Refurbish mainboard
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+<br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
+
