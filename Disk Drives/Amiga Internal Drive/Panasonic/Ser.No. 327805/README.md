@@ -19,6 +19,9 @@
     <li>
       <a href="#refurbish-activities">Refurbish activities</a>
     </li>
+    <li>
+      <a href="#mechanics">Mechanics</a>
+    </li>
   </ul>
 </details>
 
@@ -144,5 +147,12 @@ With the metal plate removed the rest of the interior is exposed. This is the fi
 <p align="center">
     <img src="Images/Dis18.jpeg" alt="Description" width="1000">
 </p>
+
+# Mechanics
+
+After 30+ years the interior mechanics need some care. This care is primarily consisting of cleaning and lubrication, but a visual inspection can sometimes reveal that other action is required.
+
+## Cleaning and lubricating the worm gear
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
