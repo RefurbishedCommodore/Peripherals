@@ -22,6 +22,11 @@
     <li>
       <a href="#mechanics">Mechanics</a>
     </li>
+    <ul>
+        <li>
+          <a href="#cleaning-and-lubricating-the-worm-gear">Cleaning and lubricating the worm gear</a>
+        </li>
+    </ul>  
   </ul>
 </details>
 
