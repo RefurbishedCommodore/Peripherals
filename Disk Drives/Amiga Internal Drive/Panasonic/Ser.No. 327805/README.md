@@ -154,10 +154,11 @@ After 30+ years the interior mechanics need some care. This care is primarily co
 
 ## Cleaning and lubricating the worm gear
 
-The worm gear is quite full of old grease. There is some odd (grease) residue on the middle of the worm grease which almost looks like a... plastic ring? But ignoring the old grease the worm gear appear to be in ok mechanical condition. Below is a picture of the worm gear before cleaning.
+The worm gear is quite full of old grease. There is some odd (grease) residue on the middle of the worm grease which almost looks like a... plastic ring? But ignoring the old grease the worm gear appear to be in ok mechanical condition. Below is a picture of the worm gear before cleaning (click to enlarge).
 
-<p align="center">
-    <img src="Images/Mech01.jpeg" alt="Description" width="1000">
+<p align="center" float="left">
+    <img src="Images/Mech01.jpeg" alt="Description" width="500">
+    <img src="Images/Mech02.jpeg" alt="Description" width="500">    
 </p>
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
