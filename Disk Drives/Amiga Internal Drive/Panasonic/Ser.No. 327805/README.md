@@ -168,7 +168,7 @@ The worm gear is quite full of old grease. There is some odd (grease) residue on
     <img src="Images/Mech02.jpeg" alt="Description" width="500">    
 </p>
 
-The gear is cleaned with isopropanol.
+The worm gear is cleaned with isopropanol.
 
 <p align="center">
     <img src="Images/Mech03.jpeg" alt="Description" width="700">   
