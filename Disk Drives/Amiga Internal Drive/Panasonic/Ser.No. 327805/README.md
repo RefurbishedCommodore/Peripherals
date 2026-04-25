@@ -168,4 +168,10 @@ The worm gear is quite full of old grease. There is some odd (grease) residue on
     <img src="Images/Mech02.jpeg" alt="Description" width="500">    
 </p>
 
+The gear is cleaned with isopropanol.
+
+<p align="center">
+    <img src="Images/Mech03.jpeg" alt="Description" width="700">   
+</p>
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
