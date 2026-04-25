@@ -2,6 +2,8 @@
     <img src="https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png" alt="Description" width="400">
 </p>
 
+# Prof Competition
+
 ![Name](https://img.shields.io/badge/Brand-Prof_Competition-white?style=plastic)
 <br>
 ![Name](https://img.shields.io/badge/Remark-High_quality_joystick_by_Suzo_International-white?style=plastic)
