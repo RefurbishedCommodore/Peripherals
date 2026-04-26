@@ -28,7 +28,15 @@
         <li>
           <a href="#cleaning-and-lubricating-the-worm-gear">Cleaning and lubricating the worm gear</a>
         </li>
-    </ul>  
+    </ul>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+    </li>
+    <ul>
+        <li>
+          <a href="#visual-inspection-of-first-mainboard">Visual inspection of first mainboard</a>
+        </li>
+    </ul>
   </ul>
 </details>
 
@@ -173,5 +181,15 @@ The worm gear is cleaned with isopropanol.
 <p align="center">
     <img src="Images/Mech03.jpeg" alt="Description" width="700">   
 </p>
+
+# Mainboard
+
+There are actually two interconnected mainboards in the floppydrive:
+
+- One mainboard surrounding the large flywheel (Refererred to as "Mainboard #1" here)
+- One mainboard in the rear, beneath the R/W head and the stepper motor (Refererred to as "Mainboard #2" here)
+
+## Visual inspection of first mainboard
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
