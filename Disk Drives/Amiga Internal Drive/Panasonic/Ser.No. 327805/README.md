@@ -198,5 +198,12 @@ There are two things which the visual inspection of the mainboard reveals:
 
 Below are some pictures of the mainboard before refurbishment. 
 
+<p align="center">
+    <img src="Images/Main02.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main01.jpeg" alt="Description" width="800">
+</p>
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
