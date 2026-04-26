@@ -191,5 +191,12 @@ There are actually two interconnected mainboards in the floppydrive:
 
 ## Visual inspection of first mainboard
 
+There are two things which the visual inspection of the mainboard reveals:
+
+- There are some blue paint/marker residue on the left-hand side of the mainboard. I am not really sure what this is, but I guess it can be related to assembly quality assurance.
+- The 10 uF [35V] electrolytic SMD capacitor has leaked all over the right hand side of the mainboard
+
+Below are some pictures of the mainboard before refurbishment. 
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
