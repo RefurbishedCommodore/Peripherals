@@ -225,5 +225,11 @@ The leaked SMD electrolytic capacitor needs to be removed. First, the area is cl
     <img src="Images/Main05.jpeg" alt="Description" width="800">
 </p>
 
+A new 10 uF [35V] electrolytic capacitor is installed. Notice that the new capacitor is not the SMD version, but a normal through hole (TH) capacitor. This does not affect the functionality in any way.
+
+<p align="center">
+    <img src="Images/Main06.jpeg" alt="Description" width="1000">
+</p>
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
