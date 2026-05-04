@@ -213,5 +213,17 @@ Below are some pictures of the mainboard before refurbishment.
 
 The leaked SMD electrolytic capacitor needs to be removed. First, the area is cleaned properly with isopropanol. Then, the old SMD capacitor is cut with a diagonal cutter. The area is cleaned with vinegar and isopropanol before the old solder is removed from the pads with flux and fresh solder (this smells terrible!). No pads or traces were damaged during the process.
 
+<p align="center">
+    <img src="Images/Main03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main05.jpeg" alt="Description" width="800">
+</p>
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
