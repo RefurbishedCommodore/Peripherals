@@ -232,4 +232,10 @@ A new 10 uF [35V] electrolytic capacitor is installed. Notice that the new capac
 </p>
 
 
+## Cleaning the read/write (R/W) heads
+
+Yes, it is heads in plural. There are two R/W heads: one reading the top layer of the disk and one reading the bottom (called "DS" floppies). The heads are cleaned properly with isopropanol on a Q-tip.
+
+
+
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
