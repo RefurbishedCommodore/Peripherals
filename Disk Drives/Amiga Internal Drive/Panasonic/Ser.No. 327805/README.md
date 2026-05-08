@@ -256,7 +256,11 @@ After some research on the web I found a brilliant YouTube video from The Floppy
 
 It turns out the that the SW3 switch was set to "3" which made the floppy not working at all in the Amiga.
 
+Below is a picture of the switches set to correct position for "Amiga mode".
 
+<p align="center">
+    <img src="Images/Main08.jpeg" alt="Description" width="1000">
+</p>
 
 Also, in the same video it shows which positions the switches must be set in order for the drive to work in PC:
 
