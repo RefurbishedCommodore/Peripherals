@@ -39,6 +39,9 @@
         <li>
           <a href="#replacing-the-smd-electrolytic-capacitor">Replacing the SMD electrolytic capacitor</a>
         </li>
+        <li>
+          <a href="#setting-the-position-of-the-three-switches">Setting the position of the three switches</a>
+        </li>
     </ul>
   </ul>
 </details>
@@ -239,5 +242,26 @@ Yes, it is heads in plural. There are two R/W heads: one reading the top layer o
 <p align="center">
     <img src="Images/Main07.jpeg" alt="Description" width="1000">
 </p>
+
+## Setting the position of the three switches
+
+Disclaimer: I did not know of the three switches at the rear side of the floppy before I performed the initial testing. During the initial testing I had problems getting the drive to work at all. The drive was:
+
+- Not ticking (in the sense that the R/W was moving back/forth slightly)
+- Not able to sense, and read, any floppy
+
+After some research on the web I found a brilliant YouTube video from The Floppy Doc. The video, [Diagnosing The Amiga 600 Panasonic Drive](https://www.youtube.com/watch?v=VQsnVUCTDEw&t=6290s), make a note that in order for the floppy drive to work in an Amiga the three switches must be set like this:
+
+`Amiga mode: SW3: "0", SW2: "M0", SW1: "RY"`
+
+It turns out the that the SW3 switch was set to "3" which made the floppy not working at all in the Amiga.
+
+
+
+Also, in the same video it shows which positions the switches must be set in order for the drive to work in PC:
+
+`PC mode: SW3: "1", SW2: "MS", SW1: "DC"`
+
+
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
