@@ -188,6 +188,10 @@ The worm gear is cleaned with isopropanol.
     <img src="Images/Mech03.jpeg" alt="Description" width="700">   
 </p>
 
+After cleaning, the worm gear is lubricated with some lithium grease. This should make the R/W head travel along the worm gear frictionless.
+
+
+
 # Mainboard
 
 There are actually two interconnected mainboards in the floppydrive:
