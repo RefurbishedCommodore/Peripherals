@@ -242,6 +242,12 @@ A new 10 uF [35V] electrolytic capacitor is installed. Notice that the new capac
     <img src="Images/Main06.jpeg" alt="Description" width="1000">
 </p>
 
+Also, the left hand side of the mainboard is cleaned properly with isopropanol. The blue paint (?) is removed without any issues. In addition, the two small push switches (sensing if the floppy is installed and/or write protected) are sprayed with some contact cleaner.
+
+<p align="center">
+    <img src="Images/Main09.jpeg" alt="Description" width="1000">
+</p>
+
 
 ## Cleaning the read/write (R/W) heads
 
