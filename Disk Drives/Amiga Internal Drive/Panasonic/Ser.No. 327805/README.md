@@ -194,6 +194,8 @@ After cleaning, the worm gear is lubricated with some lithium grease. This shoul
     <img src="Images/Mech04.jpeg" alt="Description" width="700">   
 </p>
 
+Something I recommend is to let the floppy drive itselv smear the grease along the worm gear. This is something that can be done during initial tesing (assuming that the drive is at least partly working). By using the Amiga Test Kit software you can get the R/W head to travel all the way from track 0 to 79 quite fast several times. This will get the lithium grease smeared all along the worm gear. [A link to a video showing this can be found here.](https://youtu.be/zGUp7R_3y7c)
+
 # Mainboard
 
 There are actually two interconnected mainboards in the floppydrive:
