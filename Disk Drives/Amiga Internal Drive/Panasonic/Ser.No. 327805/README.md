@@ -190,7 +190,9 @@ The worm gear is cleaned with isopropanol.
 
 After cleaning, the worm gear is lubricated with some lithium grease. This should make the R/W head travel along the worm gear frictionless.
 
-
+<p align="center">
+    <img src="Images/Mech04.jpeg" alt="Description" width="700">   
+</p>
 
 # Mainboard
 
