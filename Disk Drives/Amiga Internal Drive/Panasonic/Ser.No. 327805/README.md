@@ -72,9 +72,9 @@ Below are some pictures of the internal disk drive before refurbish.
 
 The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
 
-- [ ] Clean the interior
-- [ ] Clean special parts such as R/W head and stepper motor shaft
-- [ ] Refurbish mainboard
+- [x] Clean the interior
+- [x] Clean special parts such as R/W head and stepper motor shaft
+- [x] Refurbish mainboard
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
