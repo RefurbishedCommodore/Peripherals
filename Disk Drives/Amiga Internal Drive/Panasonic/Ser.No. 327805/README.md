@@ -42,7 +42,10 @@
         <li>
           <a href="#setting-the-position-of-the-three-switches">Setting the position of the three switches</a>
         </li>
-    </ul>
+     </ul>
+    <li> 
+    <a href="#testing">Testing</a>
+    </li>
   </ul>
 </details>
 
@@ -279,6 +282,24 @@ Below is a picture of the switches set to correct position for "Amiga mode".
 Also, in the same video it shows which positions the switches must be set in order for the drive to work in PC:
 
 `PC mode: SW3: "1", SW2: "MS", SW1: "DC"`
+
+## Testing
+
+To test the internal floppy drive it is installed in the [Amiga it came from.](https://github.com/RefurbishedCommodore/Amiga500/blob/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201/README.md) With the floppy drive installed the Amiga is first turned on to verify that the machine is both able to boot, but also to listen for the famous "ticking" sound.
+
+The floppy is tested with the floppy test functions found in the Amiga Test Kit v1.20. Below are the results from the testing.
+
+<div align="center">
+
+| Test | Description | PASSED/FAILED | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Power on "ticking" | The drive is making the normal ticking sound on power-on | PASSED | |
+| Boot ATK | The drive is able to boot Amiga Test Disk | PASSED | |
+| Read test | Reading all 80 tracks (both sides) | PASSED | |
+| Write test | Writing data to track 158 and 159 | PASSED | |
+| Head calibration test| Testing reading cylinder 0, 40 and 79 | PASSED | CYLINDER 0: 11/11 [OK] <br>CYLDINDER 40: 11/11 [OK]<br>CYLINDER 79: 11/11 [OK]|
+
+</div>
 
 
 
