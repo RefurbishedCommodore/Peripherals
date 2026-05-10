@@ -301,6 +301,19 @@ The floppy is tested with the floppy test functions found in the Amiga Test Kit 
 
 </div>
 
+Below are some pictures from the testing of the floppy drive.
+
+<p align="center" float="left">
+    <img src="Images/Test04.jpeg" alt="Description" width="200">
+    <img src="Images/Test05.jpeg" alt="Description" width="200">
+    <img src="Images/Test06.jpeg" alt="Description" width="200">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test01.jpeg" alt="Description" width="200">
+    <img src="Images/Test02.jpeg" alt="Description" width="200">
+    <img src="Images/Test03.jpeg" alt="Description" width="200">
+</p>
 
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
