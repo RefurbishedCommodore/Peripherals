@@ -295,9 +295,9 @@ The floppy is tested with the floppy test functions found in the Amiga Test Kit 
 |:----------:|:----------:|:----------:|:----------:|
 | Power on "ticking" | The drive is making the normal ticking sound on power-on | PASSED | |
 | Boot ATK | The drive is able to boot Amiga Test Disk | PASSED | |
-| Read test | Reading all 80 tracks (both sides) | PASSED | |
+| Read test | Reading all 80 tracks (both sides) | PASSED | Using an original WB 1.3 floppy |
 | Write test | Writing data to track 158 and 159 | PASSED | |
-| Head calibration test| Testing reading cylinder 0, 40 and 79 | PASSED | CYLINDER 0: 11/11 [OK] <br>CYLDINDER 40: 11/11 [OK]<br>CYLINDER 79: 11/11 [OK]|
+| Head calibration test| Testing reading cylinder 0, 40 and 79 | PASSED | Using an original WB 1.3 floppy<br><br>CYLINDER 0: 11/11 [OK] <br>CYLDINDER 40: 11/11 [OK]<br>CYLINDER 79: 11/11 [OK]|
 
 </div>
 
