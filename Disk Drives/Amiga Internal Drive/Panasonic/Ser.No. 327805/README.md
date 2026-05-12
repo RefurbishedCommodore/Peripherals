@@ -94,25 +94,25 @@ Disassembly starts by removing the two small Phillips screws[^1] at the far end 
     <img src="Images/Dis01.jpeg" alt="Description" width="400">
 </p>
 
-(MARK START)
-
-Before the lid can be lifted it needs to be freed from the two small metal tabs located on each side of the drive. See picture below.
+Before the lid can be lifted, it needs to be freed from the two small metal tabs located on each side of the drive. See the picture below.
 
 <p align="center">
     <img src="Images/Dis02.jpeg" alt="Description" width="400">
 </p>
 
-The lid is lifted from the drive and the interior is exposed. There is less dust than I anticipated, but I can see that there is need for some significant cleaning of both PCB and the worm gear.
+The lid is lifted off the drive, exposing the interior. There is less dust than I anticipated, but I can see that both the PCB and the worm gear require significant cleaning.
 
 <p align="center">
     <img src="Images/Dis03.jpeg" alt="Description" width="800">
 </p>
 
-Next step is to remove the eject button which is straightforward, but be careful not to break the brittle plastic. With a thin flat screwdriver the plastic eject button is removed from the little tab holding it in place.
+The next step is to remove the eject button, which is straightforward, but care must be taken not to break the brittle plastic. Using a thin flat screwdriver, the plastic eject button is carefully released from the small tab holding it in place.
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
+
+(MARK START)
 
 To remove the inner floppy tray the eject button metal tab (now without the plastic button itself) needs to be pressed inwards.
 
