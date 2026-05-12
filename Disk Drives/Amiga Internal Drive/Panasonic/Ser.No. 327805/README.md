@@ -172,34 +172,34 @@ With the metal plate removed, the rest of the interior is exposed. This is the f
     <img src="Images/Dis18.jpeg" alt="Description" width="1000">
 </p>
 
-(MARK START)
-
 # Mechanics
 
-After 30+ years the interior mechanics need some care. This care is primarily consisting of cleaning and lubrication, but a visual inspection can sometimes reveal that other action is required.
+After 30+ years, the internal mechanics need some care. This primarily consists of cleaning and lubrication, but a visual inspection can sometimes reveal that additional work is required.
 
 ## Cleaning and lubricating the worm gear
 
-The worm gear is quite full of old grease. There is some odd (grease) residue on the middle of the worm grease which almost looks like a... plastic ring? But ignoring the old grease the worm gear appear to be in ok mechanical condition. Below is a picture of the worm gear before cleaning (click to enlarge).
+The worm gear is quite full of old grease. There is some odd grease residue in the middle of the worm gear that almost looks like a plastic ring. However, ignoring the old grease, the worm gear appears to be in acceptable mechanical condition. Below is a picture of the worm gear before cleaning (click to enlarge).
 
 <p align="center" float="left">
     <img src="Images/Mech01.jpeg" alt="Description" width="500">
     <img src="Images/Mech02.jpeg" alt="Description" width="500">    
 </p>
 
-The worm gear is cleaned with isopropanol.
+The worm gear is cleaned using isopropanol.
 
 <p align="center">
     <img src="Images/Mech03.jpeg" alt="Description" width="700">   
 </p>
 
-After cleaning, the worm gear is lubricated with some lithium grease. This should make the R/W head travel along the worm gear frictionless.
+After cleaning, the worm gear is lubricated with lithium grease. This should allow the R/W head to travel along the worm gear frictionlessly.
 
 <p align="center">
     <img src="Images/Mech04.jpeg" alt="Description" width="700">   
 </p>
 
-Something I recommend is to let the floppy drive itselv smear the grease along the worm gear. This is something that can be done during initial tesing (assuming that the drive is at least partly working). By using the Amiga Test Kit software you can get the R/W head to travel all the way from track 0 to 79 quite fast several times. This will get the lithium grease smeared all along the worm gear. [A link to a video showing this can be found here.](https://youtu.be/zGUp7R_3y7c)
+Something I recommend is letting the floppy drive itself smear the grease along the worm gear. This is something that can be done during initial testing (assuming that the drive is at least partially working). By using the Amiga Test Kit software, you can get the R/W head to travel all the way from track 0 to 79 quite quickly several times. This will distribute the lithium grease evenly along the worm gear. [A video demonstrating this can be found here:](https://youtu.be/zGUp7R_3y7c)
+
+(MARK START)
 
 # Mainboard
 
