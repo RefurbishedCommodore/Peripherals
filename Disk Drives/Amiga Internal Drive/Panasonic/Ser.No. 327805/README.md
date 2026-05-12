@@ -199,23 +199,21 @@ After cleaning, the worm gear is lubricated with lithium grease. This should all
 
 Something I recommend is letting the floppy drive itself smear the grease along the worm gear. This is something that can be done during initial testing (assuming that the drive is at least partially working). By using the Amiga Test Kit software, you can get the R/W head to travel all the way from track 0 to 79 quite quickly several times. This will distribute the lithium grease evenly along the worm gear. [A video demonstrating this can be found here:](https://youtu.be/zGUp7R_3y7c)
 
-(MARK START)
-
 # Mainboard
 
-There are actually two interconnected mainboards in the floppydrive:
+There are actually two interconnected mainboards in the floppy drive:
 
-- One mainboard surrounding the large flywheel (Refererred to as "Mainboard #1" here)
-- One mainboard in the rear, beneath the R/W head and the stepper motor (Refererred to as "Mainboard #2" here)
+- One mainboard surrounding the large flywheel (referred to as "Mainboard #1" here)
+- One mainboard at the rear, beneath the R/W head and the stepper motor (referred to as "Mainboard #2" here)
 
 ## Visual inspection of first mainboard
 
-There are two things which the visual inspection of the mainboard reveals:
+There are two things revealed by the visual inspection of the mainboard:
 
-- There are some blue paint/marker residue on the left-hand side of the mainboard. I am not really sure what this is, but I guess it can be related to assembly quality assurance.
-- The 10 uF [35V] electrolytic SMD capacitor has leaked all over the right hand side of the mainboard
+- There is some blue paint/marker residue on the left-hand side of the mainboard. I am not entirely sure what this is, but I assume it may be related to assembly quality control.
+- The 10 µF [35V] electrolytic SMD capacitor has leaked across the right-hand side of the mainboard.
 
-Below are some pictures of the mainboard before refurbishment. 
+Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
     <img src="Images/Main02.jpeg" alt="Description" width="800">
@@ -224,6 +222,8 @@ Below are some pictures of the mainboard before refurbishment.
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="800">
 </p>
+
+(MARK START)
 
 ## Replacing the SMD electrolytic capacitor
 
