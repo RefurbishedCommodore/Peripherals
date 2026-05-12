@@ -112,34 +112,32 @@ The next step is to remove the eject button, which is straightforward, but care 
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
-(MARK START)
-
-To remove the inner floppy tray the eject button metal tab (now without the plastic button itself) needs to be pressed inwards.
+To remove the inner floppy tray, the eject button metal tab (now without the plastic button attached) needs to be pressed inward.
 
 <p align="center">
     <img src="Images/Dis05.jpeg" alt="Description" width="800">
 </p>
 
-With some care, the front of floppy tray can be lifted from the base. Be VERY careul to not loose any of the small metal wheels (and spacers). These are tiny!
+With some care, the front of the floppy tray can be lifted from the base. Be VERY careful not to lose any of the small metal wheels (and spacers). These are tiny!
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="800">
 </p>
 
-Something to note: there are four metal wheels, but only two spacers. They are distributed as shown in the picture below.
+Something to note: there are four metal wheels, but only two spacers. They are arranged as shown in the picture below.
 
 <p align="center" float="left">
     <img src="Images/Dis07.jpeg" alt="Description" width="400">
     <img src="Images/Dis08.jpeg" alt="Description" width="449">
 </p>
 
-With the tray out of the way we are getting closer to the final disassembly. But there is still a last metal shield which needs to be removed. There are two things to notice when removing this last shield. First, there is a plastic "lever" which needs to be carefully removed (see top left arrow). Second, there are two small springs which needs to be removed also.
+With the tray out of the way, we are getting closer to the final disassembly. However, there is still one last metal shield that needs to be removed. There are two things to note when removing this shield. First, there is a plastic "lever" that needs to be carefully removed (see top left arrow). Second, there are two small springs that also need to be removed.
 
 <p align="center">
     <img src="Images/Dis09.jpeg" alt="Description" width="800">
 </p>
 
-First the plastic "lever" is removed. This is done by first removing the split plastic ring, then the special formed spring and finally the plastic "lever" itself. See pictures below.
+First, the plastic "lever" is removed. This is done by first removing the split plastic ring, then the specially formed spring, and finally the plastic "lever" itself. See the pictures below.
 
 <p align="center" float="left">
     <img src="Images/Dis10.jpeg" alt="Description" width="466">
@@ -155,7 +153,7 @@ First the plastic "lever" is removed. This is done by first removing the split p
     <img src="Images/Dis14.jpeg" alt="Description" width="800">
 </p>
 
-Next, the two small springs are removed. The tension in these should be zero now since the metal plate is pushed towards the front of the drive.
+Next, the two small springs are removed. The tension in them should now be zero, since the metal plate is pushed towards the front of the drive.
 
 <p align="center" float="left">
     <img src="Images/Dis15.jpeg" alt="Description" width="500">
@@ -168,11 +166,13 @@ The metal plate can now be removed from the base. Below is a picture of the meta
     <img src="Images/Dis17.jpeg" alt="Description" width="500">
 </p>
 
-With the metal plate removed the rest of the interior is exposed. This is the final part of the disassembly.
+With the metal plate removed, the rest of the interior is exposed. This is the final part of the disassembly.
 
 <p align="center">
     <img src="Images/Dis18.jpeg" alt="Description" width="1000">
 </p>
+
+(MARK START)
 
 # Mechanics
 
