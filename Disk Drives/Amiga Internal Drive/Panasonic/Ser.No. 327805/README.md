@@ -223,11 +223,11 @@ Below are some pictures of the mainboard before refurbishment.
     <img src="Images/Main01.jpeg" alt="Description" width="800">
 </p>
 
-(MARK START)
+
 
 ## Replacing the SMD electrolytic capacitor
 
-The leaked SMD electrolytic capacitor needs to be removed. First, the area is cleaned properly with isopropanol. Then, the old SMD capacitor is cut with a diagonal cutter. The area is cleaned with vinegar and isopropanol before the old solder is removed from the pads with flux and fresh solder (this smells terrible!). No pads or traces were damaged during the process.
+The leaked SMD electrolytic capacitor needs to be removed. First, the area is properly cleaned with isopropanol. Then, the old SMD capacitor is cut off using diagonal cutters. The area is cleaned with vinegar and isopropanol before the old solder is removed from the pads using flux and fresh solder (this smells terrible!). No pads or traces were damaged during the process.
 
 <p align="center">
     <img src="Images/Main03.jpeg" alt="Description" width="800">
@@ -241,22 +241,21 @@ The leaked SMD electrolytic capacitor needs to be removed. First, the area is cl
     <img src="Images/Main05.jpeg" alt="Description" width="800">
 </p>
 
-A new 10 uF [35V] electrolytic capacitor is installed. Notice that the new capacitor is not the SMD version, but a normal through hole (TH) capacitor. This does not affect the functionality in any way.
+A new 10 µF [35V] electrolytic capacitor is installed. Note that the new capacitor is not the SMD version, but a standard through-hole (THT) capacitor. This does not affect functionality in any way.
 
 <p align="center">
     <img src="Images/Main06.jpeg" alt="Description" width="1000">
 </p>
 
-Also, the left hand side of the mainboard is cleaned properly with isopropanol. The blue paint (?) is removed without any issues. In addition, the two small push switches (sensing if the floppy is installed and/or write protected) are sprayed with some contact cleaner.
+Also, the left-hand side of the mainboard is properly cleaned with isopropanol. The blue paint (?) is removed without any issues. In addition, the two small push switches (which detect whether a floppy disk is inserted and/or write-protected) are treated with contact cleaner.
 
 <p align="center">
     <img src="Images/Main09.jpeg" alt="Description" width="1000">
 </p>
 
-
 ## Cleaning the read/write (R/W) heads
 
-Yes, it is heads in plural. There are two R/W heads: one reading the top layer of the disk and one reading the bottom (called "DS" floppies). The heads are cleaned properly with isopropanol on a Q-tip.
+Yes, it is “heads” in the plural. There are two R/W heads: one reads the top side of the disk and one reads the bottom side (for “DS” floppies). The heads are cleaned thoroughly with isopropanol on a cotton swab (Q-tip).
 
 <p align="center">
     <img src="Images/Main07.jpeg" alt="Description" width="1000">
@@ -264,32 +263,36 @@ Yes, it is heads in plural. There are two R/W heads: one reading the top layer o
 
 ## Setting the position of the three switches
 
-Disclaimer: I did not know of the three switches at the rear side of the floppy before I performed the initial testing. During the initial testing I had problems getting the drive to work at all. The drive was:
+Disclaimer: I was not aware of the three switches at the rear of the floppy drive before performing the initial testing. During the initial testing, I had problems getting the drive to work at all. The drive was:
 
-- Not ticking (in the sense that the R/W was moving back/forth slightly)
-- Not able to sense, and read, any floppy
+- Not ticking (in the sense that the R/W head was moving slightly back and forth)
+- Not able to sense or read any floppy disks
 
-After some research on the web I found a brilliant YouTube video from The Floppy Doc. The video, [Diagnosing The Amiga 600 Panasonic Drive](https://www.youtube.com/watch?v=VQsnVUCTDEw&t=6290s), make a note that in order for the floppy drive to work in an Amiga the three switches must be set like this:
+After some research on the web, I found a brilliant YouTube video from [The Floppy Doc:](https://www.youtube.com/watch?v=VQsnVUCTDEw&t=6290s)
+. The video “Diagnosing the Amiga 600 Panasonic Drive” explains that, in order for the floppy drive to work in an Amiga, the three switches must be set as follows:
 
 `Amiga mode: SW3: "0", SW2: "M0", SW1: "RY"`
 
-It turns out the that the SW3 switch was set to "3" which made the floppy not working at all in the Amiga.
+It turns out that SW3 was set to "3", which caused the floppy drive to not work at all in the Amiga.
 
-Below is a picture of the switches set to correct position for "Amiga mode".
+Below is a picture of the switches set to the correct position for "Amiga mode".
 
 <p align="center">
     <img src="Images/Main08.jpeg" alt="Description" width="1000">
 </p>
 
-Also, in the same video it shows which positions the switches must be set in order for the drive to work in PC:
+Also, in the same video, it shows which positions the switches must be set to in order for the drive to work in a PC:
 
 `PC mode: SW3: "1", SW2: "MS", SW1: "DC"`
 
+
+
 ## Testing
 
-To test the internal floppy drive it is installed in the [Amiga it came from.](https://github.com/RefurbishedCommodore/Amiga500/blob/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201/README.md) With the floppy drive installed the Amiga is first turned on to verify that the machine is both able to boot, but also to listen for the famous "ticking" sound.
+To test the internal floppy drive, it is installed in the [Amiga it came from
+.](https://github.com/RefurbishedCommodore/Amiga500/blob/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201/README.md) With the floppy drive installed, the Amiga is first powered on to verify that the machine is able to boot, but also to listen for the famous "ticking" sound.
 
-The floppy is tested with the floppy test functions found in the Amiga Test Kit v1.20. Below are the results from the testing.
+The floppy drive is then tested using the floppy test functions found in Amiga Test Kit v1.20. Below are the results from the testing.
 
 <div align="center">
 
@@ -303,7 +306,7 @@ The floppy is tested with the floppy test functions found in the Amiga Test Kit 
 
 </div>
 
-Below are some pictures from the testing of the floppy drive.
+Below are some pictures from the floppy drive testing.
 
 <p align="center" float="left">
     <img src="Images/Test04.jpeg" alt="Description" width="200">
@@ -316,8 +319,3 @@ Below are some pictures from the testing of the floppy drive.
     <img src="Images/Test02.jpeg" alt="Description" width="200">
     <img src="Images/Test03.jpeg" alt="Description" width="200">
 </p>
-
-(MARK END)
-
-
-[^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
