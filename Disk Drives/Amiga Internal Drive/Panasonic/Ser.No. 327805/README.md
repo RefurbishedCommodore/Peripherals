@@ -51,13 +51,13 @@
 
 # Starting point
 
-This internal floppy drive from Panasonic (Model JU-253-033P) was installed in the [Amiga 500 with "special" serial number 1](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201#readme). It doesn´t look too bad, but I can see that there is quite some dust inside it, and also that the SMD capacitor in the front has spilled all of its dielectrum - making the PCB area a bit of a mess.
+This internal floppy drive from Panasonic (Model JU-253-033P) was installed in the [Amiga 500 with "special" serial number 1.](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201#readme) It does not look too bad, but I can see quite a bit of dust inside it, and the SMD capacitor at the front has leaked its dielectric material, leaving the PCB area in a bit of a mess.
 
-It does appear to be ok from a mechanical point of view. I can not see any immediate mechanical damage on the drive - neither external or internal (as much of the internal I can see).
+Mechanically, the drive appears to be in decent condition. I cannot see any immediate signs of damage, either externally or internally (from what I can observe of the interior).
 
-From the starting point I do not know if the drive works or not, but with that "melted" capacitor I have my doubts...
+At this stage, I do not know whether the drive works or not, but with that "melted" capacitor, I have my doubts...
 
-Below are some pictures of the internal disk drive before refurbish.
+Below are some pictures of the internal disk drive before refurbishment.
 
 <p align="center">
     <img src="Images/Start06.jpeg" alt="Description" width="600">
@@ -73,14 +73,14 @@ Below are some pictures of the internal disk drive before refurbish.
 
 # Refurbish activities
 
-The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
+The planned refurbishment activities for this Amiga 500 (order may vary; several activities may be performed in parallel):
 
 - [x] Clean the interior
 - [x] Clean special parts such as R/W head and stepper motor shaft
 - [x] Refurbish mainboard
-- [ ] Testing and validation
+- [x] Testing and validation
 
-The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+The plan may be updated during the refurbishment process. Sometimes I discover areas that need special attention.
 <br>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
@@ -88,11 +88,13 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-Disassembly starts with removing the two small Phillips screws[^1] at the far end of the top lid. See picture below.
+Disassembly starts by removing the two small Phillips screws[^1] at the far end of the top lid. See the picture below.
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="400">
 </p>
+
+(MARK START)
 
 Before the lid can be lifted it needs to be freed from the two small metal tabs located on each side of the drive. See picture below.
 
@@ -314,6 +316,8 @@ Below are some pictures from the testing of the floppy drive.
     <img src="Images/Test02.jpeg" alt="Description" width="200">
     <img src="Images/Test03.jpeg" alt="Description" width="200">
 </p>
+
+(MARK END)
 
 
 [^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
