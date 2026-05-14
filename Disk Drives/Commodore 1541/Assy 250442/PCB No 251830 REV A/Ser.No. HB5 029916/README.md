@@ -70,6 +70,10 @@ First step in disassembling the Commodore 1541 floppyd drive is to remove the fo
     <img src="Images/Dis01.jpeg" alt="Description" width="1000">
 </p>
 
+The drive is flipped back, and the top cover is removed. This reveals the mainboard and parts of the interior mechanics.
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
