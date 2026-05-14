@@ -21,6 +21,9 @@
     <li>
       <a href="#refurbish-activities">Refurbish activities</a>
     </li>
+    <li>
+      <a href="#disassembly">Disassembly</a>
+    </li>
   </ul>
 </details>
 
@@ -56,6 +59,14 @@ The planned refurbishment activites for this Commodore 1541 Single Drive Floppy 
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
-<br>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Disassembly
+
+First step in disassembling the Commodore 1541 floppyd drive is to remove the four Phillips machine screws at the bottom. 
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
