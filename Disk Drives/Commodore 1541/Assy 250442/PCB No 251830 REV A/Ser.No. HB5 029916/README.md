@@ -43,8 +43,9 @@ Below are some pictures of the drive before refurbishment.
     <img src="Images/Start06.jpeg" alt="Description" width="600">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-# Refurbish activities
+# Refurbishment activities
 
 
 
