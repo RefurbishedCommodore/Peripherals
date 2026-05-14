@@ -91,7 +91,7 @@ With the mainboard out of the way, the whole of the interior mechanics are expos
 Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located at each side of the tray (see arrows in picture above). Below is a picture of the remaining bottom cover.
 
 <p align="center">
-    <img src="Images/Dis03.jpeg" alt="Description" width="1000">
+    <img src="Images/Dis04.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
