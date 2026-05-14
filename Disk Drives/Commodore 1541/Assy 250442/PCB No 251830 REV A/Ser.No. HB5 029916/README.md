@@ -80,13 +80,26 @@ The drive is flipped back, and the top cover is removed. This reveals the mainbo
 
 Next step is to remove the mainboard from the drive. There are seven Phillips machine screws[^2] holding the mainboard to the bottom chassis (see arrows in the picture above). Note that two of these screws are located at the large heat sink for the voltage regulators. Also, there is a tooth washer for each of the seven screws.
 
-Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 are disconnected.  
+Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 are disconnected.
+
+With the mainboard out of the way, the whole of the interior mechanics are exposed.
+
+<p align="center">
+    <img src="Images/Dis03.jpeg" alt="Description" width="1000">
+</p>
+
+Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located at each side of the tray (see arrows in picture above). Below is a picture of the remaining bottom cover.
+
+<p align="center">
+    <img src="Images/Dis03.jpeg" alt="Description" width="1000">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 7.5 mm
-[^2]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer).
+[^2]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer)
+[^3]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.6 mm
 
 
 
