@@ -34,6 +34,14 @@ Also, this is in my opionion the "right" version of the Commodore 1541 floppy dr
 
 Below are some pictures of the drive before refurbishment.
 
+<p align="center">
+    <img src="Images/Start01.jpeg" alt="Description" width="600">
+    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start03.jpeg" alt="Description" width="600">
+    <img src="Images/Start04.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="600">
+    <img src="Images/Start06.jpeg" alt="Description" width="600">
+</p>
 
 
 # Refurbish activities
