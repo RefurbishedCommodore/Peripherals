@@ -172,6 +172,9 @@ With the metal plate removed, the rest of the interior is exposed. This is the f
     <img src="Images/Dis18.jpeg" alt="Description" width="1000">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
 # Mechanics
 
 After 30+ years, the internal mechanics need some care. This primarily consists of cleaning and lubrication, but a visual inspection can sometimes reveal that additional work is required.
@@ -199,6 +202,9 @@ After cleaning, the worm gear is lubricated with lithium grease. This should all
 
 Something I recommend is letting the floppy drive itself smear the grease along the worm gear. This is something that can be done during initial testing (assuming that the drive is at least partially working). By using the Amiga Test Kit software, you can get the R/W head to travel all the way from track 0 to 79 quite quickly several times. This will distribute the lithium grease evenly along the worm gear. [A video demonstrating this can be found here:](https://youtu.be/zGUp7R_3y7c)
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
 # Mainboard
 
 There are actually two interconnected mainboards in the floppy drive:
@@ -222,8 +228,6 @@ Below are some pictures of the mainboard before refurbishment.
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="800">
 </p>
-
-
 
 ## Replacing the SMD electrolytic capacitor
 
@@ -285,9 +289,10 @@ Also, in the same video, it shows which positions the switches must be set to in
 
 `PC mode: SW3: "1", SW2: "MS", SW1: "DC"`
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
 
-
-## Testing
+# Testing
 
 To test the internal floppy drive, it is installed in the [Amiga it came from
 .](https://github.com/RefurbishedCommodore/Amiga500/blob/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201/README.md) With the floppy drive installed, the Amiga is first powered on to verify that the machine is able to boot, but also to listen for the famous "ticking" sound.
@@ -319,3 +324,9 @@ Below are some pictures from the floppy drive testing.
     <img src="Images/Test02.jpeg" alt="Description" width="200">
     <img src="Images/Test03.jpeg" alt="Description" width="200">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
+**Footnotes**
+[^1]: Phillips pan head (3.0 mm), Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
