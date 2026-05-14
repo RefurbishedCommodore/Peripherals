@@ -71,7 +71,7 @@ Below are some pictures of the internal disk drive before refurbishment.
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
-# Refurbish activities
+# Refurbishment activities
 
 The planned refurbishment activities for this Amiga 500 (order may vary; several activities may be performed in parallel):
 
