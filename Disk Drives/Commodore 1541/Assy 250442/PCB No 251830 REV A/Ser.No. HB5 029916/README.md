@@ -47,5 +47,15 @@ Below are some pictures of the drive before refurbishment.
 
 # Refurbishment activities
 
+The planned refurbishment activites for this Commodore 1541 Single Drive Floppy Disk (Order may vary. Several of them in parallel):
 
+- [ ] Refurbish mainboard
+- [ ] Refurbish the casing
+- [ ] Refurbish interior mechanics
+- [ ] Install Dolphin DOS 3.0 speeder
+- [ ] Testing and validation
 
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+<br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
