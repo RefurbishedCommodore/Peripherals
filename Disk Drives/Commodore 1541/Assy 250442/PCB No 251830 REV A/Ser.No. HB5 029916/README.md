@@ -64,9 +64,15 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-First step in disassembling the Commodore 1541 floppyd drive is to remove the four Phillips machine screws at the bottom. 
+First step in disassembling the Commodore 1541 floppyd drive is to remove the four Phillips machine screws[^1] at the bottom. 
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+**Footnotes**
+[^1]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 7.5 mm
+
+
 
 
