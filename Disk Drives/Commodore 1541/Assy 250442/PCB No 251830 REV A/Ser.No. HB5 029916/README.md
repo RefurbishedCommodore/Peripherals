@@ -106,6 +106,16 @@ With the mainboard out of the way, the entire internal mechanism is exposed.
     <img src="Images/Dis03.jpeg" alt="Description" width="1000">
 </p>
 
+<!-- MARK -->
+
+When the tray is flipped upside down, something is easy to see: the drive has been exposed to some kind of liquid at the bottom. There are some large areas of corrosion at the tray. Also, I can see trough the tray that the stepper motor has some corrosion too.
+
+<p align="center">
+    <img src="Images/Dis08.jpeg" alt="Description" width="1000">
+</p>
+
+<!-- MARK END -->
+
 Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
 
 <p align="center">
