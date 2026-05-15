@@ -19,10 +19,18 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
-      <a href="#refurbish-activities">Refurbish activities</a>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
     </li>
     <li>
       <a href="#disassembly">Disassembly</a>
+    </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+        <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        </ul>
     </li>
   </ul>
 </details>
@@ -122,9 +130,7 @@ The mainboard appears to be in generally good condition. During the visual inspe
 - Some residue on the backside of the PCB that does not appear to be normal flux residue.
 - The P4 pin connector is different from the others. This may be normal, but the effect is that the cable connector does not sit properly when attached.
 
-<!-- MARK -->
-
-Below are pictures with close-ups from some of these findings.
+Below are pictures with close-ups of some of these findings.
 
 <p align="center">
     <img src="Images/Main03.jpeg" alt="Description" width="600">
@@ -161,7 +167,7 @@ Below are pictures with close-ups from some of these findings.
 
 </div>
 
-
+<!-- MARK -->
 <!-- MARK END-->
 
 **Footnotes**
