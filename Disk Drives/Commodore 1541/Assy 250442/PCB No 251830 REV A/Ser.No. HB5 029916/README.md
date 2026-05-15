@@ -114,6 +114,16 @@ Now the inner tray is lifted from the bottom cover. This is done by removing the
 
 <!-- MARK -->
 
+To remove the drive itself from the tray the four Phillips screws[^4] (two at each side of the drive) are removed as shown below.
+
+<p align="center">
+    <img src="Images/Dis06.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Dis07.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK END-->
 
 
@@ -212,6 +222,13 @@ Below are some pictures of the mainboard after cleaning. Note that the QA sticke
 
 This floppy drive is equipped with the ALPS drive mechanism which reputedly is more reliable than Newtronics drive mechanism. Not of the mechanism itself, but the R/W head is less likely to go bad.
 
+<p align="center">
+    <img src="Images/Drive01.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Drive02.jpeg" alt="Description" width="1000">
+</p>
 
 <!-- MARK END-->
 
@@ -219,7 +236,7 @@ This floppy drive is equipped with the ALPS drive mechanism which reputedly is m
 [^1]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 7.5 mm
 [^2]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer)
 [^3]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.6 mm
-
+[^4]: Phillips pan head (6.8 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.6 mm
 
 
 
