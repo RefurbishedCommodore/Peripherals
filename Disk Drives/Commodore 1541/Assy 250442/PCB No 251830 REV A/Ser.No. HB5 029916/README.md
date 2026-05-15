@@ -104,7 +104,15 @@ Now the inner tray is lifted from the bottom cover. This is done by removing the
 
 # Mainboard
 
-The mainboard is Assy 250422 / PCB No 251830 Rev A, also marked "MDK 511HB".
+The mainboard is Assy 250422 / PCB No 251830 Rev A, also marked "MDK 511HB". Below are some pictures of the mainboard before refurbish.
+
+<p align="center">
+    <img src="Images/Main01.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main02.jpeg" alt="Description" width="1000">
+</p>
 
 ## Visual inspection
 
