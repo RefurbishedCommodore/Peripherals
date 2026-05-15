@@ -176,6 +176,20 @@ As mentioned earlier, the PCB is quite dirty, and there is some unknown residue 
 
 First, the unknown residue (along with some flux residue) is removed. The residue is quite stubborn and can only be removed by carefully scraping it away with a pick tool. The residue had started to degrade the solder mask, so the damaged solder mask is scraped away. Some transparent nail polish is applied to the affected area after cleaning. Also, the four solder points are re-soldered.
 
+<p align="center">
+    <img src="Images/Main07.jpeg" alt="Description" width="800">
+</p>
+
+Next, the old dried glue is removed and the PCB is properly cleaned with mild soapy water. This removes most of the old grease and dirt from the PCB. The more stubborn grease is removed with isopropanol.
+
+After the PCB has dried completely, the two capacitors (C16 and C17) are glued back onto the mainboard.
+
+
+Below are some pictures of the mainboard after cleaning.
+
+
+<!-- MARK -->
+
 <!-- MARK -->
 <!-- MARK END-->
 
