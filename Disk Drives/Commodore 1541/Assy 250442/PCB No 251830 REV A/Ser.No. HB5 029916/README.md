@@ -80,7 +80,11 @@ The next step is to remove the mainboard from the drive. There are seven Phillip
 
 Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 must be disconnected.
 
-Something to notice: one of the seven screws are heavily oxidized. Can this be a sign that the drive has been exposed to moisture? The remaining six screws have the fine brass look.
+Something to note: one of the seven screws is heavily oxidized. Could this be a sign that the drive has been exposed to moisture? The remaining six screws still have their fine brass appearance.
+
+<p align="center">
+    <img src="Images/Dis05.jpeg" alt="Description" width="600">
+</p>
 
 With the mainboard out of the way, the entire internal mechanism is exposed.
 
