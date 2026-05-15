@@ -184,6 +184,9 @@ Next, the old dried glue is removed and the PCB is properly cleaned with mild so
 
 After the PCB has dried completely, the two capacitors (C16 and C17) are glued back onto the mainboard.
 
+<p align="center">
+    <img src="Images/Main08.jpeg" alt="Description" width="700">
+</p>
 
 Below are some pictures of the mainboard after cleaning.
 
