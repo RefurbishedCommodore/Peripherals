@@ -30,6 +30,9 @@
         <li>
           <a href="#visual-inspection">Visual inspection</a>
         </li>
+        <li>
+          <a href="#cleaning-the-pcb">Cleaning the PCB</a>
+        </li>
         </ul>
     </li>
   </ul>
@@ -166,6 +169,12 @@ Below are pictures with close-ups of some of these findings.
 | Mitsubishi, Hitachi, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
 
 </div>
+
+## Cleaning the PCB
+
+As mentioned earlier, the PCB is quite dirty, and there is some unknown residue as well as dried-out glue.
+
+First, the unknown residue (along with some flux residue) is removed. The residue is quite stubborn and can only be removed by carefully scraping it away with a pick tool. The residue had started to degrade the solder mask, so the damaged solder mask is scraped away. Some transparent nail polish is applied to the affected area after cleaning. Also, the four solder points are re-soldered.
 
 <!-- MARK -->
 <!-- MARK END-->
