@@ -37,6 +37,11 @@
     </li>
     <li>
       <a href="#drive-mechanics">Drive mechanics</a>
+        <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        </ul>
     </li>
   </ul>
 </details>
@@ -106,15 +111,11 @@ With the mainboard out of the way, the entire internal mechanism is exposed.
     <img src="Images/Dis03.jpeg" alt="Description" width="1000">
 </p>
 
-<!-- MARK -->
-
-When the tray is flipped upside down, something is easy to see: the drive has been exposed to some kind of liquid at the bottom. There are some large areas of corrosion at the tray. Also, I can see trough the tray that the stepper motor has some corrosion too.
+When the tray is flipped upside down, something becomes immediately apparent: the drive has been exposed to some kind of liquid at the bottom. There are several large areas of corrosion on the tray. Also, I can see through the tray that the stepper motor has some corrosion as well.
 
 <p align="center">
     <img src="Images/Dis08.jpeg" alt="Description" width="1000">
 </p>
-
-<!-- MARK END -->
 
 Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
 
@@ -122,9 +123,7 @@ Now the inner tray is lifted from the bottom cover. This is done by removing the
     <img src="Images/Dis04.jpeg" alt="Description" width="1000">
 </p>
 
-<!-- MARK -->
-
-To remove the drive itself from the tray the four Phillips screws[^4] (two at each side of the drive) are removed as shown below.
+To remove the drive itself from the tray, the four Phillips screws[^4] (two on each side of the drive) are removed, as shown below.
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="1000">
@@ -133,9 +132,6 @@ To remove the drive itself from the tray the four Phillips screws[^4] (two at ea
 <p align="center">
     <img src="Images/Dis07.jpeg" alt="Description" width="500">
 </p>
-
-<!-- MARK END-->
-
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -239,6 +235,22 @@ This floppy drive is equipped with the ALPS drive mechanism which reputedly is m
 <p align="center">
     <img src="Images/Drive02.jpeg" alt="Description" width="1000">
 </p>
+
+## Visual inspection
+
+Beside the corrosion on the stepper motor, the drive seems to be in good condition. Hopefully, the corrosion is only on the surface of the metal cover on the stepper motor. Also, there is a significant amount of some sticky grease on several places on the aluminuim frame. The belt seems to be in quite good condition.
+
+The table below shows the version of this ALPS drive mechanism, step- and spindle motor.
+
+<div align="center">
+    
+| Device | Manufacturer | Model | Serial | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Drive mechanism | Alps Electric Co. | FDM2111-B2 | 01445420 |  |
+| Step motor | Alps Electric Co. | AP-68 | 44MOB 468061 |  |
+| Spindle motor | COPAL | LC-177B | 8452-2 |  |
+
+</div>
 
 <!-- MARK END-->
 
