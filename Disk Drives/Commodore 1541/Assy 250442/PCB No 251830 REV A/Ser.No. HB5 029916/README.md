@@ -124,6 +124,20 @@ The mainboard appears to be in generally good condition. During the visual inspe
 
 <!-- MARK -->
 
+Below are pictures with close-ups from some of these findings.
+
+<p align="center">
+    <img src="Images/Main03.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Main04.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main05.jpeg" alt="Description" width="335">
+    <img src="Images/Main06.jpeg" alt="Description" width="300">
+</p>
 <!-- MARK END-->
 
 **Footnotes**
