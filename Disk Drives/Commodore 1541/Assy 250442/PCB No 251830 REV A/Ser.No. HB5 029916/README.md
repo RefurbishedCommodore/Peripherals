@@ -116,7 +116,14 @@ The mainboard is Assy 250422 / PCB No 251830 Rev A, also marked "MDK 511HB". Bel
 
 ## Visual inspection
 
+The mainboard looks to be in general good condition. During the visual inspection, this is what I notice:
 
+- There is a layer of dust and grease on the whole of the mainboard.
+- The glue holding the large electrolytic capacitors (C16 and C17) has dried out.
+- No observable leakage from any of the capacitors.
+- Some residue on the backside of the PCB that does not look like normal flux residue.
+- The P4 pin connector is different than the others. That may be normal, but the effect of this is that the cable connector does not sit well when attached.
+  
 <!-- MARK END-->
 
 **Footnotes**
