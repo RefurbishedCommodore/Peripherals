@@ -35,6 +35,9 @@
         </li>
         </ul>
     </li>
+    <li>
+      <a href="#drive-mechanics">Drive mechanics</a>
+    </li>
   </ul>
 </details>
 
@@ -108,6 +111,11 @@ Now the inner tray is lifted from the bottom cover. This is done by removing the
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="1000">
 </p>
+
+<!-- MARK -->
+
+<!-- MARK END-->
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -200,7 +208,11 @@ Below are some pictures of the mainboard after cleaning. Note that the QA sticke
 
 <!-- MARK -->
 
-<!-- MARK -->
+# Drive mechanics
+
+This floppy drive is equipped with the ALPS drive mechanism which reputedly is more reliable than Newtronics drive mechanism. Not of the mechanism itself, but the R/W head is less likely to go bad.
+
+
 <!-- MARK END-->
 
 **Footnotes**
