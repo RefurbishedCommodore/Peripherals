@@ -188,8 +188,15 @@ After the PCB has dried completely, the two capacitors (C16 and C17) are glued b
     <img src="Images/Main08.jpeg" alt="Description" width="700">
 </p>
 
-Below are some pictures of the mainboard after cleaning.
+Below are some pictures of the mainboard after cleaning. Note that the QA sticker was removed during cleaning; it will be reinstalled later.
 
+<p align="center">
+    <img src="Images/Main09.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main10.jpeg" alt="Description" width="1000">
+</p>
 
 <!-- MARK -->
 
