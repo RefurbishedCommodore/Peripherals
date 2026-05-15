@@ -100,11 +100,9 @@ Now the inner tray is lifted from the bottom cover. This is done by removing the
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK -->
-
 # Mainboard
 
-The mainboard is Assy 250422 / PCB No 251830 Rev A, also marked "MDK 511HB". Below are some pictures of the mainboard before refurbish.
+The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "MDK 511HB". Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="1000">
@@ -116,14 +114,16 @@ The mainboard is Assy 250422 / PCB No 251830 Rev A, also marked "MDK 511HB". Bel
 
 ## Visual inspection
 
-The mainboard looks to be in general good condition. During the visual inspection, this is what I notice:
+The mainboard appears to be in generally good condition. During the visual inspection, this is what I notice:
 
-- There is a layer of dust and grease on the whole of the mainboard.
+- There is a layer of dust and grease across the entire mainboard.
 - The glue holding the large electrolytic capacitors (C16 and C17) has dried out.
 - No observable leakage from any of the capacitors.
-- Some residue on the backside of the PCB that does not look like normal flux residue.
-- The P4 pin connector is different than the others. That may be normal, but the effect of this is that the cable connector does not sit well when attached.
-  
+- Some residue on the backside of the PCB that does not appear to be normal flux residue.
+- The P4 pin connector is different from the others. This may be normal, but the effect is that the cable connector does not sit properly when attached.
+
+<!-- MARK -->
+
 <!-- MARK END-->
 
 **Footnotes**
