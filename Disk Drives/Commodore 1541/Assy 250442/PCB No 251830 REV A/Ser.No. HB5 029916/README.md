@@ -25,6 +25,9 @@
       <a href="#disassembly">Disassembly</a>
     </li>
     <li>
+      <a href="#initial-testing">Initial testing</a>
+    </li>
+    <li>
       <a href="#mainboard">Mainboard</a>
         <ul>
         <li>
@@ -134,6 +137,33 @@ To remove the drive itself from the tray, the four Phillips screws[^4] (two on e
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Initial testing
+
+<!-- MARK -->
+
+Initial testing of the 1541 floppy drive is done about midway during disassembly and after some initial cleaning of the PCB and the R/W head. This is to assess the state of the floppy drive and use this information as input to the refurbishment process.
+
+Below is a table of the results of this initial testing.
+
+<div align="center">
+    
+| Test | Description | Passed/Failed | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC | PASSED | |
+| Loading: FILE | Loading a file from BASIC | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM | FAILED | |
+| Performance | Checking basic functionality such as:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Alignment | Checking R/W track alignment | PASSED | Track 1-35: "TBD" |
+| Head stop | Checking the position of track 0 | PASSED | Track 0: "TBD" |
+
+</div>
+
+<!-- MARK END -->
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 
 # Mainboard
 
