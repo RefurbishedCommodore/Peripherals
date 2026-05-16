@@ -86,7 +86,7 @@ The plan may be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^1] on the bottom.
+The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^4] on the bottom.
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="1000">
@@ -98,7 +98,7 @@ The drive is flipped back over, and the top cover is removed. This reveals the m
     <img src="Images/Dis02.jpeg" alt="Description" width="1000">
 </p>
 
-The next step is to remove the mainboard from the drive. There are seven Phillips machine screws[^2] holding the mainboard to the bottom chassis (see arrows in the picture above). Note that two of these screws are located on the large heat sink for the voltage regulators. Also, there is a tooth washer for each of the seven screws.
+The next step is to remove the mainboard from the drive. There are seven Phillips machine screws[^5] holding the mainboard to the bottom chassis (see arrows in the picture above). Note that two of these screws are located on the large heat sink for the voltage regulators. Also, there is a tooth washer for each of the seven screws.
 
 Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 must be disconnected.
 
@@ -120,13 +120,13 @@ When the tray is flipped upside down, something becomes immediately apparent: th
     <img src="Images/Dis08.jpeg" alt="Description" width="1000">
 </p>
 
-Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
+Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^6] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="1000">
 </p>
 
-To remove the drive itself from the tray, the four Phillips screws[^4] (two on each side of the drive) are removed, as shown below.
+To remove the drive itself from the tray, the four Phillips screws[^7] (two on each side of the drive) are removed, as shown below.
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="1000">
@@ -151,12 +151,12 @@ Below is a table of the results of this initial testing.
 | Test | Description | Passed/Failed | Comment |
 |:----------:|:----------:|:----------:|:----------:|
 | Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
-| Loading: DIRECTORY | Loading a directory from BASIC | PASSED | |
-| Loading: FILE | Loading a file from BASIC | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM | FAILED | |
-| Performance | Checking basic functionality such as:<br>FORMAT, LOAD, WRITE| PASSED | |
-| Alignment | Checking R/W track alignment | PASSED | Track 1-35: "TBD" |
-| Head stop | Checking the position of track 0 | PASSED | Track 0: "TBD" |
+| Loading: DIRECTORY | Loading a directory from BASIC[^1] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^1] | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^2] | FAILED | |
+| Performance | Checking basic functionality such as[^2]:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Alignment | Checking R/W track alignment[^3] | PASSED | Track 1-35: "TBD" |
+| Head stop | Checking the position of track 0[^3] | PASSED | Track 0: "TBD" |
 
 </div>
 
@@ -285,10 +285,13 @@ The table below shows the version of this ALPS drive mechanism, step- and spindl
 <!-- MARK END-->
 
 **Footnotes**
-[^1]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 7.5 mm
-[^2]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer)
-[^3]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.6 mm
-[^4]: Phillips pan head (6.8 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.6 mm
+[^1]: Original Commodore test/demo-diskette for model 1541
+[^2]: 1541 Test & Diagnostics cartridge from World of Jani
+[^3]: 1541/1571 Drive alignment from Free Spirit software (Probably fake)
+[^4]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 7.5 mm
+[^5]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer)
+[^6]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.6 mm
+[^7]: Phillips pan head (6.8 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.6 mm
 
 
 
