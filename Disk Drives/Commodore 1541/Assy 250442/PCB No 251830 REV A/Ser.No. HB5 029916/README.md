@@ -44,6 +44,9 @@
         <li>
           <a href="#visual-inspection">Visual inspection</a>
         </li>
+        <li>
+          <a href="#measured-resistance-rw-head-and-stepper-motor">Measured resistance RW Head and Stepper motor</a>
+        </li>
         </ul>
     </li>
   </ul>
@@ -281,6 +284,12 @@ The table below shows the version of this ALPS drive mechanism, step- and spindl
 | Spindle motor | COPAL | LC-177B | 8452-2 |  |
 
 </div>
+
+## Measured resistance RW Head and Stepper motor
+
+
+
+
 
 <!-- MARK END-->
 
