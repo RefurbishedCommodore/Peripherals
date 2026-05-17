@@ -289,6 +289,10 @@ The table below shows the version of this ALPS drive mechanism, step- and spindl
 
 
 
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="400">
+</p>
+
 
 
 <!-- MARK END-->
