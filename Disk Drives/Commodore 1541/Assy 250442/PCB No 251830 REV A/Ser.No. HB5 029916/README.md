@@ -295,6 +295,20 @@ From the [*Service Manual Model 1540/1541 Disk Drive*](https://refurbished-commo
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="800">
 </p>
 
+The measured resistance values are listed in the table below.
+
+<div align="center">
+    
+| Check | Description | Target | Measure | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| R/W coil | End-to-end (Blue-Red) | 32.4 Ohm | 33.45 Ohm|  |
+| R/W coil | End-to-end (Blue-Red) | 32.4 Ohm | TBD |  |
+| R/W coil | End-to-end (Blue-Red) | 32.4 Ohm | TBD |  |
+
+</div>
+
+
+
 
 
 <!-- MARK END-->
