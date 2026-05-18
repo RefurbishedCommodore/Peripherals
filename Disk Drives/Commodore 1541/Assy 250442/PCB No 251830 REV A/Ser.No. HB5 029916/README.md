@@ -349,6 +349,13 @@ The measured resistance values from the Stepper motor coil at connector P7 are l
 
 As can be seen from the tables above all measured resistances are within acceptable tolerances.
 
+## Track 1 position
+
+Another good practice is to check and measure the track 1 position. The nonimal value for the track 1 position is to be positioned with a gap of 0.35 mm (from full stop at track 0) as shown in the schematic below.
+
+
+
+
 <!-- MARK END-->
 
 **Footnotes**
