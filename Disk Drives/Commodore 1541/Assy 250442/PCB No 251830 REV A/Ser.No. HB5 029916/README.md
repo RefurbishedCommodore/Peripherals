@@ -45,7 +45,7 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         <li>
-          <a href="#measured-resistance-rw-head-and-stepper-motor">Measured resistance RW Head and Stepper motor</a>
+          <a href="#rw-coil-and-stepper-motor">RW Coil and Stepper Motor</a>
         </li>
         </ul>
     </li>
@@ -285,12 +285,14 @@ The table below shows the version of this ALPS drive mechanism, step- and spindl
 
 </div>
 
-## Measured resistance RW Head and Stepper motor
+## RW Coil and Stepper Motor
 
+It is good practice to measure the resistances found in the Read/Write (R/W) coil, the Erase coil and the Stepper motor. Even if initial testing shows that these seems to work as they should, it is good to know that the resistances measured are also within acceptable tolerances.
 
+From the [*Service Manual Model 1540/1541 Disk Drive*](https://refurbished-commodore.com/reference-documents) we can find the nominal values for the R/W coil and the Erase coil:
 
 <p align="center">
-    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="400">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="800">
 </p>
 
 
