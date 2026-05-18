@@ -301,16 +301,35 @@ The measured resistance values from the R/W coil and Erase coil are listed in th
     
 | Check | Description | Target | Measure | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| R/W coil | End-to-end (Blue-Red) | 32.4 Ohm | 33.45 Ohm|  |
-| R/W coil | End-to-centertap #1 (Blue-White) | 16.3 Ohm | 17.43 Ohm |  |
-| R/W coil | End-to-centertap #2 (Red-White) | 16.3 Ohm | 17.24 Ohm |  |
-| Erase coil | End-to-end (Yellow-White) | 10.5 Ohm | 11.53 Ohm |  |
+| R/W coil | End-to-end (Blue-Red) | 32.4 Ω | 33.45 Ω|  |
+| R/W coil | End-to-centertap #1 (Blue-White) | 16.3 Ω | 17.43 Ω |  |
+| R/W coil | End-to-centertap #2 (Red-White) | 16.3 Ω | 17.24 Ω |  |
+| Erase coil | End-to-end (Yellow-White) | 10.5 Ω | 11.53 Ω |  |
 
 </div>
 
+From the same service manual we can find the nominal values for the Stepper Motor:
 
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/StepperMotor.png" alt="Description" width="700">
+</p>
+ 
+The measured resistance values from the R/W coil and Erase coil are listed in the table below.
 
+<div align="center">
+    
+| Check | Description | Target | Measure | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Stepper motor coil (A) | End-to-end (Yellow-Orange) | 64.0 Ω | 67.44 Ω|  |
+| Stepper motor coil (A) | End-to-centertap #1 (Yellow-Red) | 32.0 Ω | ~34 Ω |  |
+| Stepper motor coil (A) | End-to-centertap #2 (Orange-Red) | 32.0 Ω | ~36 Ω |  |
+| Stepper motor coil (B) | End-to-end (Brown-Black) | 64.0 Ω | 66.20 Ω|  |
+| Stepper motor coil (B) | End-to-centertap #1 (Brown-Red) | 32.0 Ω | ~34 Ω |  |
+| Stepper motor coil (B) | End-to-centertap #2 (Black-Red) | 32.0 Ω | ~34 Ω |  |
 
+</div>
+
+As can be seen from the tables above all measured resistances are within acceptable tolerances.
 
 <!-- MARK END-->
 
