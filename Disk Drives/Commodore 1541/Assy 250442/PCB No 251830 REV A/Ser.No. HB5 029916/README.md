@@ -313,7 +313,7 @@ From the [*Service Manual Model 1540/1541 Disk Drive*](https://refurbished-commo
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="800">
 </p>
 
-The measured resistance values from the R/W coil and Erase coil at connector [P8] are listed in the table below.
+The measured resistance values from the R/W coil and Erase coil at connector P8 are listed in the table below.
 
 <div align="center">
     
@@ -332,7 +332,7 @@ From the same service manual we can find the nominal values for the Stepper Moto
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/StepperMotor.png" alt="Description" width="700">
 </p>
  
-The measured resistance values from the Stepper motor coil at connector [P7] are listed in the table below.
+The measured resistance values from the Stepper motor coil at connector P7 are listed in the table below.
 
 <div align="center">
     
