@@ -9,6 +9,7 @@
 ![Name](https://img.shields.io/badge/Brand-ALPS-white?style=plastic)
 ![Name](https://img.shields.io/badge/Model-1541-white?style=plastic)
 
+
 # Table of contents
 
 <!-- TABLE OF CONTENTS -->
@@ -45,7 +46,7 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         <li>
-          <a href="#rw-coil-and-stepper-motor">RW Coil and Stepper Motor</a>
+          <a href="#rw-head-and-stepper-motor">RW Head and Stepper Motor</a>
         </li>
         </ul>
     </li>
@@ -285,7 +286,7 @@ The table below shows the version of this ALPS drive mechanism, step- and spindl
 
 </div>
 
-## RW Coil and Stepper Motor
+## RW Head and Stepper Motor
 
 It is good practice to measure the resistances found in the Read/Write (R/W) coil, the Erase coil and the Stepper motor. Even if initial testing shows that these seems to work as they should, it is good to know that the resistances measured are also within acceptable tolerances.
 
