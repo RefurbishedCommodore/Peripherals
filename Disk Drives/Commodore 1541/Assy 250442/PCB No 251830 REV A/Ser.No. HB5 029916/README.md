@@ -37,6 +37,9 @@
         <li>
           <a href="#cleaning-the-pcb">Cleaning the PCB</a>
         </li>
+        <li>
+          <a href="#voltages">Voltages</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -257,6 +260,20 @@ Below are some pictures of the mainboard after cleaning. Note that the QA sticke
 </p>
 
 <!-- MARK -->
+
+## Voltages
+
+The 1541 disk drive is supplied by two voltages; 12 VDC and 5 VDC. These are transformed, rectified an regulated inside the drive. In the table below the measured voltages are listed.
+
+<div align="center">
+    
+| Area | Target voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Regulated 5V | 5 VDC | 5.004 V | TBD| Measured at C5 |
+| Regulated 12V | 12 VDC | 12.27 V | TBD| Measured at C2 |
+
+</div>
+
 
 # Drive mechanics
 
