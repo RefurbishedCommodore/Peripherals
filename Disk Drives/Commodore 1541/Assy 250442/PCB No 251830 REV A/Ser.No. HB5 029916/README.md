@@ -51,6 +51,9 @@
         <li>
           <a href="#rw-head-and-stepper-motor">RW Head and Stepper Motor</a>
         </li>
+        <li>
+          <a href="#track-1-position">Track 1 position</a>
+        </li>
         </ul>
     </li>
   </ul>
@@ -353,8 +356,9 @@ As can be seen from the tables above all measured resistances are within accepta
 
 Another good practice is to check and measure the track 1 position. The nonimal value for the track 1 position is to be positioned with a gap of 0.35 mm (from full stop at track 0) as shown in the schematic below.
 
-
-
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/Track1.png" alt="Description" width="700">
+</p>
 
 <!-- MARK END-->
 
