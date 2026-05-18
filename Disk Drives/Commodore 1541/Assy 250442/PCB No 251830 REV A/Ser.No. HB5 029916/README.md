@@ -360,6 +360,12 @@ Another good practice is to check and measure the track 1 position. The nonimal 
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/Track1.png" alt="Description" width="700">
 </p>
 
+It is not trivial to measure exactly the gap, but with a leaf meter the gap is measured to be approximately 0.35 mm. See picture below.
+
+<p align="center">
+    <img src="Images/Drive03.jpeg" alt="Description" width="1000">
+</p>
+
 <!-- MARK END-->
 
 **Footnotes**
