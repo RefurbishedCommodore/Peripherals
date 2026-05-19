@@ -54,6 +54,9 @@
         <li>
           <a href="#track-1-position">Track 1 position</a>
         </li>
+        <li>
+          <a href="#removing-corrosion">Removing corrosion</a>
+        </li>
         </ul>
     </li>
   </ul>
@@ -359,7 +362,14 @@ It is not trivial to measure the gap exactly, but with a feeler gauge, the gap i
     <img src="Images/Drive03.jpeg" alt="Description" width="1000">
 </p>
 
+## Removing corrosion
+
+As mentioned previously, there is corrosion on the stepper motor casing and on the aluminium frame. To remove the corrosion, the area is first cleaned with isopropanol. Then vinegar is applied to the same area, which will stop the corrosion. Finally, the area is cleaned with a steel brush. This process is repeated several times. Below are some pictures after the corrosion has been removed (or at least most of it).
+
+
+
 <!-- MARK -->
+
 <!-- MARK END-->
 
 **Footnotes**
