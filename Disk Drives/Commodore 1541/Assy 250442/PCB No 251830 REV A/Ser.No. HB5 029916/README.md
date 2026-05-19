@@ -150,11 +150,9 @@ To remove the drive itself from the tray, the four Phillips screws[^7] (two on e
 
 # Initial testing
 
-<!-- MARK -->
+Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
 
-Initial testing of the 1541 floppy drive is done about midway during disassembly and after some initial cleaning of the PCB and the R/W head. This is to assess the state of the floppy drive and use this information as input to the refurbishment process.
-
-Below is a table of the results of this initial testing.
+Below is a table showing the results of this initial testing.
 
 <div align="center">
     
@@ -169,8 +167,6 @@ Below is a table of the results of this initial testing.
 | Head stop | Checking the position of track 0[^3] | PASSED | Track 0: "EXCELLENT" |
 
 </div>
-
-<!-- MARK END -->
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -262,11 +258,9 @@ Below are some pictures of the mainboard after cleaning. Note that the QA sticke
     <img src="Images/Main10.jpeg" alt="Description" width="1000">
 </p>
 
-<!-- MARK -->
-
 ## Voltages
 
-The 1541 disk drive is supplied by two voltages; 12 VDC and 5 VDC. These are transformed, rectified an regulated inside the drive. In the table below the measured voltages are listed.
+The 1541 disk drive is supplied by two voltages: 12 VDC and 5 VDC. These are transformed, rectified, and regulated inside the drive. The table below lists the measured voltages.
 
 <div align="center">
     
@@ -277,10 +271,9 @@ The 1541 disk drive is supplied by two voltages; 12 VDC and 5 VDC. These are tra
 
 </div>
 
-
 # Drive mechanics
 
-This floppy drive is equipped with the ALPS drive mechanism which reputedly is more reliable than Newtronics drive mechanism. Not of the mechanism itself, but the R/W head is less likely to go bad.
+This floppy drive is equipped with the ALPS drive mechanism, which is reputed to be more reliable than the Newtronics drive mechanism. Not necessarily because of the mechanism itself, but because the R/W head is less likely to fail.
 
 <p align="center">
     <img src="Images/Drive01.jpeg" alt="Description" width="1000">
@@ -292,9 +285,9 @@ This floppy drive is equipped with the ALPS drive mechanism which reputedly is m
 
 ## Visual inspection
 
-Beside the corrosion on the stepper motor, the drive seems to be in good condition. Hopefully, the corrosion is only on the surface of the metal cover on the stepper motor. Also, there is a significant amount of some sticky grease on several places on the aluminuim frame. The belt seems to be in quite good condition.
+Besides the corrosion on the stepper motor, the drive seems to be in good condition. Hopefully, the corrosion is only on the surface of the metal cover on the stepper motor. Also, there is a significant amount of sticky grease in several places on the aluminium frame. The belt seems to be in quite good condition.
 
-The table below shows the version of this ALPS drive mechanism, step- and spindle motor.
+The table below shows the versions of this ALPS drive mechanism, as well as the stepper and spindle motors.
 
 <div align="center">
     
@@ -308,15 +301,15 @@ The table below shows the version of this ALPS drive mechanism, step- and spindl
 
 ## RW Head and Stepper Motor
 
-It is good practice to measure the resistances found in the Read/Write (R/W) coil, the Erase coil and the Stepper motor. Even if initial testing shows that these seems to work as they should, it is good to know that the resistances measured are also within acceptable tolerances.
+It is good practice to measure the resistance of the Read/Write (R/W) coil, the erase coil, and the stepper motor. Even if initial testing shows that these appear to be working as they should, it is useful to confirm that the measured resistances are also within acceptable tolerances.
 
-From the [*Service Manual Model 1540/1541 Disk Drive*](https://refurbished-commodore.com/reference-documents) we can find the nominal values for the R/W coil and the Erase coil:
+From the [*Service Manual Model 1540/1541 Disk Drive*](https://refurbished-commodore.com/reference-documents), we can find the nominal values for the R/W coil and the erase coil:
 
 <p align="center">
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="800">
 </p>
 
-The measured resistance values from the R/W coil and Erase coil at connector P8 are listed in the table below.
+The measured resistance values of the R/W coil and erase coil at connector P8 are listed in the table below.
 
 <div align="center">
     
@@ -329,13 +322,13 @@ The measured resistance values from the R/W coil and Erase coil at connector P8 
 
 </div>
 
-From the same service manual we can find the nominal values for the Stepper Motor:
+From the same service manual, we can find the nominal values for the stepper motor:
 
 <p align="center">
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/StepperMotor.png" alt="Description" width="700">
 </p>
- 
-The measured resistance values from the Stepper motor coil at connector P7 are listed in the table below.
+
+The measured resistance values of the stepper motor coil at connector P7 are listed in the table below.
 
 <div align="center">
     
@@ -350,22 +343,23 @@ The measured resistance values from the Stepper motor coil at connector P7 are l
 
 </div>
 
-As can be seen from the tables above all measured resistances are within acceptable tolerances.
+As can be seen from the tables above, all measured resistances are within acceptable tolerances.
 
 ## Track 1 position
 
-Another good practice is to check and measure the track 1 position. The nonimal value for the track 1 position is to be positioned with a gap of 0.35 mm (from full stop at track 0) as shown in the schematic below.
+Another good practice is to check and measure the track 1 position. The nominal value for the track 1 position is a gap of 0.35 mm (from the full stop at track 0), as shown in the schematic below.
 
 <p align="center">
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/Track1.png" alt="Description" width="700">
 </p>
 
-It is not trivial to measure exactly the gap, but with a leaf meter the gap is measured to be approximately 0.35 mm. See picture below.
+It is not trivial to measure the gap exactly, but with a feeler gauge, the gap is measured to be approximately 0.35 mm. See the picture below.
 
 <p align="center">
     <img src="Images/Drive03.jpeg" alt="Description" width="1000">
 </p>
 
+<!-- MARK -->
 <!-- MARK END-->
 
 **Footnotes**
