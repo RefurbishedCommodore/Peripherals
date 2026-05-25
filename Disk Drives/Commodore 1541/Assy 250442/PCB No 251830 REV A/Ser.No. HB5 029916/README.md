@@ -65,6 +65,9 @@
         <li>
           <a href="#desoldering-the-cpu">Desoldering the CPU</a>
         </li>
+        <li>
+          <a href="#testing-the-dd3-installation">Testing the DD3 installation</a>
+        </li>
         </ul>
     </li>
   </ul>
@@ -429,11 +432,13 @@ A new 40 pin socket is installed in position UC4.
 
 ## Testing the DD3 installation
 
-Before the DD3 is installed permanently, it is installed for testing purposes as shown in the pictures below below. The jumper is left open, the narrow ribbon cable is connected to the User Port on the Commodore 64 and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
+Before the DD3 is installed permanently, it is installed for testing purposes as shown in the picture below below. The jumper is left open and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
 
 <p align="center">
     <img src="Images/DD3_07.jpeg" alt="Description" width="800">
 </p>
+
+The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kernal is installed on the Commodore 64.
 
 <p align="center">
     <img src="Images/DD3_08.jpeg" alt="Description" width="800">
