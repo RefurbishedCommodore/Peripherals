@@ -408,6 +408,10 @@ There are four things to notice about the DD3 PCBA:
 - One jumper which enable DD3 when open, and enable Standard ROM when closed
 - The MOS 6502 CPU IC is transferred from the 1541 mainboard to the DD3 PCBA
 
+<p align="center">
+    <img src="Images/DD3_03.jpeg" alt="Description" width="800">
+</p>
+
 ## Desoldering the CPU
 
 As noted in the *Visual Inspection* section the CPU in position UC4 is not socketed. So, the first thing to do in order to install the Dolphin DOS 3 is to desolder the MOS 6502 CPU. No traces or pads were damamged during desoldering. 
