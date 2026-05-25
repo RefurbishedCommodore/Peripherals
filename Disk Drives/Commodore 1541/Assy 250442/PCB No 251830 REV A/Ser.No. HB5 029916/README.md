@@ -394,9 +394,23 @@ As mentioned previously, there is corrosion on the stepper motor casing and on t
 
 It´s a bird... It´s a plane... It´s Dolphin DOS 3! Traditionally, the 1541 floppy drive is very slow. This is due to a non-optimised serial communication between the floppy drive and the Commodore 64. Luckily, there are something which often are referred to as "speeders" which utilize the User Port and parallell communication between the Commodore 64 and the 1541 floppy drive. Speeders can obtain loading times which are substantially faster than any other fast loader such as JiffyDOS, Action Replay etc.
 
+The Dolphin DOS3 (DD3) PCBA, which will be situated in the 1541 floppy drive, is shown in the pictures below.
+
+<p align="center" float="left">
+    <img src="Images/DD3_01.jpeg" alt="Description" width="500">
+    <img src="Images/DD3_02.jpeg" alt="Description" width="500">
+</p>
+
+There are four things to notice about the DD3 PCBA:
+
+- One large connector which connects to the 40 pin CPU socket on the 1541 mainboard
+- One smaller connector which connects to the User Port on the Commodore 64
+- One jumper which enable DD3 when open, and enable Standard ROM when closed
+- The MOS 6502 CPU IC is transferred from the 1541 mainboard to the DD3 PCBA
+
 ## Desoldering the CPU
 
-
+As noted in the *Visual Inspection* section the CPU in position UC4 is not socketed. So, the first thing to do in order to install the Dolphin DOS 3 is to desolder the MOS 6502 CPU. No traces or pads were damamged during desoldering. 
 
 <!-- MARK END-->
 
