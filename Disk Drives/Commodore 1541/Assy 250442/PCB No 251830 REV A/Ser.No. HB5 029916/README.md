@@ -432,7 +432,7 @@ A new 40 pin socket is installed in position UC4.
 
 ## Testing the DD3 installation
 
-Before the DD3 is installed permanently, it is installed for testing purposes as shown in the picture below below. The jumper is left open and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
+Before the DD3 is installed permanently, it is installed for testing purposes as shown in the picture below below. The jumper, JP1, is left open and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
 
 <p align="center">
     <img src="Images/DD3_07.jpeg" alt="Description" width="800">
