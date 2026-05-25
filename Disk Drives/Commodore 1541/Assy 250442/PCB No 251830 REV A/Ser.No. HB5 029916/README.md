@@ -427,6 +427,10 @@ A new 40 pin socket is installed in position UC4.
     <img src="Images/DD3_06.JPG" alt="Description" width="800">
 </p>
 
+## Testing the DD3 installation
+
+Before the DD3 is installed permanently, it is installed for testing purposes as shown in the pictures below below. The jumper is left open, the narrow ribbon cable is connected to the User Port on the Commodore 64 and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
+
 <!-- MARK END-->
 
 **Footnotes**
