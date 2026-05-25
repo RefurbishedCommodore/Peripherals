@@ -416,6 +416,17 @@ There are four things to notice about the DD3 PCBA:
 
 As noted in the *Visual Inspection* section the CPU in position UC4 is not socketed. So, the first thing to do in order to install the Dolphin DOS 3 is to desolder the MOS 6502 CPU. No traces or pads were damamged during desoldering. 
 
+<p align="center" float="left">
+    <img src="Images/DD3_05.JPG" alt="Description" width="500">
+    <img src="Images/DD3_04.JPG" alt="Description" width="500">
+</p>
+
+A new 40 pin socket is installed in position UC4.
+
+<p align="center">
+    <img src="Images/DD3_06.JPG" alt="Description" width="800">
+</p>
+
 <!-- MARK END-->
 
 **Footnotes**
