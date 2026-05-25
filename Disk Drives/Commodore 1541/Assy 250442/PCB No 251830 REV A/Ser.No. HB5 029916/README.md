@@ -59,6 +59,14 @@
         </li>
         </ul>
     </li>
+    <li>
+      <a href="#installing-dolphin-dos-3">Installing Dolphin DOS 3</a>
+        <ul>
+        <li>
+          <a href="#desoldering-the-cpu">Desoldering the CPU</a>
+        </li>
+        </ul>
+    </li>
   </ul>
 </details>
 
@@ -381,6 +389,14 @@ As mentioned previously, there is corrosion on the stepper motor casing and on t
 
 
 <!-- MARK -->
+
+# Installing Dolphin DOS 3
+
+It´s a bird... It´s a plane... It´s Dolphin DOS 3! Traditionally, the 1541 floppy drive is very slow. This is due to a non-optimised serial communication between the floppy drive and the Commodore 64. Luckily, there are something which often are referred to as "speeders" which utilize the User Port and parallell communication between the Commodore 64 and the 1541 floppy drive. Speeders can obtain loading times which are substantially faster than any other fast loader such as JiffyDOS, Action Replay etc.
+
+## Desoldering the CPU
+
+
 
 <!-- MARK END-->
 
