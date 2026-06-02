@@ -195,7 +195,6 @@ Below is a table showing the results of this initial testing.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
 # Mainboard
 
 The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "MDK 511HB". Below are some pictures of the mainboard before refurbishment.
@@ -295,6 +294,8 @@ The 1541 disk drive is supplied by two voltages: 12 VDC and 5 VDC. These are tra
 | Regulated 12V | 12 VDC | 12.27 V | TBD| Measured at C2 |
 
 </div>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Drive mechanics
 
@@ -401,6 +402,7 @@ As mentioned previously, there is corrosion on the stepper motor casing and on t
     <img src="Images/Drive06.jpeg" alt="Description" width="600">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK -->
 
@@ -455,6 +457,8 @@ The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kerna
     <img src="Images/DD3_08.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Casing
 
 Both the top and bottom cover are in good condition from a mechanical perspective. They are a bit dirty, or more precise: there is a thin layer of grease. And parts of the covers are slightly yellowed.
@@ -463,7 +467,19 @@ Both the top and bottom cover are in good condition from a mechanical perspectiv
 
 The covers are cleaned with mild soapy water. The cleaning process consists of placing the covers in this soapy water for a couple of days - this will dissolve most of the grease. Note that before the cleaning process the metal badge in front of the drive is removed. To remove the metal badge some hot air, from a hair dryer, is applied to the badge while at the same time it is pried off the cover using different spudges.
 
+Below are some pictures of the covers after cleaning and the removed badge.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="800">
+</p>
+
 ## Retrobrighting
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END-->
 
