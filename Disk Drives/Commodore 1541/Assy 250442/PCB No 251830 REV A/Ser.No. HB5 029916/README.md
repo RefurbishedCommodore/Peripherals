@@ -470,12 +470,19 @@ The covers are cleaned with mild soapy water. The cleaning process consists of p
 Below are some pictures of the covers after cleaning and the removed badge.
 
 <p align="center">
-    <img src="Images/Case_01.jpeg" alt="Description" width="800">
+    <img src="Images/Case01.jpeg" alt="Description" width="800">
 </p>
 
 <p align="center">
-    <img src="Images/Case_02.jpeg" alt="Description" width="800">
+    <img src="Images/Case02.jpeg" alt="Description" width="800">
 </p>
+
+And the removed metal badge.
+
+<p align="center">
+    <img src="Images/Case06.jpeg" alt="Description" width="800">
+</p>
+
 
 ## Retrobrighting
 
