@@ -70,6 +70,17 @@
         </li>
         </ul>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+        <ul>
+        <li>
+          <a href="#cleaning-the-covers">Cleaning the covers</a>
+        </li>
+        <li>
+          <a href="#retrobrighting">Retrobrighting</a>
+        </li>
+        </ul>
+    </li>      
   </ul>
 </details>
 
@@ -98,10 +109,10 @@ Below are some pictures of the drive before refurbishment.
 
 The planned refurbishment activities for this Commodore 1541 Single Drive Floppy Disk (order may vary; several activities may be performed in parallel):
 
-- [ ]Refurbish the mainboard
-- [ ]Refurbish the casing
-- [ ]Refurbish the internal mechanics
+- [x]Refurbish the mainboard
+- [x]Refurbish the internal mechanics
 - [ ]Install the Dolphin DOS 3.0 speeder
+- [ ]Refurbish the casing
 - [ ]Testing and validation
 
 The plan may be updated during the refurbishment process. Sometimes I discover areas that need special attention.
@@ -443,6 +454,17 @@ The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kerna
 <p align="center">
     <img src="Images/DD3_08.jpeg" alt="Description" width="800">
 </p>
+
+# Casing
+
+Both the top and bottom cover are in good condition from a mechanical perspective. They are a bit dirty, or more precise: there is a thin layer of grease. And parts of the covers are slightly yellowed.
+
+## Cleaning the covers
+
+The covers are cleaned with mild soapy water. The cleaning process consists of placing the covers in this soapy water for a couple of days - this will dissolve most of the grease. Note that before the cleaning process the metal badge in front of the drive is removed. To remove the metal badge some hot air, from a hair dryer, is applied to the badge while at the same time it is pried off the cover using different spudges.
+
+## Retrobrighting
+
 <!-- MARK END-->
 
 **Footnotes**
