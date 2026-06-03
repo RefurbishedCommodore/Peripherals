@@ -494,7 +494,10 @@ The covers are not severly yellowed, but there are areas where the yellowing is 
 
 The result of retrobrighting is quite good. It is not perfect, but I think the result after is way better than how the covers looked before.
 
-
+<p align="center" float="left">
+    <img src="Images/Case03.jpeg" alt="Description" width="500">
+    <img src="Images/Case05.jpeg" alt="Description" width="500">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
