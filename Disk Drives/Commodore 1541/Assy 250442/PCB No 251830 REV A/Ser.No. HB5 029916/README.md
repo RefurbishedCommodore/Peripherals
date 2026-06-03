@@ -486,6 +486,9 @@ And the removed metal badge.
 
 ## Retrobrighting
 
+The covers are not severly yellowed, but there are areas where the yellowing is present. So, both the top and bottom covers are retrobrighted using 12 % hydrogen peroxide cream, and exposing them to UV-light for about 12 hours. **NOTE**: Before retrobrighting the rubber feet are removed. If these are present during retrobright they will become "mushy".
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END-->
