@@ -508,6 +508,10 @@ The result of retrobrighting is quite good. It is not perfect, but I think the r
 
 To allow for the flat parallel cable to exit the casing, the area above the AC power intake on the top cover is filed down.
 
+<p align="center" float="left">
+    <img src="Images/Case08.jpeg" alt="Description" width="500">
+    <img src="Images/Case07.jpeg" alt="Description" width="500">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
