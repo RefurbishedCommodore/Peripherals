@@ -79,10 +79,15 @@
         <li>
           <a href="#retrobrighting">Retrobrighting</a>
         </li>
+        <li>
+          <a href="#retrofitting-the-parallel-cable">Retrofitting the parallel cable</a>
+        </li>
         </ul>
     </li>      
   </ul>
 </details>
+
+
 
 # Starting point
 
@@ -498,6 +503,12 @@ The result of retrobrighting is quite good. It is not perfect, but I think the r
     <img src="Images/Case03.jpeg" alt="Description" width="500">
     <img src="Images/Case05.jpeg" alt="Description" width="500">
 </p>
+
+## Retrofitting the parallel cable
+
+To allow for the flat parallel cable to exit the casing, the area above the AC power intake on the top cover is filed down.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
