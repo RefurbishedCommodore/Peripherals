@@ -513,6 +513,12 @@ To allow for the flat parallel cable to exit the casing, the area above the AC p
     <img src="Images/Case07.jpeg" alt="Description" width="500">
 </p>
 
+As a strain relief mechanism the flat ribbon cable is routed beneath the mainboard PCB and above the AC intake. In addition some hot glue is applied which should give some addition strain relief.
+
+<p align="center">
+    <img src="Images/Case09.jpeg" alt="Description" width="800">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
