@@ -68,6 +68,9 @@
         <li>
           <a href="#testing-the-dd3-installation">Testing the DD3 installation</a>
         </li>
+        <li>
+          <a href="#retrofitting-the-dd3-pcb">Retrofitting the DD3 PCB</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -461,6 +464,10 @@ The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kerna
 <p align="center">
     <img src="Images/DD3_08.jpeg" alt="Description" width="800">
 </p>
+
+## Retrofitting the DD3 PCB
+
+As easy as it might sound, retrofitting the DD3 PCB is not trivial. 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
