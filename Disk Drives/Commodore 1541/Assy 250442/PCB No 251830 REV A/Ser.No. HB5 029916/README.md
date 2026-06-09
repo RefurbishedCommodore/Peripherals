@@ -467,7 +467,10 @@ The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kerna
 
 ## Retrofitting the DD3 PCB
 
-As easy as it might sound, retrofitting the DD3 PCB is not trivial. 
+As easy as it might sound, retrofitting the DD3 PCB is not trivial. There are multiple things to consider when findind a suitable place for the PCB:
+
+- Parallel cable length: the ribbon cable from the 1541 drive to the C64 is already short (to avoid data loss). If the PCB is placed close to the front of the drive the cable will be shorter. Also, if the PCB is rotated to that the ribbon cable connector faces to the side of the drive, the cable will be even shorter.
+- CPU cable interference: the large ribbon cable connecting the DD3 PCB to the CPU socket on the mainboard is susceptible to interference.  
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
