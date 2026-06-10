@@ -579,9 +579,9 @@ In the table below are the results from the testing using normal CBM DOS and CBM
     
 | Test | Description | Passed/Failed | Comment |
 |:----------:|:----------:|:----------:|:----------:|
-| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | TBD |  |
-| Loading: DIRECTORY | Loading a directory from BASIC[^1] | TBD | |
-| Loading: FILE | Loading a file from BASIC[^1] | TBD | |
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^1] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^1] | PASSED | |
 | Rotation speed | Rotation speed should be 300 RPM[^2] | TBD | TBD RPM|
 | Performance | Checking basic functionality such as[^2]:<br>FORMAT, LOAD, WRITE| TBD | |
 | Alignment | Checking R/W track alignment[^3] | TBD | Track 1-35: "SATISFACTORY" |
