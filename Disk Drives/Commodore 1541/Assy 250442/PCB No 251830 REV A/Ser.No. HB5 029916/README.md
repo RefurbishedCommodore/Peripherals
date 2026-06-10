@@ -589,6 +589,18 @@ In the table below are the results from the testing using normal CBM DOS and CBM
 
 </div>
 
+In the table below are the results from testing using selected speeder ROMs on both CPU and drive side. Software being used is the 64´er floppy-speed-tester.
+
+<div align="center">
+    
+| Action | Time | Factor | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Picture show | 00:34 | N/A |  |
+
+</div>
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END-->
