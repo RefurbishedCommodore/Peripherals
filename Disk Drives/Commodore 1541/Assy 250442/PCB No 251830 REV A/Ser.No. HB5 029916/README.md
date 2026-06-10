@@ -605,7 +605,7 @@ In the table below are the results from testing using selected speeder ROMs on b
 | Validate | 00:09.6 | 6.88 |  |
 | Scratch files | 00:12.5 | 5.52 |  |
 | Data transfer | 00:06.9 | 10.43 |  |
-| 64´er-factor |   | 11.4.2 |  |
+| 64´er-factor |   | 11.4 |  |
 
 
 
