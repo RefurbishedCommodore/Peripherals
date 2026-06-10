@@ -494,6 +494,14 @@ A nice, and important, feature with the Dolphin DOS3 (DD3) is that it can both r
 
 To avoid having to open the drive to select which ROM kernal to use a small microswitch is installed. The microswitch requires a 6 mm hole to be drilled in the front of the drive (right hand side). Two Dupont wires are attached to the jumper and soldered to the switch.
 
+<p align="center" float="left">
+    <img src="Images/DD3_11.jpeg" alt="Description" width="500">
+    <img src="Images/DD3_12.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/DD3_13.jpeg" alt="Description" width="800">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
