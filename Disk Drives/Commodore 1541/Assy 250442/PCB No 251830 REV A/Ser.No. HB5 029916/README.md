@@ -596,16 +596,16 @@ In the table below are the results from testing using selected speeder ROMs on b
 | Action | Time | Factor | Comment |
 |:----------:|:----------:|:----------:|:----------:|
 | Picture show | 00:34 | N/A |  |
-| Format | 00:19.4 | 3.84 |  |
+| Format | 00:19.3 | 3.86 |  |
 | Program LOAD | 00:09.6 | 14.27 |  |
-| Program SAVE | 00:01.4 | 90.71 |  |
+| Program SAVE | 00:04.8 | 26.46 |  |
 | SEQ WRITE | 00:13.9 | 6.19 |  |
-| SEQ READ | 00:08.4 | 9.05 |  |
-| REL CREATE | 01:52.0 | 1.05 |  |
-| Validate | 00:58.2 | 1.13 |  |
-| Scratch files | 00:29.0 | 2.38 |  |
-| Data transfer | 00:07.9 | 9.11 |  |
-| 64´er-factor |   | 22.2 |  |
+| SEQ READ | 00:08.3 | 9.16 |  |
+| REL CREATE | 00:43.5 | 2.71 |  |
+| Validate | 00:09.6 | 6.88 |  |
+| Scratch files | 00:12.5 | 5.52 |  |
+| Data transfer | 00:06.9 | 10.43 |  |
+| 64´er-factor |   | 11.4.2 |  |
 
 
 
