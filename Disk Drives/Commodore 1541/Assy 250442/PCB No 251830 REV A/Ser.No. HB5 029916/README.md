@@ -469,8 +469,22 @@ The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kerna
 
 As easy as it might sound, retrofitting the DD3 PCB is not trivial. There are multiple things to consider when findind a suitable place for the PCB:
 
+- CPU cable interference: the large ribbon cable connecting the DD3 PCB to the CPU socket on the mainboard is susceptible to interference.
+
 - Parallel cable length: the ribbon cable from the 1541 drive to the C64 is already short (to avoid data loss). If the PCB is placed close to the front of the drive the cable will be shorter. Also, if the PCB is rotated to that the ribbon cable connector faces to the side of the drive, the cable will be even shorter.
-- CPU cable interference: the large ribbon cable connecting the DD3 PCB to the CPU socket on the mainboard is susceptible to interference.  
+
+To reduce the electromagnetic field interfering with the CPU ribbon cable, a RF-shield contraption is made. The RF-shield is made out of an old Commodore 64 RF-shield, and wrapped in insulating tape.
+
+<p align="center">
+    <img src="Images/DD3_09.jpeg" alt="Description" width="800">
+</p>
+
+With the RF-shield in place the Dolplhin DOS3 PCB is placed on the top of the 1541 mainboard with the parallel cable pointing towards the end of the drive. The CPU ribbon cable is placed over the RF-shield contraption, and folded downwards the gap between the outer 1541 bottom cover and the inner drive "chassis".
+
+<p align="center">
+    <img src="Images/DD3_10.jpeg" alt="Description" width="800">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
