@@ -596,6 +596,8 @@ In the table below are the results from testing using selected speeder ROMs on b
 | Action | Time | Factor | Comment |
 |:----------:|:----------:|:----------:|:----------:|
 | Picture show | 00:34 | N/A |  |
+| Format | 00:18.6 | 4.01 |  |
+
 
 </div>
 
