@@ -71,6 +71,9 @@
         <li>
           <a href="#retrofitting-the-dd3-pcb">Retrofitting the DD3 PCB</a>
         </li>
+        <li>
+          <a href="#installing-the-drive-rom-switch">Installing the drive ROM switch</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -484,6 +487,13 @@ With the RF-shield in place the Dolplhin DOS3 PCB is placed on the top of the 15
 <p align="center">
     <img src="Images/DD3_10.jpeg" alt="Description" width="800">
 </p>
+
+## Installing the drive ROM switch
+
+A nice, and important, feature with the Dolphin DOS3 (DD3) is that it can both run the DD3 ROM Kernal and the standard Commodore 1541 ROM Kernal. To switch between these two ROM Kernals a selector jumper on the PCB can be OPEN/CLOSED to select which of these the drive will use. In OPEN position the DD3 ROM is selected, and in CLOSED position the Commodore 1541 ROM is selected.
+
+To avoid having to open the drive to select which ROM kernal to use a small microswitch is installed. The microswitch requires a 6 mm hole to be drilled in the front of the drive (right hand side). Two Dupont wires are attached to the jumper and soldered to the switch.
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
