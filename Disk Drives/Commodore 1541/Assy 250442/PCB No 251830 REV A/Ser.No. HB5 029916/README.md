@@ -584,8 +584,8 @@ In the table below are the results from the testing using normal CBM DOS and CBM
 | Loading: FILE | Loading a file from BASIC[^1] | PASSED | |
 | Rotation speed | Rotation speed should be 300 RPM[^2] | FAILED | 297.8 RPM|
 | Performance | Checking basic functionality such as[^2]:<br>FORMAT, LOAD, WRITE| PASSED | |
-| Alignment | Checking R/W track alignment[^3] | TBD | Track 1-35: "SATISFACTORY" |
-| Head stop | Checking the position of track 0[^3] | TBD | Track 0: "EXCELLENT" |
+| Alignment | Checking R/W track alignment[^3] | PASSED | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^3] | PASSED | Track 0: "EXCELLENT" |
 
 </div>
 
