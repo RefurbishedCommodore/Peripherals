@@ -90,6 +90,9 @@
         </li>
         </ul>
     </li>      
+    <li>
+      <a href="#testing">Testing</a>
+    </li>
   </ul>
 </details>
 
@@ -561,6 +564,16 @@ As a strain relief mechanism the flat ribbon cable is routed beneath the mainboa
     <img src="Images/Case09.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# Testing
+
+The proof is in the pudding—does it work?
+
+The purpose of this stage is to test, and verify, that the 1541 floppy disk drive works as it should. Basic functionality that was tested earlier are re-tested and verified. A combination of software tools are used in this process - please see description of [tools](https://refurbished-commodore.com/tools).
+
+In the table below are the results from the testing using normal CBM DOS and CBM Kernal.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
