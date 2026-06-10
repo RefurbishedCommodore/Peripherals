@@ -575,6 +575,20 @@ The purpose of this stage is to test, and verify, that the 1541 floppy disk driv
 
 In the table below are the results from the testing using normal CBM DOS and CBM Kernal.
 
+<div align="center">
+    
+| Test | Description | Passed/Failed | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | TBD |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^1] | TBD | |
+| Loading: FILE | Loading a file from BASIC[^1] | TBD | |
+| Rotation speed | Rotation speed should be 300 RPM[^2] | TBD | TBD RPM|
+| Performance | Checking basic functionality such as[^2]:<br>FORMAT, LOAD, WRITE| TBD | |
+| Alignment | Checking R/W track alignment[^3] | TBD | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^3] | TBD | Track 0: "EXCELLENT" |
+
+</div>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END-->
