@@ -500,7 +500,7 @@ To avoid having to open the drive to select which ROM kernal to use a small micr
 </p>
 
 <p align="center">
-    <img src="Images/DD3_13.jpeg" alt="Description" width="800">
+    <img src="Images/DD3_13.jpeg" alt="Description" width="600">
 </p>
 
 
