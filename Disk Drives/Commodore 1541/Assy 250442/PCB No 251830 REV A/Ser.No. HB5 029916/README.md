@@ -93,6 +93,9 @@
     <li>
       <a href="#testing">Testing</a>
     </li>
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
   </ul>
 </details>
 
@@ -614,6 +617,15 @@ In the table below are the results from testing using selected speeder ROMs on b
 (*) A video showing the picture show can be found [here](https://youtu.be/jHJzYiJmzKw).
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Final result
+
+<div align="center">
+
+*"A picture is worth a thousand words"*
+
+Below is a collection of pictures of the final result of the refurbishment of this 1541. Hope you like it! Click to enlarge!
+
 
 <!-- MARK END-->
 
