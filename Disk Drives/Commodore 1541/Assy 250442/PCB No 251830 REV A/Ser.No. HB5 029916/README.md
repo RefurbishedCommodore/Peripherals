@@ -582,12 +582,14 @@ In the table below are the results from the testing using normal CBM DOS and CBM
 | Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
 | Loading: DIRECTORY | Loading a directory from BASIC[^1] | PASSED | |
 | Loading: FILE | Loading a file from BASIC[^1] | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM[^2] | FAILED | 297.8 RPM|
+| Rotation speed | Rotation speed should be 300 RPM[^2] | FAILED(*) | 297.8 RPM|
 | Performance | Checking basic functionality such as[^2]:<br>FORMAT, LOAD, WRITE| PASSED | |
 | Alignment | Checking R/W track alignment[^3] | PASSED | Track 1-35: "SATISFACTORY" |
 | Head stop | Checking the position of track 0[^3] | PASSED | Track 0: "EXCELLENT" |
 
 </div>
+
+(*) The rotational speed should be 300 RPM, but is measured to be 297.8 RPM. The test is therefore set as "FAILED". Nevertheless, the 1541 drive seems to be working just fine. I can not find anything wrong that could indicate that the rotatinal speed is a bit low. So, I will leave the rotational speed as it is. If it turns our later that this is a problem the speed can be adjusted.
 
 In the table below are the results from testing using selected speeder ROMs on both CPU and drive side. Software being used is the 64´er floppy-speed-tester.
 
@@ -595,7 +597,7 @@ In the table below are the results from testing using selected speeder ROMs on b
     
 | Action | Time | Factor | Comment |
 |:----------:|:----------:|:----------:|:----------:|
-| Picture show | 00:34 | N/A |  |
+| Picture show(*) | 00:34 | N/A |  |
 | Format | 00:19.3 | 3.86 |  |
 | Program LOAD | 00:09.6 | 14.27 |  |
 | Program SAVE | 00:04.8 | 26.46 |  |
@@ -607,11 +609,9 @@ In the table below are the results from testing using selected speeder ROMs on b
 | Data transfer | 00:06.9 | 10.43 |  |
 | 64´er-factor |   | 11.4 |  |
 
-
-
 </div>
 
-
+(*) A video showing the picture show can be found [here](https://youtu.be/jHJzYiJmzKw).
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
