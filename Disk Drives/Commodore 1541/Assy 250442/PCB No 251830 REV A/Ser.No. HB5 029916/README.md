@@ -642,6 +642,14 @@ Below is a collection of pictures of the final result of the refurbishment of th
     <img src="Images/Final_04.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center">
+    <img src="Images/Final_05.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_06.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK END-->
 
 **Footnotes**
