@@ -434,15 +434,12 @@ The Dolphin DOS 3 (DD3) PCB, which will be installed inside the 1541 floppy driv
     <img src="Images/DD3_02.jpeg" alt="Description" width="500">
 </p>
 
-<!-- MARK -->
+There are four things to note about the DD3 PCB:
 
-
-There are four things to notice about the DD3 PCBA:
-
-- One large connector which connects to the 40 pin CPU socket on the 1541 mainboard
-- One smaller connector which connects to the User Port on the Commodore 64
-- One jumper which enable DD3 when open, and enable Standard ROM when closed
-- The MOS 6502 CPU IC is transferred from the 1541 mainboard to the DD3 PCBA
+- A large connector that connects to the 40-pin CPU socket on the 1541 mainboard.
+- A smaller connector that connects to the user port on the Commodore 64.
+- A jumper that enables DD3 when open and enables the standard ROM when closed.
+- The MOS 6502 CPU IC is transferred from the 1541 mainboard to the DD3 PCB.
 
 <p align="center">
     <img src="Images/DD3_03.jpeg" alt="Description" width="800">
@@ -450,14 +447,16 @@ There are four things to notice about the DD3 PCBA:
 
 ## Desoldering the CPU
 
-As noted in the *Visual Inspection* section the CPU in position UC4 is not socketed. So, the first thing to do in order to install the Dolphin DOS 3 is to desolder the MOS 6502 CPU. No traces or pads were damamged during desoldering. 
+As noted in the *Visual Inspection* section, the CPU in position UC4 is not socketed. Therefore, the first step in installing Dolphin DOS 3 is to desolder the MOS 6502 CPU.
+
+No traces or pads were damaged during the desoldering process.
 
 <p align="center" float="left">
     <img src="Images/DD3_05.JPG" alt="Description" width="500">
     <img src="Images/DD3_04.JPG" alt="Description" width="500">
 </p>
 
-A new 40 pin socket is installed in position UC4.
+A new 40-pin socket is installed in position UC4.
 
 <p align="center">
     <img src="Images/DD3_06.JPG" alt="Description" width="800">
@@ -465,17 +464,20 @@ A new 40 pin socket is installed in position UC4.
 
 ## Testing the DD3 installation
 
-Before the DD3 is installed permanently, it is installed for testing purposes as shown in the picture below below. The jumper, JP1, is left open and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
+Before the DD3 is installed permanently, it is temporarily installed for testing purposes, as shown in the picture below. The jumper, JP1, is left open, and the wide ribbon cable is connected to the UC4 socket on the 1541 mainboard.
 
 <p align="center">
     <img src="Images/DD3_07.jpeg" alt="Description" width="800">
 </p>
 
-The narrow ribbon cable is connected to the User Port, and Dolphin DOS 3.0 Kernal is installed on the Commodore 64.
+The narrow ribbon cable is connected to the user port, and the Dolphin DOS 3.0 Kernal is installed in the Commodore 64.
 
 <p align="center">
     <img src="Images/DD3_08.jpeg" alt="Description" width="800">
 </p>
+
+<!-- MARK -->
+
 
 ## Retrofitting the DD3 PCB
 
