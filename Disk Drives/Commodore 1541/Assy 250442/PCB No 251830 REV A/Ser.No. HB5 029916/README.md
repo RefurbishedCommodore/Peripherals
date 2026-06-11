@@ -626,6 +626,21 @@ In the table below are the results from testing using selected speeder ROMs on b
 
 Below is a collection of pictures of the final result of the refurbishment of this 1541. Hope you like it! Click to enlarge!
 
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_02.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_04.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK END-->
 
