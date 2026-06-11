@@ -421,18 +421,21 @@ As mentioned previously, there is corrosion on the stepper motor casing and on t
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK -->
-
 # Installing Dolphin DOS 3
 
-It´s a bird... It´s a plane... It´s Dolphin DOS 3! Traditionally, the 1541 floppy drive is very slow. This is due to a non-optimised serial communication between the floppy drive and the Commodore 64. Luckily, there are something which often are referred to as "speeders" which utilize the User Port and parallell communication between the Commodore 64 and the 1541 floppy drive. Speeders can obtain loading times which are substantially faster than any other fast loader such as JiffyDOS, Action Replay etc.
+It’s a bird... It’s a plane... It’s Dolphin DOS 3!
 
-The Dolphin DOS3 (DD3) PCBA, which will be situated in the 1541 floppy drive, is shown in the pictures below.
+Traditionally, the 1541 floppy drive is very slow. This is due to the non-optimised serial communication between the floppy drive and the Commodore 64. Luckily, there are solutions often referred to as speeders that utilise the user port and parallel communication between the Commodore 64 and the 1541 floppy drive. These speeders can achieve loading times that are substantially faster than those obtained with other fast-load systems such as JiffyDOS or Action Replay.
+
+The Dolphin DOS 3 (DD3) PCB, which will be installed inside the 1541 floppy drive, is shown in the pictures below.
 
 <p align="center" float="left">
     <img src="Images/DD3_01.jpeg" alt="Description" width="500">
     <img src="Images/DD3_02.jpeg" alt="Description" width="500">
 </p>
+
+<!-- MARK -->
+
 
 There are four things to notice about the DD3 PCBA:
 
