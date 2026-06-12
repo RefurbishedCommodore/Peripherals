@@ -476,24 +476,21 @@ The narrow ribbon cable is connected to the user port, and the Dolphin DOS 3.0 K
     <img src="Images/DD3_08.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK -->
-
-
 ## Retrofitting the DD3 PCB
 
-As easy as it might sound, retrofitting the DD3 PCB is not trivial. There are multiple things to consider when findind a suitable place for the PCB:
+As easy as it might sound, retrofitting the DD3 PCB is not trivial. There are several things to consider when finding a suitable location for the PCB:
 
-- CPU cable interference: the large ribbon cable connecting the DD3 PCB to the CPU socket on the mainboard is susceptible to interference.
+- CPU cable interference: The wide ribbon cable connecting the DD3 PCB to the CPU socket on the mainboard is susceptible to electromagnetic interference.
 
-- Parallel cable length: the ribbon cable from the 1541 drive to the C64 is already short (to avoid data loss). If the PCB is placed close to the front of the drive the cable will be shorter. Also, if the PCB is rotated to that the ribbon cable connector faces to the side of the drive, the cable will be even shorter.
+- Parallel cable length: The ribbon cable connecting the 1541 drive to the Commodore 64 is intentionally kept short to minimise the risk of data corruption. If the PCB is placed closer to the front of the drive, the cable can be made shorter. Furthermore, if the PCB is rotated so that the ribbon cable connector faces the side of the drive, the cable length can be reduced even further.
 
-To reduce the electromagnetic field interfering with the CPU ribbon cable, a RF-shield contraption is made. The RF-shield is made out of an old Commodore 64 RF-shield, and wrapped in insulating tape.
+To reduce the electromagnetic interference affecting the CPU ribbon cable, a custom RF-shielding contraption is fabricated. The shield is made from an old Commodore 64 RF shield and wrapped in insulating tape.
 
 <p align="center">
     <img src="Images/DD3_09.jpeg" alt="Description" width="800">
 </p>
 
-With the RF-shield in place the Dolplhin DOS3 PCB is placed on the top of the 1541 mainboard with the parallel cable pointing towards the end of the drive. The CPU ribbon cable is placed over the RF-shield contraption, and folded downwards the gap between the outer 1541 bottom cover and the inner drive "chassis".
+With the RF shield in place, the Dolphin DOS 3 PCB is positioned on top of the 1541 mainboard with the parallel cable pointing towards the rear of the drive. The CPU ribbon cable is routed over the RF-shielding contraption and folded down through the gap between the outer 1541 bottom cover and the inner drive chassis.
 
 <p align="center">
     <img src="Images/DD3_10.jpeg" alt="Description" width="800">
@@ -501,9 +498,9 @@ With the RF-shield in place the Dolplhin DOS3 PCB is placed on the top of the 15
 
 ## Installing the drive ROM switch
 
-A nice, and important, feature with the Dolphin DOS3 (DD3) is that it can both run the DD3 ROM Kernal and the standard Commodore 1541 ROM Kernal. To switch between these two ROM Kernals a selector jumper on the PCB can be OPEN/CLOSED to select which of these the drive will use. In OPEN position the DD3 ROM is selected, and in CLOSED position the Commodore 1541 ROM is selected.
+A nice, and important, feature of Dolphin DOS 3 (DD3) is that it can run both the DD3 ROM Kernal and the standard Commodore 1541 ROM Kernal. Switching between these two ROMs is normally done using a selector jumper on the PCB. When the jumper is open, the DD3 ROM is selected; when it is closed, the standard Commodore 1541 ROM is selected.
 
-To avoid having to open the drive to select which ROM kernal to use a small microswitch is installed. The microswitch requires a 6 mm hole to be drilled in the front of the drive (right hand side). Two Dupont wires are attached to the jumper and soldered to the switch.
+To avoid having to open the drive each time a different ROM is required, a small microswitch is installed. The microswitch requires a 6 mm hole to be drilled in the front of the drive (on the right-hand side). Two Dupont wires are connected to the jumper and soldered to the switch.
 
 <p align="center" float="left">
     <img src="Images/DD3_11.jpeg" alt="Description" width="500">
@@ -514,18 +511,19 @@ To avoid having to open the drive to select which ROM kernal to use a small micr
     <img src="Images/DD3_13.jpeg" alt="Description" width="600">
 </p>
 
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
 
-Both the top and bottom cover are in good condition from a mechanical perspective. They are a bit dirty, or more precise: there is a thin layer of grease. And parts of the covers are slightly yellowed.
+Both the top and bottom covers are in good condition from a mechanical perspective. They are a bit dirty, or more precisely, covered with a thin layer of grease. Parts of the covers are also slightly yellowed.
 
 ## Cleaning the covers
 
-The covers are cleaned with mild soapy water. The cleaning process consists of placing the covers in this soapy water for a couple of days - this will dissolve most of the grease. Note that before the cleaning process the metal badge in front of the drive is removed. To remove the metal badge some hot air, from a hair dryer, is applied to the badge while at the same time it is pried off the cover using different spudges.
+The covers are cleaned with mild soapy water. The cleaning process consists of soaking the covers in the soapy water for a couple of days, which dissolves most of the grease.
 
-Below are some pictures of the covers after cleaning and the removed badge.
+Note that the metal badge on the front of the drive is removed before cleaning begins. To remove the badge, hot air from a hair dryer is applied while it is carefully pried off the cover using a selection of spudgers.
+
+Below are some pictures of the covers after cleaning, along with the removed badge.
 
 <p align="center">
     <img src="Images/Case01.jpeg" alt="Description" width="800">
@@ -541,14 +539,17 @@ And the removed metal badge.
     <img src="Images/Case06.jpeg" alt="Description" width="800">
 </p>
 
-
 ## Retrobrighting
 
-The covers are not severly yellowed, but there are areas where the yellowing is present. So, both the top and bottom covers are retrobrighted using 12 % hydrogen peroxide cream, and exposing them to UV-light for about 12 hours. **NOTE**: Before retrobrighting the rubber feet are removed. If these are present during retrobright they will become "mushy".
+The covers are not severely yellowed, but there are areas where some yellowing is present. Therefore, both the top and bottom covers are retrobrighted using 12% hydrogen peroxide cream and exposed to UV light for about 12 hours.
+
+**Note:** Before retrobrighting, the rubber feet are removed. If they are left in place during the process, they can become soft and "mushy".
 
 <p align="center">
     <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
+
+<!-- MARK -->
 
 The result of retrobrighting is quite good. It is not perfect, but I think the result after is way better than how the covers looked before.
 
