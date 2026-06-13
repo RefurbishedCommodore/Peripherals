@@ -549,9 +549,7 @@ The covers are not severely yellowed, but there are areas where some yellowing i
     <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK -->
-
-The result of retrobrighting is quite good. It is not perfect, but I think the result after is way better than how the covers looked before.
+The result of the retrobrighting is quite good. It is not perfect, but I think the covers look much better than they did before.
 
 <p align="center" float="left">
     <img src="Images/Case03.jpeg" alt="Description" width="500">
@@ -560,14 +558,14 @@ The result of retrobrighting is quite good. It is not perfect, but I think the r
 
 ## Retrofitting the parallel cable
 
-To allow for the flat parallel cable to exit the casing, the area above the AC power intake on the top cover is filed down.
+To allow the flat parallel cable to exit the casing, the area above the AC power inlet on the top cover is carefully filed down.
 
 <p align="center" float="left">
     <img src="Images/Case08.jpeg" alt="Description" width="500">
     <img src="Images/Case07.jpeg" alt="Description" width="500">
 </p>
 
-As a strain relief mechanism the flat ribbon cable is routed beneath the mainboard PCB and above the AC intake. In addition some hot glue is applied which should give some addition strain relief.
+As a strain-relief mechanism, the flat ribbon cable is routed beneath the mainboard PCB and above the AC power inlet. In addition, some hot glue is applied to provide extra strain relief.
 
 <p align="center">
     <img src="Images/Case09.jpeg" alt="Description" width="800">
@@ -578,11 +576,12 @@ As a strain relief mechanism the flat ribbon cable is routed beneath the mainboa
 
 # Testing
 
-The proof is in the pudding—does it work?
+The proof is in the pudding — does it work?
 
-The purpose of this stage is to test, and verify, that the 1541 floppy disk drive works as it should. Basic functionality that was tested earlier are re-tested and verified. A combination of software tools are used in this process - please see description of [tools](https://refurbished-commodore.com/tools).
+The purpose of this stage is to test and verify that the 1541 floppy disk drive works as it should. The basic functionality tested earlier is re-tested and verified. A combination of software tools is used in this process; please see the description of the [tools](https://refurbished-commodore.com/tools).
 
-In the table below are the results from the testing using normal CBM DOS and CBM Kernal.
+The table below shows the results of the testing performed using the standard CBM DOS and CBM Kernal.
+
 
 <div align="center">
     
@@ -598,9 +597,9 @@ In the table below are the results from the testing using normal CBM DOS and CBM
 
 </div>
 
-(*) The rotational speed should be 300 RPM, but is measured to be 297.8 RPM. The test is therefore set as "FAILED". Nevertheless, the 1541 drive seems to be working just fine. I can not find anything wrong that could indicate that the rotatinal speed is a bit low. So, I will leave the rotational speed as it is. If it turns our later that this is a problem the speed can be adjusted.
+(*) The rotational speed should be 300 RPM, but it was measured at 297.8 RPM. The test is therefore marked as "FAILED". Nevertheless, the 1541 drive appears to be working just fine. I cannot find anything that would indicate that the slightly low rotational speed is causing any issues. Therefore, I will leave the rotational speed as it is. If it turns out later that this becomes a problem, the speed can be adjusted.
 
-In the table below are the results from testing using selected speeder ROMs on both CPU and drive side. Software being used is the 64´er floppy-speed-tester.
+The table below shows the results of testing performed using selected speeder ROMs on both the computer and drive sides. The software used for this testing is the 64'er Floppy Speed Tester.
 
 <div align="center">
     
@@ -656,6 +655,7 @@ Below is a collection of pictures of the final result of the refurbishment of th
     <img src="Images/Final_06.jpeg" alt="Description" width="800">
 </p>
 
+<!-- MARK -->
 <!-- MARK END-->
 
 **Footnotes**
