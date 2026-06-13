@@ -31,7 +31,7 @@
 
 Another nice-looking Commodore 1541 Single Drive Floppy Disk in for some TLC! But only that... a Professional DOS speeder will also be installed. It is expected to be fully working from the start, but it will be tested thoroughly during the refurbishment.
 
-It appears to be in good condition. I cannot see any signs of damage. There are some occasional marks, but nothing serious. There are signs of some dust on the inside, but very little.
+It appears to be in good condition. I cannot see any signs of damage. There are some occasional marks, but nothing serious. There are signs of some dust and greast both on the inside and outside , but nothing severe. The covers are slightly yellowed.
 
 Also, this is, in my opinion, the "right" version of the Commodore 1541 floppy drive. The characteristic front with the closing lid indicates that this 1541 drive is built with the ALPS drive mechanism. The ALPS drive mechanism is more likely to have a working R/W head.
 
