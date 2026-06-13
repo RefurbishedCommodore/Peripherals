@@ -62,7 +62,11 @@ The plan may be updated during the refurbishment process. Sometimes I discover a
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+
+<!-- MARK START -->
+
 # Disassembly
 
 The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^4] on the bottom.
 
+<!-- MARK END -->
