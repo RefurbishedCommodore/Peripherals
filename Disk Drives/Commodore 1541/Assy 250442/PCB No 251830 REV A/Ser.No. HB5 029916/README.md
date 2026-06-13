@@ -138,7 +138,7 @@ The plan may be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^4] on the bottom.
+The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^1] on the bottom.
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="1000">
@@ -150,7 +150,7 @@ The drive is flipped back over, and the top cover is removed. This reveals the m
     <img src="Images/Dis02.jpeg" alt="Description" width="1000">
 </p>
 
-The next step is to remove the mainboard from the drive. There are seven Phillips machine screws[^5] holding the mainboard to the bottom chassis (see arrows in the picture above). Note that two of these screws are located on the large heat sink for the voltage regulators. Also, there is a tooth washer for each of the seven screws.
+The next step is to remove the mainboard from the drive. There are seven Phillips machine screws[^2] holding the mainboard to the bottom chassis (see arrows in the picture above). Note that two of these screws are located on the large heat sink for the voltage regulators. Also, there is a tooth washer for each of the seven screws.
 
 Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 must be disconnected.
 
@@ -172,13 +172,13 @@ When the tray is flipped upside down, something becomes immediately apparent: th
     <img src="Images/Dis08.jpeg" alt="Description" width="1000">
 </p>
 
-Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^6] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
+Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="1000">
 </p>
 
-To remove the drive itself from the tray, the four Phillips screws[^7] (two on each side of the drive) are removed, as shown below.
+To remove the drive itself from the tray, the four Phillips screws[^4] (two on each side of the drive) are removed, as shown below.
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="1000">
@@ -201,12 +201,12 @@ Below is a table showing the results of this initial testing.
 | Test | Description | Passed/Failed | Comment |
 |:----------:|:----------:|:----------:|:----------:|
 | Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
-| Loading: DIRECTORY | Loading a directory from BASIC[^1] | PASSED | |
-| Loading: FILE | Loading a file from BASIC[^1] | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM[^2] | FAILED | 297.8 RPM|
-| Performance | Checking basic functionality such as[^2]:<br>FORMAT, LOAD, WRITE| PASSED | |
-| Alignment | Checking R/W track alignment[^3] | PASSED | Track 1-35: "SATISFACTORY" |
-| Head stop | Checking the position of track 0[^3] | PASSED | Track 0: "EXCELLENT" |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | FAILED | 297.8 RPM|
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^7] | PASSED | Track 0: "EXCELLENT" |
 
 </div>
 
