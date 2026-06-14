@@ -34,7 +34,18 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         </ul>
-    </li>     
+    </li> 
+    <li>
+      <a href="#drive-mechanics">Drive mechanics</a>
+        <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#rw-head-and-stepper-motor">RW Head and Stepper Motor</a>
+        </li>
+        </ul>
+    </li>
    </ul>
 </details>
 
@@ -172,9 +183,74 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 </div>
 
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+
+# Drive mechanics
+
+TBD
+
+## Visual inspection
+
+TBD
+
+The table below shows the versions of this ALPS drive mechanism, as well as the stepper and spindle motors.
+
+<div align="center">
+    
+| Device | Manufacturer | Model | Serial | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Drive mechanism | Alps Electric Co. | FDM2111-B2 | 01445420 |  |
+| Step motor | Alps Electric Co. | AP-68 | 44MOB 468061 |  |
+| Spindle motor | COPAL | LC-177B | 8452-2 |  |
+
+</div>
+
+## RW Head and Stepper Motor
+
+It is good practice to measure the resistance of the Read/Write (R/W) coil, the erase coil, and the stepper motor. Even if initial testing shows that these appear to be working as they should, it is useful to confirm that the measured resistances are also within acceptable tolerances.
+
+From the [*Service Manual Model 1540/1541 Disk Drive*](https://refurbished-commodore.com/reference-documents), we can find the nominal values for the R/W coil and the erase coil:
+
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="800">
+</p>
+
+The measured resistance values of the R/W coil and erase coil at connector P8 are listed in the table below.
+
+<div align="center">
+    
+| Check | Description | Target | Measure | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| R/W coil | End-to-end (Blue-Red) | 32.4 Ω | 32.55 Ω|  |
+| R/W coil | End-to-centertap #1 (Blue-White) | 16.3 Ω | 17.27 Ω |  |
+| R/W coil | End-to-centertap #2 (Red-White) | 16.3 Ω | 16.61 Ω |  |
+| Erase coil | End-to-end (Yellow-White) | 10.5 Ω | 10.87 Ω |  |
+
+</div>
+
+From the same service manual, we can find the nominal values for the stepper motor:
+
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/StepperMotor.png" alt="Description" width="700">
+</p>
+
+The measured resistance values of the stepper motor coil at connector P7 are listed in the table below.
+
+<div align="center">
+    
+| Check | Description | Target | Measure | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Stepper motor coil (A) | End-to-end (Yellow-Orange) | 64.0 Ω | 65.64 Ω|  |
+| Stepper motor coil (A) | End-to-centertap #1 (Yellow-Red) | 32.0 Ω | 33.24 Ω |  |
+| Stepper motor coil (A) | End-to-centertap #2 (Orange-Red) | 32.0 Ω | 32.95 Ω |  |
+| Stepper motor coil (B) | End-to-end (Brown-Black) | 64.0 Ω | 65.43 Ω|  |
+| Stepper motor coil (B) | End-to-centertap #1 (Brown-Red) | 32.0 Ω | 32.87 Ω |  |
+| Stepper motor coil (B) | End-to-centertap #2 (Black-Red) | 32.0 Ω | 33.14 Ω |  |
+
+</div>
+
+As can be seen from the tables above, all measured resistances are within acceptable tolerances.
 
 <!-- MARK END -->
 
