@@ -44,6 +44,9 @@
         <li>
           <a href="#rw-head-and-stepper-motor">RW Head and Stepper Motor</a>
         </li>
+        <li>
+          <a href="#cleaning">Cleaning</a>
+        </li>
         </ul>
     </li>
    </ul>
@@ -281,6 +284,10 @@ The measured resistance values of the stepper motor coil at connector P7 are lis
 </div>
 
 As can be seen from the tables above, all measured resistances are within acceptable tolerances.
+
+## Cleaning
+
+The drive is properly cleaned with isopropanol and a Q-tip. There is not much dust and grease, but it is cleaned nonetheless. Both the R/W head and the two rails it slides on are cleaned with isopropanol also.
 
 <!-- MARK END -->
 
