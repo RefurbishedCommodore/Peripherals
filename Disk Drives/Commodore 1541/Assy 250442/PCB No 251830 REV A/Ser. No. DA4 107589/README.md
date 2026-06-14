@@ -82,6 +82,12 @@ The drive is flipped back over, and the top cover is removed. This reveals the m
     <img src="Images/Dis_02.jpeg" alt="Description" width="1000">
 </p>
 
+It is very nice to see that several of the custom ICs are in socket. This will make installation of Professional DOS, or any repair, easier.
+
+The next step is to remove the mainboard from the drive. There are seven Phillips machine screws[^2] holding the mainboard to the bottom chassis (see arrows in the picture above). Note that two of these screws are located on the large heat sink for the voltage regulators. Also, there is a tooth washer for each of the seven screws.
+
+Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 must be disconnected.
+
 # Initial testing
 
 Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
@@ -107,6 +113,7 @@ Below is a table showing the results of this initial testing.
 
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.6 mm
+[^2]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer)
 
 [^5]: 1541/1571 Drive alignment from Free Spirit software (Probably fake)
 [^6]: 1541 Test & Diagnostics cartridge from World of Jani
