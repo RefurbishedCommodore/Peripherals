@@ -168,7 +168,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 | Glue logic | Comment |
 |:----------:|:----------:|
-| Mitsubishi, Hitachi, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
+| SGS Thomson, EL, Hitachi, Mitsubishi, Fairchild, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
 
 </div>
 
