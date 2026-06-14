@@ -200,9 +200,9 @@ The table below shows the versions of this ALPS drive mechanism, as well as the 
     
 | Device | Manufacturer | Model | Serial | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| Drive mechanism | Alps Electric Co. | FDM2111-B2 | 01445420 |  |
-| Step motor | Alps Electric Co. | AP-68 | 44MOB 468061 |  |
-| Spindle motor | COPAL | LC-177B | 8452-2 |  |
+| Drive mechanism | Alps Electric Co. | FDM2111-B2 | TBD |  |
+| Step motor | Alps Electric Co. | AP-68 | TBD  |  |
+| Spindle motor | COPAL | LC-177B | 8474-2 |  |
 
 </div>
 
