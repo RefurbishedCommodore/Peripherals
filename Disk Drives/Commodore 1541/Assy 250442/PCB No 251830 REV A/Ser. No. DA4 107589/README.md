@@ -210,7 +210,15 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 # Drive mechanics
 
-TBD
+This floppy drive is equipped with the ALPS drive mechanism, which is reputed to be more reliable than the Newtronics drive mechanism. Not necessarily because of the mechanism itself, but because the R/W head is less likely to fail.
+
+<p align="center">
+    <img src="Images/Drive_01.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Drive_02.jpeg" alt="Description" width="1000">
+</p>
 
 ## Visual inspection
 
