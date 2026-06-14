@@ -255,7 +255,7 @@ Below are pictures with close-ups of some of these findings.
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU | MOS 6502AD | W52 Y1986 | UC4 | No |  |
 | VIA #1 | MOS 6522 | W12 Y1987 | UC3 | No |  | 
-| VIA #1 | MOS 6522 | W12 Y1987 | UC2 | No |  |
+| VIA #2 | MOS 6522 | W12 Y1987 | UC2 | No |  |
 | Drive logic IC | MOS 325572-01 | W04 Y1987 | UC1 | No | |
 | DOS ROM#1 | MOS 901229-05 | Unknown | UB4 | No | |
 | DOS ROM#2 | MOS 325302-01 | Unknown | UB3 | No | |
