@@ -117,11 +117,11 @@ Below is a table showing the results of this initial testing.
 The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "MDK 511HB". Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
-    <img src="Images/Main_01.jpeg" alt="Description" width="1000">
+    <img src="Images/Main_02.jpeg" alt="Description" width="1000">
 </p>
 
 <p align="center">
-    <img src="Images/Main_02.jpeg" alt="Description" width="1000">
+    <img src="Images/Main_01.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
