@@ -72,6 +72,16 @@ The plan may be updated during the refurbishment process. Sometimes I discover a
 
 The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^1] on the bottom.
 
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="1000">
+</p>
+
+The drive is flipped back over, and the top cover is removed. This reveals the mainboard and parts of the internal mechanics.
+
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="1000">
+</p>
+
 # Initial testing
 
 Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
