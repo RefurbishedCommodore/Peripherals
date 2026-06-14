@@ -122,11 +122,11 @@ Now the inner tray is lifted from the bottom cover. This is done by removing the
 To remove the drive itself from the tray, the four Phillips screws[^4] (two on each side of the drive) are removed, as shown below.
 
 <p align="center">
-    <img src="Images/Dis_06.jpeg" alt="Description" width="1000">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="1000">
 </p>
 
 <p align="center">
-    <img src="Images/Dis_07.jpeg" alt="Description" width="500">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="500">
 </p>
 
 # Initial testing
