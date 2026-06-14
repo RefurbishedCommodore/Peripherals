@@ -148,7 +148,7 @@ Below is a picture with a close-up of the VIA chip from these findings.
     <img src="Images/Main_03.jpeg" alt="Description" width="600">
 </p>
 
-The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 04 of 1984, suggesting this Commodore 64 was likely manufactured during the winter of 1984.
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 22 of 1983 and week 30 of 1984. But since the assumption is that the VIA #1 chip was replaced at some time, I think that it is a fair guess that this Commodore 1541 floppy drive drive was manufactured during the autumn of 1984.
 
 <div align="center">
     
