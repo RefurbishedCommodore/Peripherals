@@ -289,6 +289,13 @@ As can be seen from the tables above, all measured resistances are within accept
 
 The drive is properly cleaned with isopropanol and a Q-tip. There is not much dust and grease, but it is cleaned nonetheless. Both the R/W head and the two rails it slides on are cleaned with isopropanol also.
 
+<p align="center">
+    <img src="Images/Drive_03.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Drive_04.jpeg" alt="Description" width="500">
+</p>
 <!-- MARK END -->
 
 **Footnotes**
