@@ -148,6 +148,30 @@ Below is a picture with a close-up of the VIA chip from these findings.
     <img src="Images/Main_03.jpeg" alt="Description" width="600">
 </p>
 
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 04 of 1984, suggesting this Commodore 64 was likely manufactured during the winter of 1984.
+
+<div align="center">
+    
+| Chip | Version | Date code | Position | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS 6502B | W29 Y1984 | UC4 | Yes |  |
+| VIA #1 | MOS 6522 | W22 Y1983 | UC3 | Yes |  | 
+| VIA #2 | MOS 6522A | W30 Y1984 | UC2 | Yes |  |
+| Drive logic IC | MOS 325572-01 | Unknown | UC1 | No | |
+| DOS ROM#1 | GI 9464B-0841 <BR>901229-05 | W24 Y1984 | UB4 | Yes | |
+| DOS ROM#2 | MOS 325302-01 | W23 Y1984 | UB3 | Yes | |
+| SRAM | FUJITSU MB8128-15 | W28 Y1984 | UB2 | No | |
+
+</div>
+
+<div align="center">
+
+| Glue logic | Comment |
+|:----------:|:----------:|
+| Mitsubishi, Hitachi, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
+
+</div>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
