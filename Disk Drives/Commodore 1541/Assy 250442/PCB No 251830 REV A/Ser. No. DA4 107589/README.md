@@ -107,6 +107,19 @@ The next step is to remove the mainboard from the drive. There are seven Phillip
 
 Before the mainboard can be lifted, the connectors at P4, P5, P6, and P7 must be disconnected.
 
+With the mainboard out of the way, the entire internal mechanism is exposed.
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="1000">
+</p>
+
+Now the inner tray is lifted from the bottom cover. This is done by removing the six Phillips screws[^3] located on each side of the tray (see arrows in the picture above). Below is a picture of the remaining bottom cover.
+
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="1000">
+</p>
+
+
 # Initial testing
 
 Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
