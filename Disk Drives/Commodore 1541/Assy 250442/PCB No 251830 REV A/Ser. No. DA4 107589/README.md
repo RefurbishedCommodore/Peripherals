@@ -27,6 +27,14 @@
     <li>
       <a href="#initial-testing">Initial testing</a>
     </li> 
+    <li>
+      <a href="#mainboard">Mainboard</a>
+        <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        </ul>
+    </li>     
    </ul>
 </details>
 
@@ -123,6 +131,18 @@ The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "R-7HB". Below 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="1000">
 </p>
+
+## Visual inspection
+
+The mainboard appears to be in generally good condition. During the visual inspection, this is what I notice:
+
+- There is a layer of dust and grease across the entire mainboard
+- Pin #20 on MOS 6522 VIA IC in position UC3 is bent and not properly socketed
+- The above mentioned VIA IC has a very different date code than the rest
+
+I think that it is a fair assumption that this 1541 floppy drive has been repaired previoulsy, and that one of the VIA ICs were replaced.
+
+Below is a picture with a close-up of the VIA chip from these findings.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
