@@ -114,7 +114,7 @@ Below is a table showing the results of this initial testing.
 
 # Mainboard
 
-The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "MDK 511HB". Below are some pictures of the mainboard before refurbishment.
+The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "R-7HB". Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
     <img src="Images/Main_02.jpeg" alt="Description" width="1000">
