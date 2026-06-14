@@ -144,6 +144,11 @@ I think that it is a fair assumption that this 1541 floppy drive has been repair
 
 Below is a picture with a close-up of the VIA chip from these findings.
 
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="600">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
