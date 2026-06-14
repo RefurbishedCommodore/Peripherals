@@ -24,6 +24,9 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#initial-testing">Initial testing</a>
+    </li> 
    </ul>
 </details>
 
@@ -67,6 +70,34 @@ The plan may be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^4] on the bottom.
+The first step in disassembling the Commodore 1541 floppy drive is to remove the four Phillips machine screws[^1] on the bottom.
 
+# Initial testing
+
+Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
+
+Below is a table showing the results of this initial testing.
+
+<div align="center">
+    
+| Test | Description | Passed/Failed | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | FAILED | 297.8 RPM|
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^7] | PASSED | Track 0: "EXCELLENT" |
+
+</div>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <!-- MARK END -->
+
+**Footnotes**
+[^1]: Phillips pan head (6.8 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.6 mm
+
+[^5]: 1541/1571 Drive alignment from Free Spirit software (Probably fake)
+[^6]: 1541 Test & Diagnostics cartridge from World of Jani
+[^7]: Original Commodore test/demo-diskette for model 1541
