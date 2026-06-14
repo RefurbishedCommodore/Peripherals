@@ -280,7 +280,7 @@ As can be seen from the tables above, all measured resistances are within accept
 [^1]: Phillips pan head (6.8 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.6 mm
 [^2]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 5.5 mm (and tooth washer)
 [^3]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.2 mm
-
+[^4]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.6 mm
 [^5]: 1541/1571 Drive alignment from Free Spirit software (Probably fake)
 [^6]: 1541 Test & Diagnostics cartridge from World of Jani
 [^7]: Original Commodore test/demo-diskette for model 1541
