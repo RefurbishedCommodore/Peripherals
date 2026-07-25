@@ -54,7 +54,7 @@
 
 # Starting point
 
-Another nice-looking Commodore 1541 Single Drive Floppy Disk in for some TLC! But only that... a Professional DOS speeder will also be installed. It is expected to be fully working from the start, but it will be tested thoroughly during the refurbishment.
+Another nice-looking Commodore 1541 Single Drive Floppy Disk in for some TLC! But not only that... a Professional DOS speeder will also be installed. It is expected to be fully working from the start, but it will be tested thoroughly during the refurbishment.
 
 It appears to be in good condition. I cannot see any signs of damage. There are some occasional marks, but nothing serious. There are signs of some dust and greast both on the inside and outside , but nothing severe. The covers are slightly yellowed.
 
