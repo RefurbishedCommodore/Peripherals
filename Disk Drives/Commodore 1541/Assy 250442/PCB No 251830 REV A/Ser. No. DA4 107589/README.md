@@ -79,7 +79,7 @@ The planned refurbishment activities for this Commodore 1541 Single Drive Floppy
 
 - [ ]Refurbish the mainboard
 - [ ]Refurbish the internal mechanics
-- [ ]Install the Dolphin DOS 3.0 speeder
+- [ ]Install the Professional DOS speeder
 - [ ]Refurbish the casing
 - [ ]Testing and validation
 
@@ -145,7 +145,7 @@ Below is a table showing the results of this initial testing.
 | Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
 | Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
 | Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM[^6] | FAILED | 297.8 RPM|
+| Rotation speed | Rotation speed should be 300 RPM[^6] | PASSED | 300.3 RPM|
 | Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| PASSED | |
 | Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
 | Head stop | Checking the position of track 0[^7] | PASSED | Track 0: "EXCELLENT" |
