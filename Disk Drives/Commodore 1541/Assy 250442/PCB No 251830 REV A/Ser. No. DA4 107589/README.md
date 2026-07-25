@@ -36,6 +36,9 @@
         <li>
           <a href="#cleaning-the-pcb">Cleaning the PCB</a>
         </li>
+        <li>
+          <a href="#voltages">Voltages</a>
+        </li>
         </ul>
     </li> 
     <li>
@@ -49,6 +52,9 @@
         </li>
         <li>
           <a href="#cleaning">Cleaning</a>
+        </li>
+        <li>
+          <a href="#track-1-position">Track 1 position</a>
         </li>
         </ul>
     </li>
@@ -336,6 +342,21 @@ The drive is properly cleaned with isopropanol and a Q-tip. There is not much du
 <p align="center">
     <img src="Images/Drive_04.jpeg" alt="Description" width="600">
 </p>
+
+## Track 1 position
+
+Another good practice is to check and measure the track 1 position. The nominal value for the track 1 position is a gap of 0.35 mm (from the full stop at track 0), as shown in the schematic below.
+
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/Track1.png" alt="Description" width="700">
+</p>
+
+It is not trivial to measure the gap exactly, but with a feeler gauge, the gap is measured to be approximately 0.30 mm. That is a bit less than optimal target. Whether or not this has any impact on the drive we will find out during testing. See the picture below.
+
+<p align="center">
+    <img src="Images/Drive_05.jpeg" alt="Description" width="1000">
+</p>
+
 <!-- MARK END -->
 
 **Footnotes**
