@@ -234,7 +234,18 @@ There are some old flux residue near the serial interface connectors and the vol
     <img src="Images/Main_09.jpeg" alt="Description" width="500">
 </p>
 
+## Voltages
 
+The 1541 disk drive is supplied by two voltages: 12 VDC and 5 VDC. These are transformed, rectified, and regulated inside the drive. The table below lists the measured voltages.
+
+<div align="center">
+    
+| Area | Target voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Regulated 5V | 5 VDC | 5.004 V | 5.002 V| Measured at C5 |
+| Regulated 12V | 12 VDC | 12.27 V | 12.28 V| Measured at C2 |
+
+</div>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
