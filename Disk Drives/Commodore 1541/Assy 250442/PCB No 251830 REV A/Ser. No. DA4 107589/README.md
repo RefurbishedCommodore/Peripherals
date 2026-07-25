@@ -158,7 +158,6 @@ Below is a table showing the results of this initial testing.
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
-
 # Mainboard
 
 The mainboard is Assy 250422 / PCB No. 251830 Rev A, also marked "R-7HB". Below are some pictures of the mainboard before refurbishment.
@@ -214,6 +213,18 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 ## Cleaning the PCB
 
 The PCB is cleaned properly with mild soapy water. This removes most of the dust and grease on the PCB.
+
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main_05.jpeg" alt="Description" width="1000">
+</p>
+
+There are some old flux residue near the serial interface connectors and the voltage regulators. Even if this is (probably) some sort of "no-clean" flux used when the drive was manufactured it is still good practice to remove this old flux residue.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
