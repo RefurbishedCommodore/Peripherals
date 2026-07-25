@@ -33,6 +33,9 @@
         <li>
           <a href="#visual-inspection">Visual inspection</a>
         </li>
+        <li>
+          <a href="#cleaning-the-pcb">Cleaning the PCB</a>
+        </li>
         </ul>
     </li> 
     <li>
@@ -207,6 +210,10 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 | SGS Thomson, EL, Hitachi, Mitsubishi, Fairchild, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
 
 </div>
+
+## Cleaning the PCB
+
+The PCB is cleaned properly with mild soapy water. This removes most of the dust and grease on the PCB.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
