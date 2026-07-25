@@ -224,6 +224,17 @@ The PCB is cleaned properly with mild soapy water. This removes most of the dust
 
 There are some old flux residue near the serial interface connectors and the voltage regulators. Even if this is (probably) some sort of "no-clean" flux used when the drive was manufactured it is still good practice to remove this old flux residue.
 
+<p align="center" float="left">
+    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+    <img src="Images/Main_07.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_08.jpeg" alt="Description" width="500">
+    <img src="Images/Main_09.jpeg" alt="Description" width="500">
+</p>
+
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
