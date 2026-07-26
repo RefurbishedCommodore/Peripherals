@@ -58,6 +58,14 @@
         </li>
         </ul>
     </li>
+    <li>
+      <a href="#installing-professional-dos">Installing Professional DOS</a>
+        <ul>
+        <li>
+          <a href="#moving-some-capacitors">Moving some capacitors</a>
+        </li>
+        </ul>
+    </li>      
    </ul>
 </details>
 
@@ -374,6 +382,9 @@ The Professional DOS PCBs, which will be installed inside the 1541 floppy drive,
     <img src="Images/ProfDOS_02.jpeg" alt="Description" width="1000">
 </p>
 
+## Moving some capacitors
+
+To be able to install the mainboard and breakout PCBs, some ceramic capacitors needs to be moved from the top side of the 1541 mainboard to the bottom side: **C24**, **C27** and **C28**. This is to make room for the PCBs to fit properly.
 
 <!-- MARK END -->
 
