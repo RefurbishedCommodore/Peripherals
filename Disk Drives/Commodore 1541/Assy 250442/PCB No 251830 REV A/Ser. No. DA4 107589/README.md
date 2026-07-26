@@ -396,6 +396,13 @@ To be able to install the mainboard and breakout PCBs, some ceramic capacitors n
     <img src="Images/ProfDOS_06.jpeg" alt="Description" width="325">
 </p>
 
+Below is a picture of all the three ceramic capacitors, C24/C27/C28, installed at the backside of the mainboard.
+
+<p align="center">
+    <img src="Images/ProfDOS_07.jpeg" alt="Description" width="1000">
+</p>
+
+
 <!-- MARK END -->
 
 **Footnotes**
