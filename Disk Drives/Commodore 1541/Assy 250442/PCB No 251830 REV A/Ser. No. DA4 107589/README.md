@@ -361,7 +361,19 @@ It is not trivial to measure the gap exactly, but with a feeler gauge, the gap i
 
 Traditionally, the 1541 floppy drive is very slow. This is due to the non-optimised serial communication between the floppy drive and the Commodore 64. Luckily, there are solutions often referred to as speeders (such as Professional DOS) that utilise the user port and parallel communication between the Commodore 64 and the 1541 floppy drive. These speeders can achieve loading times that are substantially faster than those obtained with other fast-load systems such as JiffyDOS or Action Replay.
 
-The Professional DOS PCB, which will be installed inside the 1541 floppy drive, is shown in the pictures below.
+The Professional DOS PCBs, which will be installed inside the 1541 floppy drive, are shown in the pictures below. Note that there are two PCBs to be installed:
+
+- The main speeder board which will be installed in the CPU socket (UC4)
+- A breakout board which will be installed in the VIA socket (UC3)
+
+<p align="center">
+    <img src="Images/ProfDOS_01.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/ProfDOS_02.jpeg" alt="Description" width="1000">
+</p>
+
 
 <!-- MARK END -->
 
