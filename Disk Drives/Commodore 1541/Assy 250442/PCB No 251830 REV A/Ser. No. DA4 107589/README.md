@@ -64,6 +64,9 @@
         <li>
           <a href="#moving-some-capacitors">Moving some capacitors</a>
         </li>
+        <li>
+          <a href="#installing-the-pcbs">Installing the PCBs</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -426,6 +429,21 @@ Below is a picture of all the three ceramic capacitors, C24/C27/C28, installed a
 <p align="center">
     <img src="Images/ProfDOS_07.jpeg" alt="Description" width="1000">
 </p>
+
+## Installing the PCBs
+
+The installation is done in the following order:
+
+- Breakout board installed in the VIA socket (UC3)
+- DOSROM (901229-05 in UB4) and CPU (UC4) removed
+- Main speeder PCB installed in the UC4 socket.
+
+**NOTE:** A small insulated cardboard shield (from an old Commodore 64 shield) is fitted between the speeder PCB and the 1541 mainboard.
+
+<p align="center">
+    <img src="Images/ProfDOS_08.jpeg" alt="Description" width="1000">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
