@@ -405,6 +405,8 @@ The Professional DOS PCBs, which will be installed inside the 1541 floppy drive,
     <img src="Images/ProfDOS_02.jpeg" alt="Description" width="1000">
 </p>
 
+**NOTE:** For the Professional DOS to function, the old DOS-ROM IC must be removed (901229-05 in UB4).
+
 ## Moving some capacitors
 
 To be able to install the mainboard and breakout PCBs, some ceramic capacitors needs to be moved from the top side of the 1541 mainboard to the bottom side: **C24**, **C27** and **C28**. This is to make room for the PCBs to fit properly. See pictures below.
