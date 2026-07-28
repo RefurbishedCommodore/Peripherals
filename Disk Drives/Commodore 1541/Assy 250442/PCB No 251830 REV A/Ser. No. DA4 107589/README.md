@@ -440,10 +440,19 @@ The installation is done in the following order:
 
 **NOTE:** A small insulated cardboard shield (from an old Commodore 64 shield) is fitted between the speeder PCB and the 1541 mainboard.
 
+Below are some pictures from the installation.
+
 <p align="center">
-    <img src="Images/ProfDOS_08.jpeg" alt="Description" width="1000">
+    <img src="Images/ProfDOS_08.jpeg" alt="Description" width="600">
 </p>
 
+<p align="center">
+    <img src="Images/ProfDOS_09.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/ProfDOS_10.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
