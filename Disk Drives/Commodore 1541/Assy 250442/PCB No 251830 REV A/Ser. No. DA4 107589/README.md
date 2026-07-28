@@ -161,6 +161,16 @@ To remove the drive itself from the tray, the four Phillips screws[^4] (two on e
 
 Finally, the LED is removed from the bottom cover. This is quite straightforward, but a good tip is to firmly press the LED from the outside towards the inside until it "pops out". See pictures below.
 
+<p align="center" float="left">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="325">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="325">
+    <img src="Images/Dis_09.jpeg" alt="Description" width="325">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_10.jpeg" alt="Description" width="600">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Initial testing
