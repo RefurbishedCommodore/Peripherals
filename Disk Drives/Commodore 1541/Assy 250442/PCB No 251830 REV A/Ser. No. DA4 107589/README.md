@@ -65,8 +65,16 @@
           <a href="#moving-some-capacitors">Moving some capacitors</a>
         </li>
         </ul>
-    </li>      
-   </ul>
+    </li>
+    <li>
+      <a href="#casing">Casing</a>
+        <ul>
+        <li>
+          <a href="#cleaning-the-covers">Cleaning the covers</a>
+        </li>
+        </ul>
+    </li>
+    </ul>
 </details>
 
 # Starting point
@@ -94,8 +102,8 @@ Below are some pictures of the drive before refurbishment.
 
 The planned refurbishment activities for this Commodore 1541 Single Drive Floppy Disk (order may vary; several activities may be performed in parallel):
 
-- [ ]Refurbish the mainboard
-- [ ]Refurbish the internal mechanics
+- [x]Refurbish the mainboard
+- [x]Refurbish the internal mechanics
 - [ ]Install the Professional DOS speeder
 - [ ]Refurbish the casing
 - [ ]Testing and validation
@@ -103,7 +111,6 @@ The planned refurbishment activities for this Commodore 1541 Single Drive Floppy
 The plan may be updated during the refurbishment process. Sometimes I discover areas that need special attention.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
 
 <!-- MARK START -->
 
@@ -149,6 +156,8 @@ To remove the drive itself from the tray, the four Phillips screws[^4] (two on e
     <img src="Images/Dis_06.jpeg" alt="Description" width="500">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Initial testing
 
 Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
@@ -170,7 +179,6 @@ Below is a table showing the results of this initial testing.
 </div>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
 
 # Mainboard
 
@@ -279,8 +287,6 @@ This floppy drive is equipped with the ALPS drive mechanism, which is reputed to
 
 ## Visual inspection
 
-TBD
-
 The table below shows the versions of this ALPS drive mechanism, as well as the stepper and spindle motors.
 
 <div align="center">
@@ -365,6 +371,8 @@ It is not trivial to measure the gap exactly, but with a feeler gauge, the gap i
     <img src="Images/Drive_05.jpeg" alt="Description" width="1000">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Installing Professional DOS
 
 Traditionally, the 1541 floppy drive is very slow. This is due to the non-optimised serial communication between the floppy drive and the Commodore 64. Luckily, there are solutions often referred to as speeders (such as Professional DOS) that utilise the user port and parallel communication between the Commodore 64 and the 1541 floppy drive. These speeders can achieve loading times that are substantially faster than those obtained with other fast-load systems such as JiffyDOS or Action Replay.
@@ -402,6 +410,35 @@ Below is a picture of all the three ceramic capacitors, C24/C27/C28, installed a
     <img src="Images/ProfDOS_07.jpeg" alt="Description" width="1000">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Casing
+
+Both the top and bottom covers are in good condition from a mechanical perspective. They are a bit dirty, or more precisely, covered with a thin layer of grease. Parts of the covers are also slightly yellowed.
+
+## Cleaning the covers
+
+The covers are cleaned with mild soapy water. The cleaning process consists of soaking the covers in the soapy water for a couple of days, which dissolves most of the grease.
+
+Note that the metal badge on the front of the drive is removed before cleaning begins. To remove the badge, hot air from a hair dryer is applied while it is carefully pried off the cover using a selection of spudgers.
+
+Below are some pictures of the covers after cleaning, along with the removed badge.
+
+<p align="center">
+    <img src="Images/Case01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Case02.jpeg" alt="Description" width="800">
+</p>
+
+And the removed metal badge.
+
+<p align="center">
+    <img src="Images/Case06.jpeg" alt="Description" width="800">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END -->
 
