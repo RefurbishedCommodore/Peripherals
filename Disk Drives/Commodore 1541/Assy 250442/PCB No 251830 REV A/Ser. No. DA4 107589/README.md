@@ -72,8 +72,11 @@
         <li>
           <a href="#cleaning-the-covers">Cleaning the covers</a>
         </li>
+        <li>
+          <a href="#retrobrighting">Retrobrighting</a>
+        </li>
         </ul>
-    </li>
+    </li>     
     </ul>
 </details>
 
@@ -425,17 +428,23 @@ Note that the metal badge on the front of the drive is removed before cleaning b
 Below are some pictures of the covers after cleaning, along with the removed badge.
 
 <p align="center">
-    <img src="Images/Case01.jpeg" alt="Description" width="800">
-</p>
-
-<p align="center">
-    <img src="Images/Case02.jpeg" alt="Description" width="800">
+    <img src="Images/Case_01.jpeg" alt="Description" width="800">
 </p>
 
 And the removed metal badge.
 
 <p align="center">
     <img src="Images/Case_03.jpeg" alt="Description" width="800">
+</p>
+
+## Retrobrighting
+
+The covers are not severely yellowed, but there are areas where some yellowing is present. Therefore, both the top and bottom covers are retrobrighted using 12% hydrogen peroxide cream and exposed to UV light for about 12 hours.
+
+**Note:** Before retrobrighting, the rubber feet are removed. If they are left in place during the process, they can become soft and "mushy".
+
+<p align="center">
+    <img src="Images/Case_04.jpeg" alt="Description" width="800">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
