@@ -435,7 +435,7 @@ Below are some pictures of the covers after cleaning, along with the removed bad
 And the removed metal badge.
 
 <p align="center">
-    <img src="Images/Case06.jpeg" alt="Description" width="800">
+    <img src="Images/Case_03.jpeg" alt="Description" width="800">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
