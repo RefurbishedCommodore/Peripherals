@@ -488,6 +488,14 @@ The covers are not severely yellowed, but there are areas where some yellowing i
     <img src="Images/Case_04.jpeg" alt="Description" width="800">
 </p>
 
+The result from retrobrighting is quite good as most of the yellowing is gone.
+
+<p align="center">
+    <img src="Images/Case_05.jpeg" alt="Description" width="800">
+</p>
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END -->
