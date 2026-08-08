@@ -454,6 +454,13 @@ Below are some pictures from the installation.
     <img src="Images/ProfDOS_10.jpeg" alt="Description" width="600">
 </p>
 
+## Installing the drive ROM switch
+
+A nice, and important, feature of Professional DOS is that it can run both the Professional DOS ROM Kernal and the standard Commodore 1541 ROM Kernal. Switching between these two ROMs is normally done using a selector jumper on the PCB. When the jumper is closed, the Professional DOS is selected; when it is open, the standard Commodore 1541 ROM is selected.
+
+To avoid having to open the drive each time a different ROM is required, a small microswitch is installed. The microswitch requires a 6 mm hole to be drilled in the front of the drive (on the right-hand side). Two Dupont wires are connected to the jumper and soldered to the switch.
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
