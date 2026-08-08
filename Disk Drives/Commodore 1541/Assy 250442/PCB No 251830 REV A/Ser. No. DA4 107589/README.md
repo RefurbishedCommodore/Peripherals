@@ -461,7 +461,7 @@ A nice, and important, feature of Professional DOS is that it can run both the P
 To avoid having to open the drive each time a different ROM is required, a small microswitch is installed. The microswitch requires a 6 mm hole to be drilled in the front of the drive (on the right-hand side). Two Dupont wires are connected to the jumper and soldered to the switch.
 
 <p align="center">
-    <img src="Images/ProfDOS_10.jpeg" alt="Description" width="600">
+    <img src="Images/ProfDOS_11.jpeg" alt="Description" width="600">
 </p>
 
 
