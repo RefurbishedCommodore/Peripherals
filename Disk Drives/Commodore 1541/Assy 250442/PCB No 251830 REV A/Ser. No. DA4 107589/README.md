@@ -519,7 +519,7 @@ The result from retrobrighting is quite good as most of the yellowing is gone.
 To allow the flat parallel cable to exit the casing, the area above the AC power inlet on the top cover is carefully filed down.
 
 <p align="center" float="left">
-    <img src="Images/Case06.jpeg" alt="Description" width="500">
+    <img src="Images/Case_06.jpeg" alt="Description" width="500">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
