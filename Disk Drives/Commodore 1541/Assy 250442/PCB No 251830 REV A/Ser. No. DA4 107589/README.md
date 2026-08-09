@@ -540,16 +540,16 @@ The table below shows the results of testing performed using selected speeder RO
 | Action | Time | Factor | Comment |
 |:----------:|:----------:|:----------:|:----------:|
 | Picture show(*) | 00:34 | N/A |  |
-| Format | 00:19.3 | 3.86 |  |
-| Program LOAD | 00:09.6 | 14.27 |  |
-| Program SAVE | 00:04.8 | 26.46 |  |
-| SEQ WRITE | 00:13.9 | 6.19 |  |
-| SEQ READ | 00:08.3 | 9.16 |  |
-| REL CREATE | 00:43.5 | 2.71 |  |
-| Validate | 00:09.6 | 6.88 |  |
-| Scratch files | 00:12.5 | 5.52 |  |
-| Data transfer | 00:06.9 | 10.43 |  |
-| 64´er-factor |   | 11.4 |  |
+| Format | 00:18.8 | 3.96 |  |
+| Program LOAD | 00:09.2 | 14.89 |  |
+| Program SAVE | 00:04.4 | 28.86 |  |
+| SEQ WRITE | 00:16.0 | 5.38 |  |
+| SEQ READ | 00:14.7 | 5.17 |  |
+| REL CREATE | 00:28.3 | 4.17 |  |
+| Validate | 00:09.8 | 6.73 |  |
+| Scratch files | 00:19.6 | 3.52 |  |
+| Data transfer | 00:17.0 | 4.24 |  |
+| 64´er-factor |   | 11.2 |  |
 
 </div>
 
