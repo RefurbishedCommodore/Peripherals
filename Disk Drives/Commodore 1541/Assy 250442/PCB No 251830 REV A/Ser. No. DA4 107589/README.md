@@ -526,8 +526,8 @@ The table below shows the results of the testing performed using the standard CB
 | Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
 | Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
 | Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM[^6] | PASSED | 297.8 RPM|
-| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | FAILED | NO READING|
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| FAILED | STOP DURING "WRITING" |
 | Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
 | Head stop | Checking the position of track 0[^7] | PASSED | Track 0: "EXCELLENT" |
 
