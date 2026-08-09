@@ -15,6 +15,8 @@ Sorry - none at the moment...
 ![Name](https://img.shields.io/badge/Brand-ALPS-white?style=plastic)
 ![Name](https://img.shields.io/badge/Model-1541-white?style=plastic)
 
+-----
+
 [![Name](https://img.shields.io/badge/Serial_No.-DA4_107589-white?style=plastic)](https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/Assy%20250442/PCB%20No%20251830%20REV%20A/Ser.%20No.%20DA4%20107589/README.md)
 <br>
 ![Name](https://img.shields.io/badge/Brand-ALPS-white?style=plastic)
