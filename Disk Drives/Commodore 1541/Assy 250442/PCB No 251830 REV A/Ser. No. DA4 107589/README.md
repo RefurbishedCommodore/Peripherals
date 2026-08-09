@@ -533,6 +533,8 @@ The table below shows the results of the testing performed using the standard CB
 
 </div>
 
+**NOTE:** The "Rotation Speed" and "Performace" test struggles to work. But it is unclear to me at the moment if this is due to the Professional DOS installation - or a real problem. I can not identify anything wrong with the drive currently so I think it is ok.
+
 The table below shows the results of testing performed using selected speeder ROMs on both the computer and drive sides. The software used for this testing is the 64'er Floppy Speed Tester.
 
 <div align="center">
