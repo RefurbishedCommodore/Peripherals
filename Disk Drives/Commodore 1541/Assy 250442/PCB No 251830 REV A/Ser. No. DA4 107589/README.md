@@ -78,11 +78,17 @@
         <li>
           <a href="#retrobrighting">Retrobrighting</a>
         </li>
+        <li>
+          <a href="#retrofitting-the-parallel-cable">Retrofitting the parallel cable</a>
+        </li>
         </ul>
     </li>     
     <li>
       <a href="#testing">Testing</a>
     </li>     
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
   </ul>
 </details>
 
@@ -508,6 +514,14 @@ The result from retrobrighting is quite good as most of the yellowing is gone.
     <img src="Images/Case_05.jpeg" alt="Description" width="800">
 </p>
 
+## Retrofitting the parallel cable
+
+To allow the flat parallel cable to exit the casing, the area above the AC power inlet on the top cover is carefully filed down.
+
+<p align="center" float="left">
+    <img src="Images/Case06.jpeg" alt="Description" width="500">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
@@ -557,6 +571,39 @@ The table below shows the results of testing performed using selected speeder RO
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Final result
+
+<div align="center">
+
+*"A picture is worth a thousand words"*
+
+Below is a collection of pictures of the final result of the refurbishment of this 1541. Hope you like it! Click to enlarge!
+
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_02.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_05.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_06.jpeg" alt="Description" width="800">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK END -->
 
