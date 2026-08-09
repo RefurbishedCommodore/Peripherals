@@ -80,7 +80,10 @@
         </li>
         </ul>
     </li>     
-    </ul>
+    <li>
+      <a href="#testing">Testing</a>
+    </li>     
+  </ul>
 </details>
 
 # Starting point
@@ -505,9 +508,53 @@ The result from retrobrighting is quite good as most of the yellowing is gone.
     <img src="Images/Case_05.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+
+# Testing
+
+The proof is in the pudding — does it work?
+
+The purpose of this stage is to test and verify that the 1541 floppy disk drive works as it should. The basic functionality tested earlier is re-tested and verified. A combination of software tools is used in this process; please see the description of the [tools](https://refurbished-commodore.com/tools).
+
+The table below shows the results of the testing performed using the standard CBM DOS and CBM Kernal.
+
+<div align="center">
+    
+| Test | Description | Passed/Failed | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | PASSED | 297.8 RPM|
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^7] | PASSED | Track 0: "EXCELLENT" |
+
+</div>
+
+The table below shows the results of testing performed using selected speeder ROMs on both the computer and drive sides. The software used for this testing is the 64'er Floppy Speed Tester.
+
+<div align="center">
+    
+| Action | Time | Factor | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Picture show(*) | 00:34 | N/A |  |
+| Format | 00:19.3 | 3.86 |  |
+| Program LOAD | 00:09.6 | 14.27 |  |
+| Program SAVE | 00:04.8 | 26.46 |  |
+| SEQ WRITE | 00:13.9 | 6.19 |  |
+| SEQ READ | 00:08.3 | 9.16 |  |
+| REL CREATE | 00:43.5 | 2.71 |  |
+| Validate | 00:09.6 | 6.88 |  |
+| Scratch files | 00:12.5 | 5.52 |  |
+| Data transfer | 00:06.9 | 10.43 |  |
+| 64´er-factor |   | 11.4 |  |
+
+</div>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 
 <!-- MARK END -->
 
