@@ -539,7 +539,7 @@ The table below shows the results of testing performed using selected speeder RO
     
 | Action | Time | Factor | Comment |
 |:----------:|:----------:|:----------:|:----------:|
-| Picture show(*) | 00:32 | N/A |  |
+| Picture show | 00:32 | N/A |  |
 | Format | 00:18.8 | 3.96 |  |
 | Program LOAD | 00:09.2 | 14.89 |  |
 | Program SAVE | 00:04.4 | 28.86 |  |
