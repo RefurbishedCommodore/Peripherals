@@ -56,6 +56,10 @@ Disassembling the Excelerator drive is straightforward. At the bottom of the dri
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center">
+    <img src="Images/Dis_09.jpeg" alt="Description" width="300">
+</p>
+
 With the screws out of the way, the bottom lid can be slid off. Carefully slide it sideways, and then lift it straight up. Now the interior is exposed for the first time - probably since it was manufactured.
 
 <p align="center">
@@ -89,7 +93,7 @@ With the connector out of the way, the whole drive unit is removed from the bott
 Removing the power switch is a bit fiddly, but with some gentle pressing of the thin metal plates covering the switch it can be pushed out.
 
 <p align="center">
-    <img src="Images/Dis_08.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="400">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
