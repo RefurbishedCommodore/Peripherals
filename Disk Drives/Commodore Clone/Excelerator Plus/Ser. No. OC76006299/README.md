@@ -22,10 +22,28 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+    </li>
   </ul>
 </details>
 
 <!-- MARK START -->
+
+# Refurbishment activities
+
+The planned refurbishment activites for this Excelerator Plus floppy drive (Order may vary. Several of them in parallel):
+
+- [ ]Refurbish the mainboard
+- [ ]Create power supply adapter cable
+- [ ]Refurbish the internal mechanics
+- [ ]Refurbish the casing
+- [ ]Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 
 # Starting point
 
@@ -97,6 +115,8 @@ Removing the power switch is a bit fiddly, but with some gentle pressing of the 
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Mainboard
 
 
 <!-- MARK STOP -->
