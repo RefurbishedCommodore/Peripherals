@@ -86,6 +86,11 @@ With the connector out of the way, the whole drive unit is removed from the bott
     <img src="Images/Dis_07.jpeg" alt="Description" width="800">
 </p>
 
+Removing the power switch is a bit fiddly, but with some gentle pressing of the thin metal plates covering the switch it can be pushed out.
+
+<p align="center">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="800">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
