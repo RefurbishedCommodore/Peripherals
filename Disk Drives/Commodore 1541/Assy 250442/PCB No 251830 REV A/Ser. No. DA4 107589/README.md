@@ -119,9 +119,9 @@ The planned refurbishment activities for this Commodore 1541 Single Drive Floppy
 
 - [x]Refurbish the mainboard
 - [x]Refurbish the internal mechanics
-- [ ]Install the Professional DOS speeder
-- [ ]Refurbish the casing
-- [ ]Testing and validation
+- [x]Install the Professional DOS speeder
+- [x]Refurbish the casing
+- [x]Testing and validation
 
 The plan may be updated during the refurbishment process. Sometimes I discover areas that need special attention.
 
