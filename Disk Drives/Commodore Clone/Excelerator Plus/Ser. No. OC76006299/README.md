@@ -56,6 +56,19 @@ Disassembling the Excelerator drive is straightforward. At the bottom of the dri
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
+With the screws out of the way, the bottom lid can be slid off. Carefully slide it sideways, and then lift it straight up. Now the interior is exposed for the first time - probably since it was manufactured.
+
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="800">
+</p>
+
+Before the main floppy drive unit can be pulled out, sideways to the right, the left-hand side power switch connector must be disconnected from the PCB.
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="800">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
