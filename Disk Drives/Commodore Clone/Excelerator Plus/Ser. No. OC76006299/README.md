@@ -62,7 +62,7 @@ With the screws out of the way, the bottom lid can be slid off. Carefully slide 
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
 </p>
 
-Before the main floppy drive unit can be pulled out, sideways to the right, the left-hand side power switch connector must be disconnected from the PCB.
+Before the main floppy drive unit can be pulled out, sideways to the right, the left-hand side power switch connector must be disconnected from the PCB. **WARNING:** The connector is NOT keyed, so pay close attention to the direction which it is connected.
 
 <p align="center">
     <img src="Images/Dis_03.jpeg" alt="Description" width="800">
