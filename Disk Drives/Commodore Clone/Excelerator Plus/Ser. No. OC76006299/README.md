@@ -40,6 +40,13 @@ I do not currently know if this drive is working or not, and I do not have the p
 
 Below are some pictures of the floppy drive before refurbishment.
 
-
+<p align="center">
+    <img src="Images/Start_01.jpeg" alt="Description" width="800">
+    <img src="Images/Start_02.jpeg" alt="Description" width="800">
+    <img src="Images/Start_03.jpeg" alt="Description" width="800">
+    <img src="Images/Start_04.jpeg" alt="Description" width="800">
+    <img src="Images/Start_05.jpeg" alt="Description" width="800">
+    <img src="Images/Start_06.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
