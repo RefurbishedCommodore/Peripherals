@@ -49,4 +49,22 @@ Below are some pictures of the floppy drive before refurbishment.
     <img src="Images/Start_06.jpeg" alt="Description" width="800">
 </p>
 
+![Name](https://img.shields.io/badge/Serial_No.-OC76006299-white?style=plastic)
+<br>
+
+# Disassembly
+
+Disassembling the Excelerator drive is straightforward. At the bottom of the drive there are four JIS machine screws[^1] holding the bottom cover to the rest of the chassis. **NOTE:** Even if these are Japanese Industrial Standard (JIS) screws you can use a normal Phillips screwdriver.
+
+
+
+![Name](https://img.shields.io/badge/Serial_No.-OC76006299-white?style=plastic)
+<br>
+
+
 <!-- MARK STOP -->
+
+
+**Footnotes**
+[^1]: JIS pan head (5.4 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
+
