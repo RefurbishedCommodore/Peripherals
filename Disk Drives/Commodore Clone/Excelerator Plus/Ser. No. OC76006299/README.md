@@ -73,7 +73,17 @@ Before the main floppy drive unit can be pulled out, sideways to the right, the 
 </p>
 
 <p align="center">
-    <img src="Images/Dis_05.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="500">
+</p>
+
+With the connector out of the way, the whole drive unit is removed from the bottom cover.
+
+<p align="center">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="800">
 </p>
 
 
