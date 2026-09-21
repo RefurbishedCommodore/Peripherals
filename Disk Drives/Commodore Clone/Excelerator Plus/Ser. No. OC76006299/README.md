@@ -137,6 +137,30 @@ There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which
 </p>
 
 
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU#1 | MOS | 8502R0 | W17 Y1987 | No |  |
+| CPU#2 | ZILOG | Z0840006PSC | W05 Y1987 | No |  |
+| SID | MOS | 6581R4AR | W11 Y1987 | Yes | The highly acclaimed version |
+| VIC-IIe | MOS | 8566R3 | W19 Y1987 | Yes |  |
+| VDC | MOS | 8563R9B | W11 Y1987 | Yes |  |
+| MMU | MOS | 8722R2 | W19 Y1987 | Yes |  |
+| PLA | MOS | 8721R3 | W14 Y1987 | No |  |
+| CIA#1	 | MOS | 6526A | W12 Y1987 | Yes |  |
+| CIA#2	 | MOS | 6526A | W12 Y1987 | Yes |  |
+| ROM - C64 Kernal | Unknown | 325179-01 | Unknown | Yes | EPROM marked: "C128 64 Nor." |
+| ROM - C128 Kernal | Unknown | 325177-03 | Unknown | Yes | EPROM marked: "Nor.Kern.C128" |
+| ROM - BASIC LO | MOS | MOS 318018-02 | W09 Y1987 | Yes |  |
+| ROM - BASIC HI | MOS | MOS 318019-02 | W10 Y1987 | Yes |  |
+| ROM - Character | Unknown | 325178-01 | Unknown | Yes | EPROM marked: "C128 Char.Nor." |
+| RAM | SAMSUNG | KM4164B-15 | Unknown | No | |
+| Glue logic | MATSUSHITA, FAIRCHILD, TEXAS INSTRUMENTS, NEC, NATIONAL SEMICONDUCTOR |  |  |  | No MOS glue logic |
+
+</div>
+
+
 <!-- MARK STOP -->
 
 
