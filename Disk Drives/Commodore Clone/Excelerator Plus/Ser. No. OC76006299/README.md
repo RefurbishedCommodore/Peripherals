@@ -118,6 +118,24 @@ Removing the power switch is a bit fiddly, but with some gentle pressing of the 
 
 # Mainboard
 
+There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), see pictures below.
+
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main_02.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="800">
+</p>
+
 
 <!-- MARK STOP -->
 
