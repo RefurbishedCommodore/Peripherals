@@ -166,6 +166,8 @@ Below is a gallery of the above mentioned PCBs.
 
 The Excelerator Plus floppy drive use a + 5VDC / + 12 VDC power supply (PSU) with a 5-pin DIN connector, but compared to a traditional 1541-II PSU the + 5 / + 12 volt pins are available on a 4-pin DIN connector. Since this very floppy drive did no longer have the PSU that came with it, a solution is made: a PSU adapter cable is made. This cable will be connected to a standard 1541-II PSU (preferably a modern version) so that it can be used with the Excelerator Plus drive.
 
+Below is the schematics for the 1541-II PSU with the 4-pin DIN connector pinout. **NOTE:** the pinout is for the male connector - seen from the outside of the plug connector.
+
 
 
 <!-- MARK STOP -->
