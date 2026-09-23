@@ -172,8 +172,10 @@ Below is the schematics for the 1541-II PSU with the 4-pin DIN connector pinout.
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/1541-II-powersupply.gif" alt="Description" width="800">
 </p>
 
+The 5-pin DIN connector which is to be used on the Excelerator side have the pinout as shown below - seen from the outside of the plug connector.
+
 <p align="center">
-    <img src="Images/5_DIN.png" alt="Description" width="800">
+    <img src="Images/5_DIN.png" alt="Description" width="400">
 </p>
 
 <!-- MARK STOP -->
