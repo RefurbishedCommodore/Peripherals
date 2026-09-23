@@ -118,7 +118,20 @@ Removing the power switch is a bit fiddly, but with some gentle pressing of the 
 
 # Mainboard
 
-There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), see pictures below.
+There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), and have the following functionality (my definitions and assumptions).
+
+<div align="center">
+    
+| PCB | Name | Description |
+|:----------:|:----------:|:----------:|
+| PCB #01 | R/W Receive and transmit | Responsible for amplifying signal from read/write head, and transmit digital signals to the read/write head. <BR> Control for rotational speed.  |
+| PCB #02 | Servo | Responsible for controlling the servo motor |
+| PCB #03 | Clock generator | Responsible for generating the CPU clock |
+| PCB #04 | Main logic board | CPU, ROM and glue logic |
+
+</div>
+
+Below is a gallery of the above mentioned PCBs.
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="800">
@@ -135,30 +148,6 @@ There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which
 <p align="center">
     <img src="Images/Main_04.jpeg" alt="Description" width="800">
 </p>
-
-
-<div align="center">
-    
-| Chip/Area | Manufactor | Version | Date code | Socket | Note |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| CPU#1 | MOS | 8502R0 | W17 Y1987 | No |  |
-| CPU#2 | ZILOG | Z0840006PSC | W05 Y1987 | No |  |
-| SID | MOS | 6581R4AR | W11 Y1987 | Yes | The highly acclaimed version |
-| VIC-IIe | MOS | 8566R3 | W19 Y1987 | Yes |  |
-| VDC | MOS | 8563R9B | W11 Y1987 | Yes |  |
-| MMU | MOS | 8722R2 | W19 Y1987 | Yes |  |
-| PLA | MOS | 8721R3 | W14 Y1987 | No |  |
-| CIA#1	 | MOS | 6526A | W12 Y1987 | Yes |  |
-| CIA#2	 | MOS | 6526A | W12 Y1987 | Yes |  |
-| ROM - C64 Kernal | Unknown | 325179-01 | Unknown | Yes | EPROM marked: "C128 64 Nor." |
-| ROM - C128 Kernal | Unknown | 325177-03 | Unknown | Yes | EPROM marked: "Nor.Kern.C128" |
-| ROM - BASIC LO | MOS | MOS 318018-02 | W09 Y1987 | Yes |  |
-| ROM - BASIC HI | MOS | MOS 318019-02 | W10 Y1987 | Yes |  |
-| ROM - Character | Unknown | 325178-01 | Unknown | Yes | EPROM marked: "C128 Char.Nor." |
-| RAM | SAMSUNG | KM4164B-15 | Unknown | No | |
-| Glue logic | MATSUSHITA, FAIRCHILD, TEXAS INSTRUMENTS, NEC, NATIONAL SEMICONDUCTOR |  |  |  | No MOS glue logic |
-
-</div>
 
 
 <!-- MARK STOP -->
