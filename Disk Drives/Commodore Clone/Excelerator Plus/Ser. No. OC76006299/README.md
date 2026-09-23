@@ -24,7 +24,18 @@
     </li>
     <li>
       <a href="#mainboard">Mainboard</a>
+        <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#voltages">Voltages</a>
+        </li>
+        </ul>
     </li>
+    <li>
+      <a href="#psu-adapter-cable">PSU adapter cable</a>
+    </li>      
   </ul>
 </details>
 
@@ -148,6 +159,10 @@ Below is a gallery of the above mentioned PCBs.
 <p align="center">
     <img src="Images/Main_04.jpeg" alt="Description" width="800">
 </p>
+
+## Visual inspection 
+
+# PSU adapter cable
 
 
 <!-- MARK STOP -->
