@@ -172,6 +172,9 @@ Below is the schematics for the 1541-II PSU with the 4-pin DIN connector pinout.
     <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/1541-II-powersupply.gif" alt="Description" width="800">
 </p>
 
+<p align="center">
+    <img src="Images/5_DIN.png" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
