@@ -168,6 +168,9 @@ The Excelerator Plus floppy drive use a + 5VDC / + 12 VDC power supply (PSU) wit
 
 Below is the schematics for the 1541-II PSU with the 4-pin DIN connector pinout. **NOTE:** the pinout is for the male connector - seen from the outside of the plug connector.
 
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/Peripherals/blob/main/Disk%20Drives/Commodore%201541/General%20images/RW%20Head.png" alt="Description" width="800">
+</p>
 
 
 <!-- MARK STOP -->
