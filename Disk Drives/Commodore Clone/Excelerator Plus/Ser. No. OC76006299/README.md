@@ -127,6 +127,26 @@ Removing the power switch is a bit fiddly, but with some gentle pressing of the 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Initial testing
+
+Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
+
+Below is a table showing the results of this initial testing.
+
+<div align="center">
+    
+| Test | Description | Passed/Failed | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | TBA | 300.3 RPM|
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| TBA | |
+| Alignment | Checking R/W track alignment[^7] | TBA | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^7] | TBA | Track 0: "EXCELLENT" |
+
+</div>
+
 # Mainboard
 
 There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), and have the following functionality (my definitions and assumptions).
