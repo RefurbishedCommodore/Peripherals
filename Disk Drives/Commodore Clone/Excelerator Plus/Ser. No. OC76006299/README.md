@@ -23,6 +23,9 @@
       <a href="#disassembly">Disassembly</a>
     </li>
     <li>
+      <a href="#initial-testing">Initial testing</a>
+    </li>       
+    <li>
       <a href="#mainboard">Mainboard</a>
         <ul>
         <li>
@@ -129,7 +132,7 @@ Removing the power switch is a bit fiddly, but with some gentle pressing of the 
 
 # Initial testing
 
-Initial testing of the 1541 floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
+Initial testing of the Excelerator floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
 
 Below is a table showing the results of this initial testing.
 
@@ -137,15 +140,19 @@ Below is a table showing the results of this initial testing.
     
 | Test | Description | Passed/Failed | Comment |
 |:----------:|:----------:|:----------:|:----------:|
-| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
-| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
-| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM[^6] | TBA | 300.3 RPM|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | INCONCLUSIVE |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | INCONCLUSIVE | |
+| Loading: FILE | Loading a file from BASIC[^5] | INCONCLUSIVE | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | TBA | |
 | Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| TBA | |
-| Alignment | Checking R/W track alignment[^7] | TBA | Track 1-35: "SATISFACTORY" |
-| Head stop | Checking the position of track 0[^7] | TBA | Track 0: "EXCELLENT" |
+| Alignment | Checking R/W track alignment[^7] | TBA | Track 1-35: "TBA" |
+| Head stop | Checking the position of track 0[^7] | TBA | Track 0: "TBA" |
 
 </div>
+
+The "Passed/Failed" status is set to "INCONCLUSIVE" for the following reason:
+
+
 
 # Mainboard
 
