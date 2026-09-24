@@ -152,7 +152,7 @@ Below is a table showing the results of this initial testing.
 
 The "Passed/Failed" status is set to "INCONCLUSIVE" for the following reason:
 
-- When the floppy drive is powered on, the motor does not always spin up. It seems like this happens when the floppy drive is "cold" (not started for a while).
+- When the floppy drive is powered on, the motor does not always spin up. It seems like this happens when the floppy drive is "cold" (not started for a while). The combined power/activity LED does seem to work fine every time.
 
 # Mainboard
 
