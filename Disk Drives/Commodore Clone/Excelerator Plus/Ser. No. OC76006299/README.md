@@ -178,6 +178,12 @@ The 5-pin DIN connector which is to be used on the Excelerator side have the pin
     <img src="Images/5_DIN.png" alt="Description" width="400">
 </p>
 
+Below is a picture of the final PSU adapter cable.
+
+<p align="center">
+    <img src="Images/Main_05.jpeg" alt="Description" width="600">
+</p>
+
 <!-- MARK STOP -->
 
 
