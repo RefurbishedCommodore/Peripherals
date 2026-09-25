@@ -209,6 +209,22 @@ Below is a gallery of some of the findings from the visual inspection.
     <img src="Images/Main_08.jpeg" alt="Description" width="800">
 </p>
 
+## Checking the voltages
+
+Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. 
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) | 5 V DC | 4.768 V | TBD  V | Connector J1 PIN#1 |
+| PSU (12V) | 12 V DC | 11.98 V / 0 V (*) | TBD V | Connector J1 PIN#4 |
+
+</div>
+
+(*) This measured voltage is equal to 0 V when disk motor is not starting.
+
+**NOTE:** There is obviously something wrong with the 12 V voltage supply.
 
 # PSU adapter cable
 
