@@ -191,10 +191,17 @@ Below is a gallery of the above mentioned PCBs.
 
 The mainboards appears to be in general good condition. I cannot see any signs of rework from previous repairs. There is a significant layer of dust and grease on the PCB. Nevertheless, there are some areas which may require further attention:
 
-- Two of the electrolytic capacitors, C5 and C13, on PCB #01 have lost their outer insulation
+- Two of the electrolytic capacitors, C5 and C13, on PCB #01 have partly lost their outer insulation
 - Four of the ICs on PCB #03 and one IC on PCB #01 are not soldered flush to the PCB
 - The soldering point on the input power connector look dried out
 
+<p align="center">
+    <img src="Images/Main_06.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main_07.jpeg" alt="Description" width="800">
+</p>
 
 # PSU adapter cable
 
