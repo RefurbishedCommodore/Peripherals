@@ -193,7 +193,9 @@ The mainboards appears to be in general good condition. I cannot see any signs o
 
 - Two of the electrolytic capacitors, C5 and C13, on PCB #01 have partly lost their outer insulation
 - Four of the ICs on PCB #03 and one IC on PCB #01 are not soldered flush to the PCB
-- The soldering point on the input power connector look dried out
+- The soldering point on the J7 input power connector look dried out
+
+Below is a gallery of some of the findings from the visual inspection.
 
 <p align="center">
     <img src="Images/Main_06.jpeg" alt="Description" width="800">
