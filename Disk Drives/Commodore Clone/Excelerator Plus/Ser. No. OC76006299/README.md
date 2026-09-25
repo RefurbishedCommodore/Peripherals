@@ -134,7 +134,11 @@ Removing the power switch is a bit fiddly, but with some gentle pressing of the 
 
 Initial testing of the Excelerator floppy drive is performed about midway through the disassembly and after some initial cleaning of the PCB and the R/W head. This is done to assess the condition of the floppy drive and use this information as input for the refurbishment process.
 
-Below is a table showing the results of this initial testing.
+The result of the initial testing is set to **INCONCLUSIVE** for the following reason:
+
+- When the floppy drive is powered on, the motor does not always spin up. It seems like this happens when the floppy drive is "cold" (not started for a while). The combined power/activity LED does seem to work fine every time.
+
+Below is a table showing the results of this initial testing - when the motor spin up. When the motor is not starting, none of the tests pass.
 
 <div align="center">
     
@@ -143,16 +147,14 @@ Below is a table showing the results of this initial testing.
 | Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
 | Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
 | Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
-| Rotation speed | Rotation speed should be 300 RPM[^6] | TBA | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | PASSED | 300.6 |
 | Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| FAILED | |
-| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "TBA" |
-| Head stop | Checking the position of track 0[^7] | FAILED | Track 0: "TBA" |
+| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^7] | FAILED | Track 0: "UNSATISFACTORY" |
 
 </div>
 
-The "Passed/Failed" status is set to "INCONCLUSIVE" for the following reason:
 
-- When the floppy drive is powered on, the motor does not always spin up. It seems like this happens when the floppy drive is "cold" (not started for a while). The combined power/activity LED does seem to work fine every time.
 
 # Mainboard
 
