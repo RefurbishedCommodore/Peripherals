@@ -140,13 +140,13 @@ Below is a table showing the results of this initial testing.
     
 | Test | Description | Passed/Failed | Comment |
 |:----------:|:----------:|:----------:|:----------:|
-| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | INCONCLUSIVE |  |
-| Loading: DIRECTORY | Loading a directory from BASIC[^5] | INCONCLUSIVE | |
-| Loading: FILE | Loading a file from BASIC[^5] | INCONCLUSIVE | |
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
 | Rotation speed | Rotation speed should be 300 RPM[^6] | TBA | |
-| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| TBA | |
-| Alignment | Checking R/W track alignment[^7] | TBA | Track 1-35: "TBA" |
-| Head stop | Checking the position of track 0[^7] | TBA | Track 0: "TBA" |
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| FAILED | |
+| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "TBA" |
+| Head stop | Checking the position of track 0[^7] | FAILED | Track 0: "TBA" |
 
 </div>
 
