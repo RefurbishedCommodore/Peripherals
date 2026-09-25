@@ -189,9 +189,12 @@ Below is a gallery of the above mentioned PCBs.
 
 ## Visual inspection 
 
+The mainboards appears to be in general good condition. I cannot see any signs of rework from previous repairs. There is a significant layer of dust and grease on the PCB. Nevertheless, there are some areas which may require further attention:
 
-<!-- Noen av kondensatorene har mistet ytterkappe -->
-<!-- Flere av glue logic chip´ene er slengt inn -->
+- Two of the electrolytic capacitors, C5 and C13, on PCB #01 have lost their outer insulation
+- Four of the ICs on PCB #03 and one IC on PCB #01 are not soldered flush to the PCB
+- The soldering point on the input power connector look dried out
+
 
 # PSU adapter cable
 
