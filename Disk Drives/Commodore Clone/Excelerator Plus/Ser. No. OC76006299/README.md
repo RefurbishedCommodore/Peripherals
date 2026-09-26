@@ -251,8 +251,6 @@ Next is to replace the old wires, or more precise: the part of the wires soldere
 
 The refurbished power switch, with new wires, are installed back into the drive. The 12 VDC voltages are now present as it should, and the floppy drive starts each time the drive is powered on. So now the first problem, that the drive didn´t start each time, seems to be fixed.
 
-
-
 # PSU adapter cable
 
 The Excelerator Plus floppy drive use a + 5VDC / + 12 VDC power supply (PSU) with a 5-pin DIN connector, but compared to a traditional 1541-II PSU the + 5 / + 12 volt pins are available on a 4-pin DIN connector. Since this very floppy drive did no longer have the PSU that came with it, a solution is made: a PSU adapter cable is made. This cable will be connected to a standard 1541-II PSU (preferably a modern version) so that it can be used with the Excelerator Plus drive.
