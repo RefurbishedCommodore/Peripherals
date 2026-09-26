@@ -40,10 +40,13 @@
         </ul>
     </li>
     <li>
-      <a href="#drive-mechanics">Drive mechanics</a>
+      <a href="#drive-mechanism">Drive mechanism</a>
         <ul>
         <li>
           <a href="#cleaning-the-rw-head">Cleaning the R/W head</a>
+        </li>
+        <li>
+          <a href="#cleaning-and-lubricating-the-rw-head-rail-guide">Cleaning and lubricating the R/W head rail guide</a>
         </li>
         </ul>
     </li>
@@ -52,6 +55,7 @@
     </li>      
   </ul>
 </details>
+
 
 <!-- MARK START -->
 
@@ -314,7 +318,7 @@ The R/W head does not seem to have been very exposed to residue from floppies. N
     <img src="Images/Mech_01.jpeg" alt="Description" width="800">
 </p>
 
-## Cleaning and lubricating the R/W head rail guide
+## Cleaning and lubricating the RW head rail guide
 
 For the R/W head to be able to move freely up and down the floppy tracks, the rail guides needs to be both cleaned and lubricated. The cleaning is done with isopropanol and a cotton swab, and for lubcricating some lithium grease is used.
 
