@@ -341,6 +341,8 @@ So, to try to find some target values, I am able to borrow a working Oceanic dri
 
 </div>
 
+All the measured values on the Excelerator Plus drive are quite close to the reference target values - and therefore the R/W head is most likely working as it should.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
