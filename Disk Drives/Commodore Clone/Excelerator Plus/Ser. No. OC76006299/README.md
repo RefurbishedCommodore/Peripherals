@@ -291,7 +291,9 @@ Below is a picture of the final PSU adapter cable.
     <img src="Images/Main_05.jpeg" alt="Description" width="600">
 </p>
 
-# Drive mechanics
+# Drive mechanism
+
+The drive mechanism seem to be in fine general condition. There is isn´t much dust and grease, and I can not see any mechanical damage of any sort.
 
 ## Cleaning the RW head
 
@@ -299,6 +301,14 @@ The R/W head does not seem to have been very exposed to residue from floppies. N
 
 <p align="center">
     <img src="Images/Mech_01.jpeg" alt="Description" width="800">
+</p>
+
+## Cleaning and lubricating the R/W head rail guide
+
+For the R/W head to be able to move freely up and down the floppy tracks, the rail guides needs to be both cleaned and lubricated. The cleaning is done with isopropanol and a cotton swab, and for lubcricating some lithium grease is used.
+
+<p align="center">
+    <img src="Images/Mech_02.jpeg" alt="Description" width="800">
 </p>
 
 <!-- MARK STOP -->
