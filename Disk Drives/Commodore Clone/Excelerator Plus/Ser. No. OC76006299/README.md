@@ -311,6 +311,19 @@ For the R/W head to be able to move freely up and down the floppy tracks, the ra
     <img src="Images/Mech_02.jpeg" alt="Description" width="800">
 </p>
 
+# Casing
+
+Both the top and bottom covers are in ok condition from a mechanical perspective. They are a bit scratched, and covered with a thin layer of grease.
+
+## Cleaning the covers
+
+The front bezel is quite dirty. There is a lot of residue from floppies being inserted into drive over several years. Nevertheless, the front bezel is quite nice looking after cleaning it with some isopropanol.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="800">
+</p>
+
+
 <!-- MARK STOP -->
 
 
