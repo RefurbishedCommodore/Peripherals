@@ -219,6 +219,11 @@ Below is a gallery of some of the findings from the visual inspection.
     <img src="Images/Main_08.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center" float="left">
+    <img src="Images/Main_11.jpeg" alt="Description" width="500">
+    <img src="Images/Main_12.jpeg" alt="Description" width="500">
+</p>
+
 ## Checking the voltages
 
 Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. 
