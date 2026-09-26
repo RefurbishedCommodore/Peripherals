@@ -247,6 +247,9 @@ Next is to replace the old wires, or more precise: the part of the wires soldere
     <img src="Images/Main_10.jpeg" alt="Description" width="600">
 </p>
 
+The refurbished power switch, with new wires, are installed back into the drive. The 12 VDC voltages are now present as it should, and the floppy drive starts each time the drive is powered on. So now the first problem, that the drive didn´t start each time, seems to be fixed.
+
+
 
 # PSU adapter cable
 
