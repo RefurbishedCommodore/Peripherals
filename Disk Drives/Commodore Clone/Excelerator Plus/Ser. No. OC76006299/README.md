@@ -352,8 +352,13 @@ Both the top and bottom covers are in ok condition from a mechanical perspective
 The front bezel is quite dirty. There is a lot of residue from floppies being inserted into drive over several years. Nevertheless, the front bezel is quite nice looking after cleaning it with some isopropanol.
 
 <p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
     <img src="Images/Case_01.jpeg" alt="Description" width="800">
 </p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
