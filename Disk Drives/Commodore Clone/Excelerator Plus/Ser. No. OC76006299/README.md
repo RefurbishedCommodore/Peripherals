@@ -232,7 +232,11 @@ After some troubleshooting it turns out that some of the wires soldered to the p
 
 The old wires are cut and desoldered from the power switch, and the switch is cleaned properly (exterior). Below is a picture of the cleaned switch.
 
+<p align="center">
+    <img src="Images/Main_09.jpeg" alt="Description" width="600">
+</p>
 
+After the exterior cleaning, the interior resistance is measured. And the measured resistance is about 0.25 Ω (both on power supply lines) which is close to the resistance of the measuring cables. So, the power switch rocker is fine and not causing the the missing + 12 VDC supply.
 
 # PSU adapter cable
 
