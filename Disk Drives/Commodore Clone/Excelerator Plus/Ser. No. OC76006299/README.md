@@ -48,14 +48,24 @@
         <li>
           <a href="#cleaning-and-lubricating-the-rw-head-rail-guide">Cleaning and lubricating the R/W head rail guide</a>
         </li>
+        <li>
+          <a href="#rw-head-measurement">RW Head measurement</a>
+        </li>
         </ul>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+        <ul>
+        <li>
+          <a href="#cleaning-the-covers">Cleaning the covers</a>
+        </li>
+        </ul>
+    </li>      
     <li>
       <a href="#psu-adapter-cable">PSU adapter cable</a>
     </li>      
   </ul>
 </details>
-
 
 <!-- MARK START -->
 
