@@ -297,7 +297,9 @@ Below is a picture of the final PSU adapter cable.
 
 The R/W head does not seem to have been very exposed to residue from floppies. Nevertheless, the R/W head is cleaned properly with some isopropanol.
 
-
+<p align="center">
+    <img src="Images/Mech_01.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
