@@ -285,6 +285,11 @@ Next is to replace the old wires, or more precise: the part of the wires soldere
 
 The refurbished power switch, with new wires, are installed back into the drive. The 12 VDC and 5 VDC voltages are now present as it should, and the floppy drive starts each time the drive is powered on. So now the first problem, that the drive didn´t start each time, seems to be fixed. The measured voltages at J1 are 11.99 V and 4.821 V respectively.
 
+During the repair of the power switch connections the solder joints on the J7 connector are reflowed with fresh leaded solder.
+
+<p align="center">
+    <img src="Images/Main_13.jpeg" alt="Description" width="600">
+</p>
 ## Replacing the electrolytic capacitors
 
 As noted from the visual inspection there are two capacitors, C5 and C13 on PCB #01, which does not look too good. These two capacitors are both 10 μF [16 V], and are replaced with new capacitors with the same capacitance and voltage rating.
