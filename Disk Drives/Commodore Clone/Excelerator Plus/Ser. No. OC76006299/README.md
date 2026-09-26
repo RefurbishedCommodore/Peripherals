@@ -60,7 +60,7 @@
 The planned refurbishment activites for this Excelerator Plus floppy drive (Order may vary. Several of them in parallel):
 
 - [ ]Refurbish the mainboard
-- [ ]Create power supply adapter cable
+- [x]Create power supply adapter cable
 - [ ]Refurbish the internal mechanics
 - [ ]Refurbish the casing
 - [ ]Testing and validation
@@ -172,6 +172,8 @@ The initial testing also shows that some of the tests, such as the PERFORMANCE a
    <img src="Images/InitTest_02.png" alt="Description" width="400">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Mainboard
 
 There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), and have the following functionality (my definitions and assumptions).
@@ -269,6 +271,8 @@ Next is to replace the old wires, or more precise: the part of the wires soldere
 
 The refurbished power switch, with new wires, are installed back into the drive. The 12 VDC voltages are now present as it should, and the floppy drive starts each time the drive is powered on. So now the first problem, that the drive didn´t start each time, seems to be fixed.
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # PSU adapter cable
 
 The Excelerator Plus floppy drive use a + 5VDC / + 12 VDC power supply (PSU) with a 5-pin DIN connector, but compared to a traditional 1541-II PSU the + 5 / + 12 volt pins are available on a 4-pin DIN connector. Since this very floppy drive did no longer have the PSU that came with it, a solution is made: a PSU adapter cable is made. This cable will be connected to a standard 1541-II PSU (preferably a modern version) so that it can be used with the Excelerator Plus drive.
@@ -291,6 +295,8 @@ Below is a picture of the final PSU adapter cable.
     <img src="Images/Main_05.jpeg" alt="Description" width="600">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Drive mechanism
 
 The drive mechanism seem to be in fine general condition. There is isn´t much dust and grease, and I can not see any mechanical damage of any sort.
@@ -311,6 +317,8 @@ For the R/W head to be able to move freely up and down the floppy tracks, the ra
     <img src="Images/Mech_02.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Casing
 
 Both the top and bottom covers are in ok condition from a mechanical perspective. They are a bit scratched, and covered with a thin layer of grease.
@@ -323,6 +331,7 @@ The front bezel is quite dirty. There is a lot of residue from floppies being in
     <img src="Images/Case_01.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
