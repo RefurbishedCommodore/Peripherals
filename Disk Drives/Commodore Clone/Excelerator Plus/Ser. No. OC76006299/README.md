@@ -160,7 +160,8 @@ Below is a table showing the results of this initial testing - when the motor sp
 The initial testing also shows that some of the tests, such as the PERFORMANCE and HEAD STOP, fails. There seems to be some kind of issue with formatting disks, so this is something which needs to be investigated further.
 
 <p align="center">
-    <img src="Images/InitTest_01.png" alt="Description" width="600">
+   <img src="Images/InitTest_01.png" alt="Description" width="400">
+   <img src="Images/InitTest_02.png" alt="Description" width="400">
 </p>
 
 # Mainboard
