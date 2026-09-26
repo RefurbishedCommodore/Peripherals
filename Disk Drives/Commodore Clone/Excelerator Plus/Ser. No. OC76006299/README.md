@@ -40,6 +40,14 @@
         </ul>
     </li>
     <li>
+      <a href="#drive-mechanics">Drive mechanics</a>
+        <ul>
+        <li>
+          <a href="#cleaning-the-rw-head">Cleaning the R/W head</a>
+        </li>
+        </ul>
+    </li>
+    <li>
       <a href="#psu-adapter-cable">PSU adapter cable</a>
     </li>      
   </ul>
@@ -282,6 +290,14 @@ Below is a picture of the final PSU adapter cable.
 <p align="center">
     <img src="Images/Main_05.jpeg" alt="Description" width="600">
 </p>
+
+# Drive mechanics
+
+## Cleaning the RW head
+
+The R/W head does not seem to have been very exposed to residue from floppies. Nevertheless, the R/W head is cleaned properly with some isopropanol.
+
+
 
 <!-- MARK STOP -->
 
