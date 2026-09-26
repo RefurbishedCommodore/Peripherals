@@ -32,7 +32,10 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         <li>
-          <a href="#voltages">Voltages</a>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+        <li>
+          <a href="repairing-the-power-switch-connections">Repairing the power switch connections</a>
         </li>
         </ul>
     </li>
@@ -236,7 +239,14 @@ The old wires are cut and desoldered from the power switch, and the switch is cl
     <img src="Images/Main_09.jpeg" alt="Description" width="600">
 </p>
 
-After the exterior cleaning, the interior resistance is measured. And the measured resistance is about 0.25 Ω (both on power supply lines) which is close to the resistance of the measuring cables. So, the power switch rocker is fine and not causing the the missing + 12 VDC supply.
+After the exterior cleaning, the interior resistance is measured. And the measured resistance is about **0.25 Ω** (both on power supply lines) which is close to the resistance of the measuring cables. So, the power switch rocker is fine and not causing the the missing + 12 VDC supply.
+
+Next is to replace the old wires, or more precise: the part of the wires soldered to the switch. Four new wire stubs are soldered to the connector, and also soldered to the old wires.
+
+<p align="center">
+    <img src="Images/Main_10.jpeg" alt="Description" width="600">
+</p>
+
 
 # PSU adapter cable
 
