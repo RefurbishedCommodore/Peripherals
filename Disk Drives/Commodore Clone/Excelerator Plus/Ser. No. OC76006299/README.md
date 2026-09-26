@@ -157,6 +157,8 @@ Below is a table showing the results of this initial testing - when the motor sp
 
 </div>
 
+The initial testing also shows that some of the tests, such as the PERFORMANCE and HEAD STOP, fails. There seems to be some kind of issue with formatting disks, so this is something which needs to be investigated further.
+
 # Mainboard
 
 There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), and have the following functionality (my definitions and assumptions).
