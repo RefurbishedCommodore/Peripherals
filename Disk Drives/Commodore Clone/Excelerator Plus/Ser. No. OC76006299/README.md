@@ -322,6 +322,25 @@ For the R/W head to be able to move freely up and down the floppy tracks, the ra
     <img src="Images/Mech_02.jpeg" alt="Description" width="800">
 </p>
 
+## RW Head measurement
+
+It is good practice to measure the resistance of the Read/Write (R/W) coil and the erase coil. Since the drive fail when formatting a disk it could maybe be related to a broken R/W head - still I think this sounds a bit unlikely since the drive seems to work fine otherwise. Since there is very little documentation about the Excelerator Plus drive I don´t know the actual target values to look for, and also not which wire is which.
+
+So, to try to find some target values, I am able to borrow a working Oceanic drive. This Oceanic drive is very similar as the Excelerator Plus drive and I therefore think that this Oceanic drive can function as a target reference.
+
+<div align="center">
+    
+| Check | Description | Target | Measure | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| R/W coil | Thin Black <> White | 15 Ω | TBA Ω|  |
+| R/W coil | Thin Black <> Blue | 7.5 Ω | TBA Ω |  |
+| R/W coil | Thin Black <> Red | 8.6 Ω | TBA Ω |  |
+| R/W coil | Thick Black <> White | 145 Ω | TBA Ω|  |
+| R/W coil | ThickBlack <> Blue | 137 Ω | TBA Ω |  |
+| R/W coil | ThickBlack <> Red | 139 Ω | TBA Ω |  |
+
+</div>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
