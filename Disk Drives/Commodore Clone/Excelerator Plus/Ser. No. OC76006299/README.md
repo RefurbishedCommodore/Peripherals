@@ -154,8 +154,6 @@ Below is a table showing the results of this initial testing - when the motor sp
 
 </div>
 
-
-
 # Mainboard
 
 There are four, interconnécted, PCBs in the Excelerator Plus floppy drive which makes up the drive electronics. The PCBs are numbered from 1-4 (my definition), and have the following functionality (my definitions and assumptions).
@@ -227,6 +225,14 @@ Voltages are measured before—and after—refurbishment. This is to ensure that
 (*) This measured voltage is equal to 0 V when disk motor is not starting.
 
 **NOTE:** There is obviously something wrong with the 12 V voltage supply.
+
+## Repairing the power switch connections
+
+After some troubleshooting it turns out that some of the wires soldered to the power switch are a bit "wonky". This is probably causing the lacking +12 VDC supply. It could also be the power switch itself causing the issue.
+
+The old wires are cut and desoldered from the power switch, and the switch is cleaned properly (exterior). Below is a picture of the cleaned switch.
+
+
 
 # PSU adapter cable
 
