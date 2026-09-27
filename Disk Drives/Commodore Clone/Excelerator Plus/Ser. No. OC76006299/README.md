@@ -316,6 +316,10 @@ Below is a picture the PCB #01 with the two new capacitors installed.
     <img src="Images/Main_16.jpeg" alt="Description" width="800">
 </p>
 
+There are also two electrolytic capacitors, C12 and C14, on the PCB #04 which are replaced. These capacitors are 100 μF [16 V], and are replaced with capacitors of the same capacitance, but slightly higher voltage rating (25 V). **NOTE:** To replace the C12 capacitor the whole J7 DIN power connector must be desoldered as well. 
+
+Below are some pictures taken during the replacement process.
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
