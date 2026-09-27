@@ -37,6 +37,9 @@
         <li>
           <a href="repairing-the-power-switch-connections">Repairing the power switch connections</a>
         </li>
+        <li>
+          <a href="replacing-the-electrolytic-capacitors">Replacing the electrolytic capacitors</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -290,9 +293,11 @@ During the repair of the power switch connections the solder joints on the J7 co
 <p align="center">
     <img src="Images/Main_13.jpeg" alt="Description" width="600">
 </p>
+
 ## Replacing the electrolytic capacitors
 
 As noted from the visual inspection there are two capacitors, C5 and C13 on PCB #01, which does not look too good. These two capacitors are both 10 μF [16 V], and are replaced with new capacitors with the same capacitance and voltage rating.
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
