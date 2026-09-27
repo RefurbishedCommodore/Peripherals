@@ -320,6 +320,20 @@ There are also two electrolytic capacitors, C12 and C14, on the PCB #04 which ar
 
 Below are some pictures taken during the replacement process.
 
+<p align="center" float="left">
+    <img src="Images/Main_19.jpeg" alt="Description" width="500">
+    <img src="Images/Main_20.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main_22.jpeg" alt="Description" width="600">
+</p>
+
+Below is a picture the PCB #04 with the two new capacitors installed.
+
+<p align="center">
+    <img src="Images/Main_21.jpeg" alt="Description" width="800">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
