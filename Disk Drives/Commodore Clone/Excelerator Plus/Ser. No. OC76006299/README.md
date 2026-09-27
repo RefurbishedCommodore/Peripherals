@@ -391,12 +391,12 @@ So, to try to find some target values, I am able to borrow a working Oceanic dri
     
 | Check | Description | Target | Measure | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| R/W coil | Thin Black <> White | 15 Ω | TBA Ω|  |
-| R/W coil | Thin Black <> Blue | 7.5 Ω | TBA Ω |  |
-| R/W coil | Thin Black <> Red | 8.6 Ω | TBA Ω |  |
-| R/W coil | Thick Black <> White | 145 Ω | TBA Ω|  |
-| R/W coil | ThickBlack <> Blue | 137 Ω | TBA Ω |  |
-| R/W coil | ThickBlack <> Red | 139 Ω | TBA Ω |  |
+| R/W coil | Thin Black <> White | 15 Ω | 14.9  Ω|  |
+| R/W coil | Thin Black <> Blue | 7.5 Ω | 7.9 Ω |  |
+| R/W coil | Thin Black <> Red | 8.6 Ω | 9.9 Ω |  |
+| R/W coil | Thick Black <> White | 145 Ω | 145 Ω|  |
+| R/W coil | ThickBlack <> Blue | 137 Ω | 138 Ω |  |
+| R/W coil | ThickBlack <> Red | 139 Ω |  140 Ω |  |
 
 </div>
 
