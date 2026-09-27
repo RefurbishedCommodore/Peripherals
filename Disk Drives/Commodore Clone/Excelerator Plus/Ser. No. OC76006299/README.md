@@ -298,10 +298,22 @@ During the repair of the power switch connections the solder joints on the J7 co
 
 As noted from the visual inspection there are two capacitors, C5 and C13 on PCB #01, which does not look too good. These two capacitors are both 10 μF [16 V], and are replaced with new capacitors with the same capacitance and voltage rating.
 
+Below are some pictures taken during the replacement process.
+
+<p align="center" float="left">
+    <img src="Images/Main_17.jpeg" alt="Description" width="500">
+    <img src="Images/Main_18.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_14.jpeg" alt="Description" width="500">
+    <img src="Images/Main_15.jpeg" alt="Description" width="500">
+</p>
+
 Below is a picture the PCB #01 with the two new capacitors installed.
 
 <p align="center">
-    <img src="Images/Main_16.jpeg" alt="Description" width="600">
+    <img src="Images/Main_16.jpeg" alt="Description" width="800">
 </p>
 
 
