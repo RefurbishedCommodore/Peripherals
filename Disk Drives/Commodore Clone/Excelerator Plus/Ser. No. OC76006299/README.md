@@ -335,6 +335,8 @@ Below is a picture the PCB #04 with the two new capacitors installed.
     <img src="Images/Main_21.jpeg" alt="Description" width="800">
 </p>
 
+**NOTE:** The replacement of the capacitors does not improve, or fix, the problem with formatting. The *Performance* still fails. 
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # PSU adapter cable
