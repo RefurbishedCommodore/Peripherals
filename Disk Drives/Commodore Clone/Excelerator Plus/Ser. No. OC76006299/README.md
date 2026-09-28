@@ -40,6 +40,9 @@
         <li>
           <a href="replacing-the-electrolytic-capacitors">Replacing the electrolytic capacitors</a>
         </li>
+        <li>
+          <a href="troubleshooting">Troubleshooting</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -336,6 +339,14 @@ Below is a picture the PCB #04 with the two new capacitors installed.
 </p>
 
 **NOTE:** The replacement of the capacitors does not improve, or fix, the problem with formatting. The *Performance* still fails. 
+
+## Troubleshooting
+
+- The voltages are present and within tolerances
+- The drive can read directories and load software
+- The drive can report the rotational speed
+- 
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
