@@ -367,7 +367,7 @@ Below is a picture the PCB #04 with the two new capacitors installed.
 - The voltages are present and within tolerances
 - The drive can read directories and load software
 - The drive can report the rotational speed
-- 
+- The drive can fast format a floppy disk
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
