@@ -254,6 +254,31 @@ Below is a gallery of some of the findings from the visual inspection.
     <img src="Images/Main_12.jpeg" alt="Description" width="500">
 </p>
 
+
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 22 of 1983 and week 30 of 1984. But since the assumption is that the VIA #1 chip was replaced at some time, I think that it is a fair guess that this Commodore 1541 floppy drive drive was manufactured during the autumn of 1984.
+
+<div align="center">
+    
+| Chip | Version | Date code | Position | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS 6502B | W29 Y1984 | UC4 | Yes |  |
+| VIA #1 | MOS 6522 | W22 Y1983 | UC3 | Yes |  | 
+| VIA #2 | MOS 6522A | W30 Y1984 | UC2 | Yes |  |
+| Drive logic IC | MOS 325572-01 | Unknown | UC1 | No | |
+| DOS ROM#1 | GI 9464B-0841 <BR>901229-05 | W24 Y1984 | UB4 | Yes | |
+| DOS ROM#2 | MOS 325302-01 | W23 Y1984 | UB3 | Yes | |
+| SRAM | FUJITSU MB8128-15 | W28 Y1984 | UB2 | No | |
+
+</div>
+
+<div align="center">
+
+| Glue logic | Comment |
+|:----------:|:----------:|
+| SGS Thomson, EL, Hitachi, Mitsubishi, Fairchild, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
+
+</div>
+
 ## Checking the voltages
 
 Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. 
