@@ -264,10 +264,8 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 | CPU | ROCKWELL R6502-20 | W42 Y1984 | UC7 | No |  |
 | VIA #1 | UMC UM6522 | W35 Y1986 | UC8 | No |  | 
 | VIA #2 | UMC UM6522 | W35 Y1986 | UC9 | No |  |
-| Drive logic IC | MOS 325572-01 | Unknown | UC1 | No | |
-| DOS ROM#1 | GI 9464B-0841 <BR>901229-05 | W24 Y1984 | UB4 | Yes | |
-| DOS ROM#2 | MOS 325302-01 | W23 Y1984 | UB3 | Yes | |
-| SRAM | FUJITSU MB8128-15 | W28 Y1984 | UB2 | No | |
+| DOS ROM | EPROM | Unknown | U3 | Yes | |
+| SRAM | SONY CXK5816PN-12L | Unknown | U5 | No | |
 
 </div>
 
