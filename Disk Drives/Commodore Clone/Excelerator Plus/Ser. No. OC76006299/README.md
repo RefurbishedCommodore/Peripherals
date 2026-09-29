@@ -254,8 +254,7 @@ Below is a gallery of some of the findings from the visual inspection.
     <img src="Images/Main_12.jpeg" alt="Description" width="500">
 </p>
 
-
-The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 22 of 1983 and week 30 of 1984. But since the assumption is that the VIA #1 chip was replaced at some time, I think that it is a fair guess that this Commodore 1541 floppy drive drive was manufactured during the autumn of 1984.
+The table below lists all major custom ICs found on the mainboard. It is hard to conclude when this floppy drive was manufactured, but I think it is a fair assumption that it was during the autumn of 1986 based on the VIA date codes.
 
 <div align="center">
     
@@ -273,7 +272,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 | Glue logic | Comment |
 |:----------:|:----------:|
-| SGS Thomson, EL, Hitachi, Mitsubishi, Fairchild, Texas Instruments, Signetics, National Semiconductor | No MOS glue logic |
+| Fairchild, Hitachi, Motorola ,Texas Instruments | No MOS glue logic |
 
 </div>
 
