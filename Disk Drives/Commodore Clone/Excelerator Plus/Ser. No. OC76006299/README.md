@@ -364,11 +364,16 @@ Below is a picture the PCB #04 with the two new capacitors installed.
 
 ## Troubleshooting
 
+Since the formatting part of the *Performance* test still fails, some further troubleshooting is required. Below is a short list of what works / does not work at the moment:
+
 - The voltages are present and within tolerances
 - The drive can read directories and load software
 - The drive can report the rotational speed
 - The drive can fast format a floppy disk
-
+- When copying a disk, the drive manages to read the first part of the disk. But when it is going to write the first part to a pre-formatted disk it fails
+- When writing a small three line BASIC program, the program can be SAVED to disk
+    
+To be there seems to be an issue with the writing path. Even if the drive seems to be able to write something (e.g. the fast format and a small BASIC program), I still belive there is something marginal with the write path.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
