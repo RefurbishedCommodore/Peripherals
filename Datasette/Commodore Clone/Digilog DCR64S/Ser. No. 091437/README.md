@@ -62,6 +62,10 @@ Below are some pictures of the datasette before refurbishment.
 
 Disassembly of the Digilog DCR64S starts with removing the four screws[^1] at the bottom cover.
 
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
