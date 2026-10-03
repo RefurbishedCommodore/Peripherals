@@ -41,5 +41,7 @@ I think that the colour is original, in the sense that it is not yellowed. The d
 
 All in all, this looks like a fine datasette from the outside. I do not know if it works or not, but that will be investigated during the refurbishment.
 
+DCR64S? What could it mean? My guess is that "DCR" is short for Data Cassette Recorder, and "64", yes, of course refers to the Commodore 64.
+
 Below are some pictures of the datasette before refurbishment.
 
