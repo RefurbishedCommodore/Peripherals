@@ -1,1 +1,45 @@
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png" alt="Description" width="400">
+</p>
+
+# Digilog DCR64S
+
+![Name](https://img.shields.io/badge/Serial_No.-091437-white?style=plastic)
+<br>
+![Name](https://img.shields.io/badge/PCB-1531-white?style=plastic)
+![Name](https://img.shields.io/badge/Belt_size-Taiwan-white?style=plastic)
+
+# Table of contents
+
+<!-- TABLE OF CONTENTS -->
+<details>
+<summary>TOC - Click to enlarge</summary>
+  <ul>
+    <li>
+      <a href="#starting-point">Starting point</a>
+    </li>
+    <li>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
+    </li>
+    <li>
+      <a href="#disassembly">Disassembly</a>
+    </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+    </li>
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
+  </ul>
+</details>
+
+# Starting point
+
+This is one of many clones of the original Commodore 1530 (C2N) datasette. This particular clone, the Digilog DCR64S, is new to me, but I would expect it to be quite similar as the others. The datasette looks to be in fine condition. There are some spots, and one (and only one) cable burn mark - but I would not expect anything else.
+
+I think that the colour is original, in the sense that it is not yellowed. The dark colour is so even around the whole casing that I can´t think that this is due to any yellowing. All the keys feels responsive, but the top lid is slightly hard to press down after eject. But I think this is normal. There are some oxidation on the pins on the datasette port connector.
+
+All in all, this looks like a fine datasette from the outside. I do not know if it works or not, but that will be investigated during the refurbishment.
+
+Below are some pictures of the datasette before refurbishment.
 
