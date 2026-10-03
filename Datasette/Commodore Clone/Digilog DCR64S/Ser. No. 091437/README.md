@@ -33,6 +33,8 @@
   </ul>
 </details>
 
+<!-- MARK START -->
+
 # Starting point
 
 This is one of many clones of the original Commodore 1530 (C2N) datasette. This particular clone, the Digilog DCR64S, is new to me, but I would expect it to be quite similar as the others. The datasette looks to be in fine condition. There are some spots, and one (and only one) cable burn mark - but I would not expect anything else.
@@ -53,5 +55,17 @@ Below are some pictures of the datasette before refurbishment.
     <img src="Images/Start_05.jpeg" alt="Description" width="600">
     <img src="Images/Start_06.jpeg" alt="Description" width="600">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Disassembly
+
+Disassembly of the Digilog DCR64S starts with removing the four screws[^1] at the bottom cover.
+
+<!-- MARK STOP -->
+
+**Footnotes**
+[^1]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
