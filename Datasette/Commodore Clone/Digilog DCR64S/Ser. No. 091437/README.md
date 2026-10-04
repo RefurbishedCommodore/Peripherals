@@ -143,6 +143,13 @@ To remove the mainboard from the rest of the datasette mechanism the two screws[
     <img src="Images/Main_02.jpeg" alt="Description" width="600">
 </p>
 
+Before the PCB mainboard can be completely lifted from the datasette mechanism, the PCB is tilted slightly so that the leaf switch is revealed where the blue and black wires are connected. The small screw holding the leaf switch is removed.
+
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="600">
+</p>
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
