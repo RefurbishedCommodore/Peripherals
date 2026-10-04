@@ -33,6 +33,19 @@
   </ul>
 </details>
 
+# Refurbishment activities
+
+The planned refurbishment activites for this Digilog DCR64S (Order may vary. Several of them in parallel):
+
+- [ ]Refurbish the mainboard
+- [ ]Refurbish the internal drive mechanics
+- [ ]Refurbish the casing
+- [ ]Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 <!-- MARK START -->
 
 # Starting point
