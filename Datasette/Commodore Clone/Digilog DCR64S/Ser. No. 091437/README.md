@@ -74,6 +74,13 @@ Below is a picture of the interior with the bottom cover removed (Digilog DCR64S
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
 </p>
 
+The whole drive mechanism can simply be pulled off from the top cover. **NOTE:** I am not completely sure, but I had to press the EJECT button before I was able to release it. 
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="800">
+</p>
+
+The top cover can be disassembled further: the top lid can be pushed out from the base. 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
