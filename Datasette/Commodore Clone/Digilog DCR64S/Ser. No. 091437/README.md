@@ -125,6 +125,15 @@ Below is a picture of all the small parts - THIS IS WHAT YOU ARE LOOKING FOR ON 
     <img src="Images/Dis_09.jpeg" alt="Description" width="800">
 </p>
 
+# Mainboard
+
+As mentioned in the disassembly chapter, this PCB is marked **1531** which is the version label that the original Commodore 1530 (C2N) datasette use. And from the backside of this Digilog PCB looks identical to the original **1531** PCB. So, this is either a 1:1 clone of the original PCB - or it is actually an original Commodore PCB.
+
+There is a substantial amount of old flux residue on the PCB. The flux itself is not conductive, or corrosive, but when the flux gets old it also gets sticky. This will then lead to moist and dust being accrued together with the flux which eventually can lead to corrosion. So, during the refurbishment process the PCB will be cleaned properly with isopropanol to remove all the flux.
+
+Below is a picture of backside of the **1531** mainboard before refurbishment.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
