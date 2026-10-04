@@ -137,14 +137,21 @@ Below is a picture of backside of the **1531** mainboard before refurbishment.
     <img src="Images/Main_01.jpeg" alt="Description" width="400">
 </p>
 
-To remove the mainboard from the rest of the datasette mechanism the two screws (marked with thick arrows in picture above) are removed. 
+To remove the mainboard from the rest of the datasette mechanism the two screws[^2] (marked with thick arrows in the picture above) are removed. The black wire, from the leaf switch underneath, is desoldered from the PCB (marked with thin arrow in the picture above). Also, to make the removal easier, the transparent plastic band holding all the wires is untied. See picture below.
+
+<p align="center">
+    <img src="Images/Main_02.jpeg" alt="Description" width="600">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
 **Footnotes**
+
 [^1]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
+[^2]: Phillips pan head (3.9 mm), Machine screw, Fully threaded, Thread diameter: 3.2 mm, Fastener length: 6.0 mm
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
