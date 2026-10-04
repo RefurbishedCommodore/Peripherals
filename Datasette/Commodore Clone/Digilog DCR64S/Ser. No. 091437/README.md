@@ -157,6 +157,10 @@ With the leaf switch out of the way, the whole mainboard is lifted from the data
 
 The front side of the mainboard also looks to be in fine condition. I can see some flux residue here as well, but other than that it I can not see any damage or corrosion. There are three electrolytic capacitors on the mainboard, all 47 μF [16 V]. I can not see any obvious leakage, or bulging, but I choose to replace them anyway.
 
+<p align="center" float="left">
+    <img src="Images/Main_05.jpeg" alt="Description" width="500">
+    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
