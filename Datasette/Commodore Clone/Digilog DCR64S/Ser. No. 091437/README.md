@@ -149,6 +149,11 @@ Before the PCB mainboard can be completely lifted from the datasette mechanism, 
     <img src="Images/Main_03.jpeg" alt="Description" width="600">
 </p>
 
+With the leaf switch out of the way, the whole mainboard is lifted from the datasette mechanism.
+
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="600">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
