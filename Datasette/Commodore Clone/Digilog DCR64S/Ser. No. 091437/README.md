@@ -116,7 +116,7 @@ Next step is not complicated, but it is very easy to loose some small parts. On 
 Before the metal shaft holding all the keys in placed can be pulled out the little E-clip on the right hand side needs to be removed. This can be a bit tricky, but with a small flat screwdriver it can be removed.
 
 <p align="center">
-    <img src="Images/Dis_08.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="400">
 </p>
 
 Below is a picture of all the small parts - THIS IS WHAT YOU ARE LOOKING FOR ON THE FLOOR!
