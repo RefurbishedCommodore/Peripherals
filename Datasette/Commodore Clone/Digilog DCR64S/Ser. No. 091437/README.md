@@ -66,6 +66,17 @@ Disassembly of the Digilog DCR64S starts with removing the four screws[^1] at th
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
+With the screws out of the way, the bottom cover is carefully lifted off. The interior, with its PCB, belts and drive mechanism is exposed. One thing I immediate notice is that the PCB is marked **1531**. This is quite special, since the **1531** PCB is usually found in the original Commodore 1530 (C2N) datasette. So, this is either an original **1531** PCB or a 1:1 clone of it. A picture of the original Commodore **1531** PCB can be seen in the [HOWTO - Datasette head alignment](https://refurbished-commodore.com/datasette-head-alignment) article.
+
+Below is a picture of the interior with the bottom cover removed (Digilog DCR64S).
+
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="800">
+</p>
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 <!-- MARK STOP -->
 
 **Footnotes**
