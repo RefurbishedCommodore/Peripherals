@@ -80,7 +80,16 @@ The whole drive mechanism can simply be pulled off from the top cover. **NOTE:**
     <img src="Images/Dis_03.jpeg" alt="Description" width="800">
 </p>
 
-The top cover can be disassembled further: the top lid can be pushed out from the base. 
+The top cover can be disassembled further: the top lid can be pushed out from the base. **WARNING:** This is old and brittle plastic! Be *very* carful when pushing the two arms (see arrows in picture above) inwards. A small drop of machine sewing oil on the arms can help reduce the friction when the lid is pushed out.
+
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="500">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
