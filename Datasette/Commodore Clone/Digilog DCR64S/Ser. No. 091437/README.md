@@ -103,6 +103,16 @@ The top cover can be disassembled further: the top lid can be pushed out from th
     <img src="Images/Dis_05.jpeg" alt="Description" width="500">
 </p>
 
+Next step is not complicated, but it is very easy to loose some small parts. On the backside of the drive mechanism there are three small springs attached to the six keys. These springs needs to be released from the keys, and the springs removed. A pair of small tweezers is highly recommended.
+
+<p align="center">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="500">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
