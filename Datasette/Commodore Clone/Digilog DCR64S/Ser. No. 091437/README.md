@@ -133,7 +133,11 @@ There is a substantial amount of old flux residue on the PCB. The flux itself is
 
 Below is a picture of backside of the **1531** mainboard before refurbishment.
 
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="400">
+</p>
 
+To remove the mainboard from the rest of the datasette mechanism the two screws (marked with thick arrows in picture above) are removed. 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
