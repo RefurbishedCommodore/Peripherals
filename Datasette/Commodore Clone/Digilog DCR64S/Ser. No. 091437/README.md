@@ -40,6 +40,9 @@
       </ul>
     </li>
     <li>
+      <a href="#interior-drive-mechanism">Interior drive mechanism</a>
+    </li>
+    <li>
       <a href="#final-result">Final result</a>
     </li>
   </ul>
@@ -188,6 +191,10 @@ The leaf switch is heavily oxidised. This oxidation is removed with a glassfiber
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# Interior drive mechanism
+
 
 <!-- MARK STOP -->
 
