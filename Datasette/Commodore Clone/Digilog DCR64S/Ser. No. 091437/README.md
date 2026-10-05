@@ -27,6 +27,18 @@
     <li>
       <a href="#mainboard">Mainboard</a>
     </li>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#replacing-the-electrolytic-capacitors">Replacing the electrolytic capacitors</a>
+        </li>
+        <li>
+          <a href="#cleaning-the-leaf-switch">Cleaning the leaf switch</a>
+        </li>
+      </ul>
+    </li>
     <li>
       <a href="#final-result">Final result</a>
     </li>
@@ -129,6 +141,8 @@ Below is a picture of all the small parts - THIS IS WHAT YOU ARE LOOKING FOR ON 
 
 As mentioned in the disassembly chapter, this PCB is marked **1531** which is the version label that the original Commodore 1530 (C2N) datasette use. And from the backside of this Digilog PCB looks identical to the original **1531** PCB. So, this is either a 1:1 clone of the original PCB - or it is actually an original Commodore PCB.
 
+## Visual inspection
+
 There is a substantial amount of old flux residue on the PCB. The flux itself is not conductive, or corrosive, but when the flux gets old it also gets sticky. This will then lead to moist and dust being accrued together with the flux which eventually can lead to corrosion. So, during the refurbishment process the PCB will be cleaned properly with isopropanol to remove all the flux.
 
 Below is a picture of backside of the **1531** mainboard before refurbishment.
@@ -155,12 +169,16 @@ With the leaf switch out of the way, the whole mainboard is lifted from the data
     <img src="Images/Main_04.jpeg" alt="Description" width="800">
 </p>
 
+## Replacing the electrolytic capacitors
+
 The front side of the mainboard also looks to be in fine condition. I can see some flux residue here as well, but other than that it I can not see any damage or corrosion. There are three electrolytic capacitors (C7, C8 and C9) on the mainboard, all 47 μF [16 V]. I can not see any obvious leakage, or bulging, but I choose to replace them anyway.
 
 <p align="center" float="left">
     <img src="Images/Main_05.jpeg" alt="Description" width="500">
     <img src="Images/Main_06.jpeg" alt="Description" width="500">
 </p>
+
+## Cleaning the leaf switch
 
 The leaf switch is heavily oxidised. This oxidation is removed with a glassfiber pen and some fine grain sanding paper.
 
