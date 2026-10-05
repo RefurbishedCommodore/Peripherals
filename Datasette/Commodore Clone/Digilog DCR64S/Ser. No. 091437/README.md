@@ -162,6 +162,13 @@ The front side of the mainboard also looks to be in fine condition. I can see so
     <img src="Images/Main_06.jpeg" alt="Description" width="500">
 </p>
 
+The leaf switch is heavily oxidised. This oxidation is removed with a glassfiber pen and some fine grain sanding paper.
+
+<p align="center" float="left">
+    <img src="Images/Main_07.jpeg" alt="Description" width="500">
+    <img src="Images/Main_08.jpeg" alt="Description" width="500">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
