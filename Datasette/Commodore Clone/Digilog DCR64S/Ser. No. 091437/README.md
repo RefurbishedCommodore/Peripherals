@@ -195,6 +195,17 @@ The leaf switch is heavily oxidised. This oxidation is removed with a glassfiber
 
 # Interior drive mechanism
 
+The drive mechanism is marked with "WEICHIEN PW-33Z" and "87". See pictures below. My immediate guess is that "87" refers to the year it was manufactured - strengthened by the fact that this datasette was following the [Commodore 128](https://github.com/RefurbishedCommodore/Commodore128/blob/main/Artwork%20310381%20(Rev%209)/Ser.%20No.%20DA%204%20354432/README.md) which is also expected to be manufactured in 1987. 
+
+An AI search for the "WEICHIEN PW-33Z" reveals the following:
+
+>The Wei Chien PW-33Z is an internal cassette tape drive mechanism manufactured in Taiwan.
+>During the 1980s, this specific component was widely sourced by electronics brands to build dedicated data recorders (datasettes) and cassette players for 8-bit home computers.
+>
+>A prominent example of its use is in the Noris Data Datenrekorder DR 1535, a popular third-party Commodore 64 cassette recorder distributed in Germany. Units produced around 1986 featured a sticker on the internal mechanism confirming it as the Wei Chien PW-33Z
+
+
+
 
 <!-- MARK STOP -->
 
