@@ -204,6 +204,13 @@ An AI search for the "WEICHIEN PW-33Z" reveals the following:
 >
 >A prominent example of its use is in the Noris Data Datenrekorder DR 1535, a popular third-party Commodore 64 cassette recorder distributed in Germany. Units produced around 1986 featured a sticker on the internal mechanism confirming it as the Wei Chien PW-33Z
 
+<p align="center">
+    <img src="Images/Int_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Int_02.jpeg" alt="Description" width="800">
+</p>
 
 
 
