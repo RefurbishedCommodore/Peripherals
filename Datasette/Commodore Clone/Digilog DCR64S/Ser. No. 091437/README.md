@@ -26,7 +26,6 @@
     </li>
     <li>
       <a href="#mainboard">Mainboard</a>
-    </li>
       <ul>
         <li>
           <a href="#visual-inspection">Visual inspection</a>
@@ -40,8 +39,16 @@
       </ul>
     </li>
     <li>
-      <a href="#interior-drive-mechanism">Interior drive mechanism</a>
-    </li>
+      <a href="#drive-mechanism">Drive mechanism</a>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#replacing-the-rubber-belts">Replacing the rubber belts</a>
+        </li>
+      </ul>
+    </li>      
     <li>
       <a href="#final-result">Final result</a>
     </li>
@@ -193,7 +200,7 @@ The leaf switch is heavily oxidised. This oxidation is removed with a glassfiber
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
-# Interior drive mechanism
+# Drive mechanism
 
 The drive mechanism is marked with "WEICHIEN PW-33Z" and "87". See pictures below. My immediate guess is that "87" refers to the year it was manufactured - strengthened by the fact that this datasette was following the [Commodore 128](https://github.com/RefurbishedCommodore/Commodore128/blob/main/Artwork%20310381%20(Rev%209)/Ser.%20No.%20DA%204%20354432/README.md) which is also expected to be manufactured in 1987. 
 
@@ -212,6 +219,23 @@ An AI search for the "WEICHIEN PW-33Z" reveals the following:
     <img src="Images/Int_02.jpeg" alt="Description" width="800">
 </p>
 
+## Visual inspection
+
+The first thing I notice is that there is surprisingly little dust and grease covering the the drive mechanism. Usually, an old datasette is full of dust, but this is definitely not the case with this Digilog datasette. I can not see any mechanical damage on gears, flywheel, pinch roller or capstan.
+
+On the other hand, the large drive belt seems to be lacking its elasticity. It is not terrible, but it would probably benefit from a new drive belt.
+
+## Replacing the rubber belts
+
+There are two rubber belts in the datasette:
+
+- The drive belt which transfers the energy from the motor to the flywheel
+- The counter belt which connects the PLAY/FF gears to the three digit counter
+
+It is good practice to replace both of these, but it is not strictly required for the counter belt.
+
+Replacing the drive belt is not very complicated - if you avoid disassembling more than strictly required! First, the counter mechanism is removed from the flywheel assembly. There are two small screws[^3] holding the counter mechanism in place.
+
 
 
 <!-- MARK STOP -->
@@ -220,6 +244,7 @@ An AI search for the "WEICHIEN PW-33Z" reveals the following:
 
 [^1]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 [^2]: Phillips pan head (3.9 mm), Machine screw, Fully threaded, Thread diameter: 3.2 mm, Fastener length: 6.0 mm
+[^3]: Phillips pan head (4.2 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 4.0 mm
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
