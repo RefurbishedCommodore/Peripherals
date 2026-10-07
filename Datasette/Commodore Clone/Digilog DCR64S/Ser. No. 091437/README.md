@@ -236,6 +236,15 @@ It is good practice to replace both of these, but it is not strictly required fo
 
 Replacing the drive belt is not very complicated - if you avoid disassembling more than strictly required! First, the counter mechanism is removed from the flywheel assembly. There are two small screws[^3] holding the counter mechanism in place.
 
+<p align="center">
+    <img src="Images/Int_03.jpeg" alt="Description" width="500">
+</p>
+
+When the counter mechanism is moved away, the small screw[^4] holding the flywheel bracket is revealed.
+
+<p align="center">
+    <img src="Images/Int_04.jpeg" alt="Description" width="500">
+</p>
 
 
 <!-- MARK STOP -->
@@ -245,6 +254,6 @@ Replacing the drive belt is not very complicated - if you avoid disassembling mo
 [^1]: Phillips pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 [^2]: Phillips pan head (3.9 mm), Machine screw, Fully threaded, Thread diameter: 3.2 mm, Fastener length: 6.0 mm
 [^3]: Phillips pan head (4.2 mm), Machine screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 4.0 mm
-
+[^4]: Phillips pan head (4.2 mm - without spacer), Machine screw, Partially threaded, Thread diameter: 3.5 mm, Fastener length: 5.0 mm
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
