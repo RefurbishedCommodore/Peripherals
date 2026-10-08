@@ -248,6 +248,10 @@ When the counter mechanism is moved away, the small screw[^4] holding the flywhe
 
 Now the small screw in the corner of the flywheel bracket is **PARTIALLY** loosened. You do not want to completely remove this screw! Just unscrew it a few turns.
 
+<p align="center">
+    <img src="Images/Int_05.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
