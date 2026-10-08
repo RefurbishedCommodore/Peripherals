@@ -240,7 +240,7 @@ Replacing the drive belt is not very complicated - if you avoid disassembling mo
     <img src="Images/Int_03.jpeg" alt="Description" width="500">
 </p>
 
-When the counter mechanism is moved away, the small screw[^4] holding the flywheel bracket is revealed.
+When the counter mechanism is moved away, the small screw[^4] holding the flywheel bracket is revealed. At the same time the counter belt can easily removed.
 
 <p align="center">
     <img src="Images/Int_04.jpeg" alt="Description" width="500">
