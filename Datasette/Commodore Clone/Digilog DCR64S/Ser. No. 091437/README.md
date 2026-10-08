@@ -252,6 +252,13 @@ Now the small screw in the corner of the flywheel bracket is **PARTIALLY** loose
     <img src="Images/Int_05.jpeg" alt="Description" width="500">
 </p>
 
+With the screws out of the way, the flywheel metal bracket is slightly lifted - just so that the drive belt can be navigated through the small gap. Now the belt is free to be pulled out from the drive flywheel and the gears. See picture below.
+
+<p align="center">
+    <img src="Images/Int_06.jpeg" alt="Description" width="500">
+</p>
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
