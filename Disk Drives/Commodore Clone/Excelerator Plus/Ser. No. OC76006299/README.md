@@ -392,7 +392,7 @@ But if I now start the PERFORMANCE test (with a pre-formatted floppy from anothe
 The schematics below are from an Oceanic OC-118N drive, but this schematics is very similar to the Excelerator Plus drive. On the right hand side of the schematics is the WRITE section, and the left (middle) is the READ section.
 
 <p align="center">
-    <img src="Images/Main_25.png" alt="Description" width="700">
+    <img src="Images/Main_25.png" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
