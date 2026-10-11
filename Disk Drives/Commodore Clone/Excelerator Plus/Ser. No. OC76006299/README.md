@@ -364,7 +364,7 @@ Below is a picture the PCB #04 with the two new capacitors installed.
 
 ## Troubleshooting
 
-Since the formatting part of the *Performance* test still fails, some further troubleshooting is required. Below is a short list of what works / does not work at the moment:
+Since the formatting part of the PERFORMANCE test still fails, some further troubleshooting is required. Below is a short list of what works / does not work at the moment:
 
 - The voltages are present and within tolerances
 - The drive can read directories and load software
@@ -377,11 +377,15 @@ To be there seems to be an issue with the writing path. Even if the drive seems 
 
 Something I notice during troubleshooting the formatting problem is the following:
 
-The drive can obviously read without any problems. I have tried a few games on floppies, and everything appears to be working as it should. The alignment test shows all tracks as "100%" when tested with the original Commodore test floppy. See picture below.
+The drive can obviously read without any problems. I have tried a few games on floppies, and everything appears to be working as it should. The ALIGNMENT test shows all tracks as "100%" when tested with the original Commodore test floppy. See picture below.
 
 <p align="center">
     <img src="Images/Main_23.jpeg" alt="Description" width="500">
 </p>
+
+But if I now start the PERFORMANCE test (with a pre-formatted floppy from another drive) something interesting happens. The test will fail as before with a *21 - READ ERROR*, but if I now run the ALIGNMENT test, the first track is now corrupt: showing 0 %.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
