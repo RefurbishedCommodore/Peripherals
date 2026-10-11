@@ -380,7 +380,7 @@ Something I notice during troubleshooting the formatting problem is the followin
 The drive can obviously read without any problems. I have tried a few games on floppies, and everything appears to be working as it should. The alignment test shows all tracks as "100%" when tested with the original Commodore test floppy. See picture below.
 
 <p align="center">
-    <img src="Images/Main_22.jpeg" alt="Description" width="500">
+    <img src="Images/Main_23.jpeg" alt="Description" width="500">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
