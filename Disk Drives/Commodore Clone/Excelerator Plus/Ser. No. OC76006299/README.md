@@ -383,7 +383,12 @@ The drive can obviously read without any problems. I have tried a few games on f
     <img src="Images/Main_23.jpeg" alt="Description" width="500">
 </p>
 
-But if I now start the PERFORMANCE test (with a pre-formatted floppy from another drive) something interesting happens. The test will fail as before with a *21 - READ ERROR*, but if I now run the ALIGNMENT test, the first track is now corrupt: showing 0 %.
+But if I now start the PERFORMANCE test (with a pre-formatted floppy from another drive) something interesting happens. The test will fail as before with a *21 - READ ERROR*, but if I now run the ALIGNMENT test, the first track is now corrupt: showing 0 %. See picture below.
+
+<p align="center">
+    <img src="Images/Main_24.jpeg" alt="Description" width="500">
+</p>
+
 
 
 
