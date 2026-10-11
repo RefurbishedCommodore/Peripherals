@@ -375,6 +375,12 @@ Since the formatting part of the *Performance* test still fails, some further tr
     
 To be there seems to be an issue with the writing path. Even if the drive seems to be able to write something (e.g. the fast format and a small BASIC program), I still belive there is something marginal with the write path.
 
+Something I notice during troubleshooting the formatting problem is the following:
+
+The drive can obviously read without any problems. I have tried a few games on floppies, and everything appears to be working as it should. The alignment test shows all tracks as "100%" when tested with the original Commodore test floppy. See picture below.
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # PSU adapter cable
