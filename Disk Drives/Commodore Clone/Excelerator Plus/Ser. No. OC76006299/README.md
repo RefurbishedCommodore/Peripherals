@@ -400,8 +400,8 @@ To aid the troubleshooting a series of measurements are done:
 Test point #A: Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. Both signals appears to be OK. 
 
 <p align="center" float="left">
-    <img src="Images/Main_26.jpeg" alt="Description" width="500">
-    <img src="Images/Main_27.jpeg" alt="Description" width="500">
+    <img src="Images/Main_26.png" alt="Description" width="500">
+    <img src="Images/Main_27.png" alt="Description" width="500">
 </p>
 
 
