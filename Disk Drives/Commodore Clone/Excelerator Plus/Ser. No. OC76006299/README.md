@@ -389,15 +389,17 @@ But if I now start the PERFORMANCE test (with a pre-formatted floppy from anothe
     <img src="Images/Main_24.jpeg" alt="Description" width="500">
 </p>
 
+*Now, something interesting happens: if I switch the PCB #01 with an identical PCB from a known working Excelerator Plus drive the faulty drive works! If I use this other PCB the faulty drive passes all tests! So, as I understand this, the fault must be with the PCB #01.*
+
 The schematics below are from an Oceanic OC-118N drive, but this schematics is very similar to the Excelerator Plus drive. On the right hand side of the schematics is the WRITE section, and the left (middle) is the READ section.
 
 <p align="center">
     <img src="Images/Main_25.png" alt="Description" width="1000">
 </p>
 
-To aid the troubleshooting a series of measurements are done:
+To aid the troubleshooting a series of measurements are done. For each test point, screen shots of the signals coming from both the faulty and the working drive are taken. 
 
-**TEST POINT #A:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. Both signals appears to be OK. 
+**TEST POINT #A [FAULTY DRIVE]:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. Both signals appears to be OK. 
 
 <p align="center" float="left">
     <img src="Images/Main_26.png" alt="Description" width="500">
