@@ -416,18 +416,19 @@ To aid the troubleshooting a series of measurements are done. For each test poin
 **TEST POINT #B [FAULTY DRIVE]:**
 
 <p align="center" float="left">
-    <img src="Images/Main_34.png" alt="Description" width="300">
-    <img src="Images/Main_32.png" alt="Description" width="300">
-    <img src="Images/Main_33.png" alt="Description" width="300">
+    <img src="Images/Main_34.png" alt="Description" width="200">
+    <img src="Images/Main_32.png" alt="Description" width="200">
+    <img src="Images/Main_33.png" alt="Description" width="200">
+    <img src="Images/Main_39.png" alt="Description" width="200">    
 </p>
 
 
 **TEST POINT #B [WORKING DRIVE]:**
 <p align="center" float="left">
-    <img src="Images/Main_35.png" alt="Description" width="300">
-    <img src="Images/Main_36.png" alt="Description" width="300">
-    <img src="Images/Main_37.png" alt="Description" width="300">
-    <img src="Images/Main_38.png" alt="Description" width="300">    
+    <img src="Images/Main_35.png" alt="Description" width="200">
+    <img src="Images/Main_36.png" alt="Description" width="200">
+    <img src="Images/Main_37.png" alt="Description" width="200">
+    <img src="Images/Main_38.png" alt="Description" width="200">    
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
