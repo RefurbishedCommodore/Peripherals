@@ -399,21 +399,33 @@ The schematics below are from an Oceanic OC-118N drive, but this schematics is v
 
 To aid the troubleshooting a series of measurements are done. For each test point, screen shots of the signals coming from both the faulty and the working drive are taken.
 
-**TEST POINT #A [FAULTY DRIVE]:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. The signal varies from 0 V to 12 V with peaks measured at +15 / + 10 V. The signals appears to be OK.
+Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. The signal varies from 0 V to 12 V with peaks measured at +15 / + 10 V. The signals appears to be OK on the faulty drive.
+
+**TEST POINT #A [FAULTY DRIVE]:**
 
 <p align="center" float="left">
-    <img src="Images/Main_26.png" alt="Description" width="300">
-    <img src="Images/Main_27.png" alt="Description" width="300">
-    <img src="Images/Main_31.png" alt="Description" width="300">
+    <img src="Images/Main_26.png" alt="Description" width="135">
+    <img src="Images/Main_27.png" alt="Description" width="135">
+    <img src="Images/Main_31.png" alt="Description" width="135">
+    <img src="Images/Main_29.png" alt="Description" width="135">
+    <img src="Images/Main_28.png" alt="Description" width="135">
+    <img src="Images/Main_30.png" alt="Description" width="135">
 </p>
+
+**TEST POINT #A [WORKING DRIVE]:**
 
 <p align="center" float="left">
-    <img src="Images/Main_29.png" alt="Description" width="300">
-    <img src="Images/Main_28.png" alt="Description" width="300">
-    <img src="Images/Main_30.png" alt="Description" width="300">
+    <img src="Images/Main_45.png" alt="Description" width="135">
+    <img src="Images/Main_40.png" alt="Description" width="135">
+    <img src="Images/Main_42.png" alt="Description" width="135">
+    <img src="Images/Main_43.png" alt="Description" width="135">
+    <img src="Images/Main_41.png" alt="Description" width="135">
+    <img src="Images/Main_44.png" alt="Description" width="135">
 </p>
 
-**TEST POINT #B [FAULTY DRIVE]:**
+PIN#3 on the R/W head is measured during the format operation in the PERFORMANCE test. Here I notice something that *could* be important. It seems like the signal on the faulty drive is struggling to stay at +12V for a long enough period. It is not easy to measure this very close, but I do think that there is a difference here.
+
+**TEST POINT #B [FAULTY DRIVE]:** 
 
 <p align="center" float="left">
     <img src="Images/Main_34.png" alt="Description" width="200">
@@ -421,7 +433,6 @@ To aid the troubleshooting a series of measurements are done. For each test poin
     <img src="Images/Main_33.png" alt="Description" width="200">
     <img src="Images/Main_39.png" alt="Description" width="200">    
 </p>
-
 
 **TEST POINT #B [WORKING DRIVE]:**
 <p align="center" float="left">
