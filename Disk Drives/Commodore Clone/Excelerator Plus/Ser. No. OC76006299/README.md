@@ -399,7 +399,7 @@ The schematics below are from an Oceanic OC-118N drive, but this schematics is v
 
 To aid the troubleshooting a series of measurements are done. For each test point, screen shots of the signals coming from both the faulty and the working drive are taken.
 
-**TEST POINT #A [FAULTY DRIVE]:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. The signal varies from 0 V to 12 V with peaks measured at +15 / + 10 V.
+**TEST POINT #A [FAULTY DRIVE]:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. The signal varies from 0 V to 12 V with peaks measured at +15 / + 10 V. The signals appears to be OK.
 
 <p align="center" float="left">
     <img src="Images/Main_26.png" alt="Description" width="300">
