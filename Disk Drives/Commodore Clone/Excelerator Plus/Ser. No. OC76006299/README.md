@@ -399,12 +399,18 @@ The schematics below are from an Oceanic OC-118N drive, but this schematics is v
 
 To aid the troubleshooting a series of measurements are done. For each test point, screen shots of the signals coming from both the faulty and the working drive are taken.
 
-**TEST POINT #A [FAULTY DRIVE]:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. Both signals appears to be OK. 
+**TEST POINT #A [FAULTY DRIVE]:** Both PIN #1 and PIN #6 on the R/W head is measured during the format operation in the PERFORMANCE test. The signal varies from 0 V to 12 V with peaks measured at +15 / + 10 V.
 
 <p align="center" float="left">
     <img src="Images/Main_26.png" alt="Description" width="300">
     <img src="Images/Main_27.png" alt="Description" width="300">
+    <img src="Images/Main_31.png" alt="Description" width="300">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_29.png" alt="Description" width="300">
     <img src="Images/Main_28.png" alt="Description" width="300">
+    <img src="Images/Main_30.png" alt="Description" width="300">
 </p>
 
 
@@ -429,9 +435,8 @@ The 5-pin DIN connector which is to be used on the Excelerator side have the pin
 
 Below is a picture of the final PSU adapter cable.
 
-<p align="center" float="left">
-    <img src="Images/Main_26.jpeg" alt="Description" width="500">
-    <img src="Images/Main_27.jpeg" alt="Description" width="500">
+<p align="center">
+    <img src="Images/Main_05.jpeg" alt="Description" width="700">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
