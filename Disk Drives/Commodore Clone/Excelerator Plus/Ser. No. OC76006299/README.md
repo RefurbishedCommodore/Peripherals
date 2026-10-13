@@ -422,6 +422,14 @@ To aid the troubleshooting a series of measurements are done. For each test poin
 </p>
 
 
+**TEST POINT #B [WORKING DRIVE]:**
+<p align="center" float="left">
+    <img src="Images/Main_35.png" alt="Description" width="300">
+    <img src="Images/Main_36.png" alt="Description" width="300">
+    <img src="Images/Main_37.png" alt="Description" width="300">
+    <img src="Images/Main_38.png" alt="Description" width="300">    
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # PSU adapter cable
