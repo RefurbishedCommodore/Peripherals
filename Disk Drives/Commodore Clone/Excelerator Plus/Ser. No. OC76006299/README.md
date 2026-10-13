@@ -413,6 +413,13 @@ To aid the troubleshooting a series of measurements are done. For each test poin
     <img src="Images/Main_30.png" alt="Description" width="300">
 </p>
 
+**TEST POINT #B [FAULTY DRIVE]:**
+
+<p align="center" float="left">
+    <img src="Images/Main_34.png" alt="Description" width="300">
+    <img src="Images/Main_32.png" alt="Description" width="300">
+    <img src="Images/Main_33.png" alt="Description" width="300">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
