@@ -436,10 +436,10 @@ PIN#3 on the R/W head is measured during the format operation in the PERFORMANCE
 
 **TEST POINT #B [WORKING DRIVE]:**
 <p align="center" float="left">
-    <img src="Images/Main_35.png" alt="Description" width="200">
     <img src="Images/Main_36.png" alt="Description" width="200">
-    <img src="Images/Main_37.png" alt="Description" width="200">
-    <img src="Images/Main_38.png" alt="Description" width="200">    
+    <img src="Images/Main_38.png" alt="Description" width="200">
+    <img src="Images/Main_35.png" alt="Description" width="200">
+    <img src="Images/Main_37.png" alt="Description" width="200">    
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
