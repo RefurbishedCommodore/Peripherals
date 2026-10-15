@@ -442,6 +442,13 @@ PIN#3 on the R/W head is measured during the format operation in the PERFORMANCE
     <img src="Images/Main_37.png" alt="Description" width="200">    
 </p>
 
+I am now falling deep into the rabbit hole of magnetic flux! After hours of investigation, there is something I notice - which does seems to be a real difference. When the ERASE coil voltage is raised from 0 V to 12 V, and then back to 0 V again, there are some rapid voltage transients. This is caused by the ERASE coil trying to refrain from any changes in the voltage. Now, what I notice is the following:
+
+- On the faulty drive the transients are very noticeable, especially when going from 12 V to 0 V
+- On the working drive the transients are noticeable, but the peak values are way smaller when going from 12 V to 0 V
+- On yet another working drive (which actually seems to format disks faster) the transients are barely noticeable when going from 12 V to 0 V
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # PSU adapter cable
