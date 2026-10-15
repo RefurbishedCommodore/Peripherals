@@ -448,6 +448,12 @@ I am now falling deep into the rabbit hole of magnetic flux! After hours of inve
 - On the working drive the transients are noticeable, but the peak values are way smaller when going from 12 V to 0 V
 - On yet another working drive (which actually seems to format disks faster) the transients are barely noticeable when going from 12 V to 0 V
 
+**TEST POINT #B [FAULT/WORKING/WORKING DRIVE]:**
+<p align="center" float="left">
+    <img src="Images/Main_46.png" alt="Description" width="300">
+    <img src="Images/Main_47.png" alt="Description" width="300">
+    <img src="Images/Main_48.png" alt="Description" width="300">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
