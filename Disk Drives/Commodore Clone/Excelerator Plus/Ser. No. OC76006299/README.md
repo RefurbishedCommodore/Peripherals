@@ -462,6 +462,15 @@ A close-up of the faulty and working drive of the transient is shown below. As c
     <img src="Images/Main_49.jpeg" alt="Description" width="400">
 </p>
 
+**TEST POINT #C [FAULT/WORKING DRIVE]:**
+
+Another test point is on the resistor R4. This is the resistor which the current from the erase coil flows through to ground. But, as can be seen from the screenshots below there are hardly any difference between the two. The screenshot on the left side is the faulty drive, and the screenshot on the right side is the working drive.
+
+<p align="center" float="left">
+    <img src="Images/Main_51.png" alt="Description" width="300">
+    <img src="Images/Main_52.png" alt="Description" width="300">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
