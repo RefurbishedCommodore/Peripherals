@@ -455,6 +455,14 @@ I am now falling deep into the rabbit hole of magnetic flux! After hours of inve
     <img src="Images/Main_48.png" alt="Description" width="300">
 </p>
 
+A close-up of the faulty and working drive of the transient is shown below.
+
+<p align="center" float="left">
+    <img src="Images/Main_49.png" alt="Description" width="400">
+    <img src="Images/Main_50.png" alt="Description" width="400">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # PSU adapter cable
