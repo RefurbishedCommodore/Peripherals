@@ -464,7 +464,7 @@ A close-up of the faulty and working drive of the transient is shown below. As c
 
 **TEST POINT #C [FAULT/WORKING DRIVE]:**
 
-Another test point is on the resistor R4. This is the resistor which the current from the erase coil flows through to ground. But, as can be seen from the screenshots below there are hardly any difference between the two. The screenshot on the left side is the faulty drive, and the screenshot on the right side is the working drive.
+Another test point is on the resistor R4. This is the resistor which the current from the erase coil flows through to ground. But, as can be seen from the screenshots below there are hardly any difference between the two. The screenshot on the left side is the faulty drive, and the screenshot on the right side is the working drive. On the faulty drive the resistor R4 is measured to 182.2 Ω and on the working drive R4 is measured to 138.4 Ω.
 
 <p align="center" float="left">
     <img src="Images/Main_51.png" alt="Description" width="300">
