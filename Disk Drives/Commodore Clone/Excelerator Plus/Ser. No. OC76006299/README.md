@@ -455,7 +455,7 @@ I am now falling deep into the rabbit hole of magnetic flux! After hours of inve
     <img src="Images/Main_48.png" alt="Description" width="300">
 </p>
 
-A close-up of the faulty and working drive of the transient is shown below.
+A close-up of the faulty and working drive of the transient is shown below. As can be seen the peak voltage transients are higher on the faulty drive compared to the working drive, and also the duration of the oscillation is slightly longer on the faulty drive.
 
 <p align="center" float="left">
     <img src="Images/Main_50.jpeg" alt="Description" width="400">
