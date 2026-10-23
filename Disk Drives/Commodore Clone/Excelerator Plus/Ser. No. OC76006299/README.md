@@ -476,11 +476,13 @@ Another test point is on the resistor R4. This is the resistor which the current
 
 ## Replacing potentially faulty parts
 
-There is no crystal clear sign of what is wrong with the drive related to failing formatting. The only thing that currently stand out is variation in the voltage/current transients when the Q4 transistor shuts off the 12 VDC to the ERASE coil. 
+There is no crystal clear sign of what is wrong with the drive related to failing formatting. The only thing that currently stand out is variation in the voltage/current transients when the Q4 transistor shuts off the 12 VDC to the ERASE coil. The voltage across the ERASE coil is determined by the formula V=L*(dI/dt). That means that the faster Q4 close the 12 VDC connection the more volatile is the transient.
 
-\[
-V_L=L\frac{dI}{dt}
-\]
+So, the first part to be swapped with the working PCB is Q4.
+
+**RESULT:** The drive can still not format a disk. The voltage transient is now identical as shown for the working drive. That indicates that the voltage transients was not causing the problem.
+
+
 
 
 
