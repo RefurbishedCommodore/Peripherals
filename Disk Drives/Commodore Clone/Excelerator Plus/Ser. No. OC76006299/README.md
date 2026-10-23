@@ -426,6 +426,19 @@ Both PIN #1 and PIN #6 on the R/W head is measured during the format operation i
     <img src="Images/Main_44.png" alt="Description" width="135">
 </p>
 
+During the initialising of the format process a sequence of SYNC,$55,SYNC is sent. And from the screenshots above that seems to be correct. Below is a list of the expected values of these (in regards of timing), and that seems to match quite well with the oscilloscope readings. 
+
+<div align="center">
+    
+| Quantity | Approximate value | 
+|:----------:|:----------:|
+| Bit-cell duration | 3.25 µs |
+| $FF SYNC transition interval | 3.25 µs |
+| $55 transition interval | 6.50 µs |
+
+</div>
+
+
 PIN#3 on the R/W head is measured during the format operation in the PERFORMANCE test. Here I notice something that *could* be important. It seems like the signal on the faulty drive is struggling to stay at +12V for a long enough period. It is not easy to measure this very close, but I do think that there is a difference here.
 
 **TEST POINT #B [FAULTY DRIVE]:** 
