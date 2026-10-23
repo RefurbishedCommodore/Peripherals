@@ -43,6 +43,9 @@
         <li>
           <a href="troubleshooting">Troubleshooting</a>
         </li>
+        <li>
+          <a href="troubleshooting">Replacing potential faulty parts</a>
+        </li>
         </ul>
     </li>
     <li>
@@ -470,6 +473,16 @@ Another test point is on the resistor R4. This is the resistor which the current
     <img src="Images/Main_51.png" alt="Description" width="300">
     <img src="Images/Main_52.png" alt="Description" width="300">
 </p>
+
+## Replacing potentially faulty parts
+
+There is no crystal clear sign of what is wrong with the drive related to failing formatting. The only thing that currently stand out is variation in the voltage/current transients when the Q4 transistor shuts off the 12 VDC to the ERASE coil. 
+
+\[
+V_L=L\frac{dI}{dt}
+\]
+
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
