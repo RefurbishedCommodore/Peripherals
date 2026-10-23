@@ -464,7 +464,7 @@ I am now falling deep into the rabbit hole of magnetic flux! After hours of inve
 - On the working drive the transients are noticeable, but the peak values are way smaller when going from 12 V to 0 V
 - On yet another working drive (which actually seems to format disks faster) the transients are barely noticeable when going from 12 V to 0 V
 
-**TEST POINT #B [FAULT/WORKING/WORKING DRIVE]:**
+**TEST POINT #B [FAULTY/WORKING/WORKING DRIVE]:**
 <p align="center" float="left">
     <img src="Images/Main_46.png" alt="Description" width="300">
     <img src="Images/Main_47.png" alt="Description" width="300">
@@ -478,7 +478,7 @@ A close-up of the faulty and working drive of the transient is shown below. As c
     <img src="Images/Main_49.jpeg" alt="Description" width="400">
 </p>
 
-**TEST POINT #C [FAULT/WORKING DRIVE]:**
+**TEST POINT #C [FAULTY/WORKING DRIVE]:**
 
 Another test point is on the resistor R4. This is the resistor which the current from the erase coil flows through to ground. But, as can be seen from the screenshots below there are hardly any difference between the two. The screenshot on the left side is the faulty drive, and the screenshot on the right side is the working drive. On the faulty drive the resistor R4 is measured to 182.2 Ω and on the working drive R4 is measured to 138.4 Ω.
 
