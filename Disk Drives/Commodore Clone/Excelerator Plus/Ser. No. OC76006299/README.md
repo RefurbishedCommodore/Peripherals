@@ -44,7 +44,10 @@
           <a href="troubleshooting">Troubleshooting</a>
         </li>
         <li>
-          <a href="troubleshooting">Replacing potential faulty parts</a>
+          <a href="replacing-potential-faulty-parts">Replacing potential faulty parts</a>
+        </li>
+        <li>
+          <a href="using-a-different-power-supply-psu">Using a different Power Supply PSU</a>
         </li>
         </ul>
     </li>
@@ -512,6 +515,17 @@ Moving over to the read-part of the drive, the MC3470AP chip (IC2) is swapped wi
 <p align="center" float="left">
     <img src="Images/Main_55.jpeg" alt="Description" width="500">
 </p>
+
+**RESULT:** Some progress. The drive can still not format a disk, but it actually manages to format 2-3 of the first tracks before it fails.
+
+## Using a different Power Supply PSU
+
+During the troubleshooting process something occur to me: if the 12 V DC and 5 V DC voltage supply is not clean enough this could cause interference. Writing to magnetic media is very susceptible to noise - which would cause errors.
+
+And now something happens: when a new modern power supply (from Ray Carlsen) and my new PSU adapter **the drive works fine!** All this troubleshooting and work - only to see that changing the power supply fixed the issue.
+
+**IMPORTANT NOTE:** Even if the drive now works as it should I do experience that it is a bit "picky" on magnetic media. Old floppies which are worn, and heavily used, do fail formatting from time to time. Other floppies formats without any issues at all. I think this is "as-good-as-it-gets" considering the old age of the drive.
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
