@@ -491,13 +491,27 @@ Another test point is on the resistor R4. This is the resistor which the current
 
 There is no crystal clear sign of what is wrong with the drive related to failing formatting. The only thing that currently stand out is variation in the voltage/current transients when the Q4 transistor shuts off the 12 VDC to the ERASE coil. The voltage across the ERASE coil is determined by the formula V=L*(dI/dt). That means that the faster Q4 close the 12 VDC connection the more volatile is the transient.
 
-So, the first part to be swapped with the working PCB is Q4.
+So, the first part to be swapped with the working PCB is transistor Q4. The transistor is desoldered without any damage to traces or pads.
+
+<p align="center" float="left">
+    <img src="Images/Main_53.jpeg" alt="Description" width="500">
+</p>
 
 **RESULT:** The drive can still not format a disk. The voltage transient is now identical as shown for the working drive. That indicates that the voltage transients was not causing the problem.
 
+Next the MC3346P transistor package (IC1) is swapped with the working PCB. The chip is desoldered without any damage to traces or pads.
 
+<p align="center" float="left">
+    <img src="Images/Main_54.jpeg" alt="Description" width="500">
+</p>
 
+**RESULT:** The drive can still not format a disk. No changes identified in any signal.
 
+Moving over to the read-part of the drive, the MC3470AP chip (IC2) is swapped with the working PCB. The chip is desoldered without any damage to traces or pads.
+
+<p align="center" float="left">
+    <img src="Images/Main_55.jpeg" alt="Description" width="500">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
