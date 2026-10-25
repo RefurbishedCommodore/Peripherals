@@ -526,7 +526,9 @@ And now something happens: when a new modern power supply (from Ray Carlsen) and
 
 **IMPORTANT NOTE:** Even if the drive now works as it should I do experience that it is a bit "picky" on magnetic media. Old floppies which are worn, and heavily used, do fail formatting from time to time. Other floppies formats without any issues at all. I think this is "as-good-as-it-gets" considering the old age of the drive.
 
+**WHY DOES IT HELP SWITCHING TO A MODERN PSU:** It is good practice to use modern PSU replacement when powering old retro gear equipment. Usually, this is due to the danger of overvoltage or lack of sufficent power (too low current output). Nevertheless, this is not the issue here as I see. But another issue that old power supplies cause is electromagnetic noise. If the filtering capacitors in the PSU are marginal, both low- and high frequency noise can pass into the retro device. And if this is the case, you could experience that the device under operation fails.
 
+But, also on the device side there are capacitors which filters any noise. And this noise is both from the power supply - and from the components on the PCBs in the device.  
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
