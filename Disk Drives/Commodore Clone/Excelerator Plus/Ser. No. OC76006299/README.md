@@ -625,6 +625,10 @@ The front bezel is quite dirty. There is a lot of residue from floppies being in
     <img src="Images/Case_01.jpeg" alt="Description" width="800">
 </p>
 
+The metal top- and bottom covers are carefully cleaned with some glass cleaning liquid on a cloth. There is a significant amount of scratches on the top cover, but this something that can´t be easily fixed.
+
+On the bottom cover there are only three out of four rubber feet. Also, some of the feet are quite dried out. 
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Testing
