@@ -653,7 +653,33 @@ The table below shows the results of the testing performed using the standard CB
 
 Below are some screenshots from the testing process.
 
+<p align="center" float="left">
+    <img src="Images/Test_01.png" alt="Description" width="180">
+    <img src="Images/Test_02.png" alt="Description" width="180">
+    <img src="Images/Test_03.png" alt="Description" width="180">
+    <img src="Images/Test_04.png" alt="Description" width="180">
+</p>
 
+<p align="center" float="left">
+    <img src="Images/Test_06.png" alt="Description" width="180">
+    <img src="Images/Test_05.png" alt="Description" width="180">
+    <img src="Images/Test_07.png" alt="Description" width="180">
+    <img src="Images/Test_08.png" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_09.png" alt="Description" width="180">
+    <img src="Images/Test_11.png" alt="Description" width="180">
+    <img src="Images/Test_12.png" alt="Description" width="180">
+    <img src="Images/Test_13.png" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_14.png" alt="Description" width="180">
+    <img src="Images/Test_15.png" alt="Description" width="180">
+    <img src="Images/Test_16.png" alt="Description" width="180">
+    <img src="Images/Test_17.png" alt="Description" width="180">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
