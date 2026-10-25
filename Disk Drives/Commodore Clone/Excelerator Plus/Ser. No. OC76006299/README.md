@@ -75,7 +75,10 @@
     </li>      
     <li>
       <a href="#psu-adapter-cable">PSU adapter cable</a>
-    </li>      
+    </li>
+    <li>
+      <a href="#testing">Testing</a>
+    </li>           
   </ul>
 </details>
 
@@ -622,8 +625,33 @@ The front bezel is quite dirty. There is a lot of residue from floppies being in
     <img src="Images/Case_01.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Testing
+
+The proof is in the pudding — does it work?
+
+The purpose of this stage is to test and verify that the Excelerator floppy disk drive works as it should. The basic functionality tested earlier is re-tested and verified. A combination of software tools is used in this process; please see the description of the [tools](https://refurbished-commodore.com/tools).
+
+The table below shows the results of the testing performed using the standard CBM DOS and CBM Kernal.
+
+<div align="center">
+    
+| Test | Description | Passed/Failed | Comment |
+|:----------:|:----------:|:----------:|:----------:|
+| Normal power on | Normal power on<br>Disk drives powers on<br>Drive light goes off after short time<br>Motor stops spinning | PASSED |  |
+| Loading: DIRECTORY | Loading a directory from BASIC[^5] | PASSED | |
+| Loading: FILE | Loading a file from BASIC[^5] | PASSED | |
+| Rotation speed | Rotation speed should be 300 RPM[^6] | PASSED | NO READING|
+| Performance | Checking basic functionality such as[^6]:<br>FORMAT, LOAD, WRITE| PASSED | |
+| Alignment | Checking R/W track alignment[^7] | PASSED | Track 1-35: "SATISFACTORY" |
+| Head stop | Checking the position of track 0[^7] | FAILED | Track 0: "EXCELLENT" |
+
+</div>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 
 <!-- MARK STOP -->
 
