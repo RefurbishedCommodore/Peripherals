@@ -531,15 +531,14 @@ And now something happens: when a new modern power supply (from Ray Carlsen) and
 But, also on the device side there are capacitors which filters any noise. And this noise is both from the power supply - and from the components on the PCBs in the device. Some examples of these are C5 and C13 which filters noise from the 5 V and 12 V rail respectively (note that there is a typo on the C13 - it is 10µF).
 
 <p align="center" float="left">
-    <img src="Images/Main_56.jpeg" alt="Description" width="500">
+    <img src="Images/Main_56.png" alt="Description" width="500">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Main_57.jpeg" alt="Description" width="500">
+    <img src="Images/Main_57.png" alt="Description" width="250">
 </p>
 
-
-
+You could argue that all passive components (coils, resistors and capacitors) could be replaced and fix the noise from the PSU. Sure, but I would argue that the cost (and time) to change all these passive components would be very high - and with no guarantees. I think it is way better to use good floppies and a modern PSU to operate the drive.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
