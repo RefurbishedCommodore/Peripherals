@@ -530,11 +530,8 @@ And now something happens: when a new modern power supply (from Ray Carlsen) and
 
 But, also on the device side there are capacitors which filters any noise. And this noise is both from the power supply - and from the components on the PCBs in the device. Some examples of these are C5 and C13 which filters noise from the 5 V and 12 V rail respectively (note that there is a typo on the C13 - it is 10µF).
 
-<p align="center" float="left">
+<p align="center">
     <img src="Images/Main_56.png" alt="Description" width="500">
-</p>
-
-<p align="center" float="left">
     <img src="Images/Main_57.png" alt="Description" width="250">
 </p>
 
