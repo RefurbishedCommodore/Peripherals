@@ -528,7 +528,18 @@ And now something happens: when a new modern power supply (from Ray Carlsen) and
 
 **WHY DOES IT HELP SWITCHING TO A MODERN PSU:** It is good practice to use modern PSU replacement when powering old retro gear equipment. Usually, this is due to the danger of overvoltage or lack of sufficent power (too low current output). Nevertheless, this is not the issue here as I see. But another issue that old power supplies cause is electromagnetic noise. If the filtering capacitors in the PSU are marginal, both low- and high frequency noise can pass into the retro device. And if this is the case, you could experience that the device under operation fails.
 
-But, also on the device side there are capacitors which filters any noise. And this noise is both from the power supply - and from the components on the PCBs in the device.  
+But, also on the device side there are capacitors which filters any noise. And this noise is both from the power supply - and from the components on the PCBs in the device. Some examples of these are C5 and C13 which filters noise from the 5 V and 12 V rail respectively (note that there is a typo on the C13 - it is 10µF).
+
+<p align="center" float="left">
+    <img src="Images/Main_56.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_57.jpeg" alt="Description" width="500">
+</p>
+
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
