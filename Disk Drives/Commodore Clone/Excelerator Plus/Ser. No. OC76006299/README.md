@@ -649,6 +649,11 @@ The table below shows the results of the testing performed using the standard CB
 
 </div>
 
+**NOTE:** The "HEAD STOP" test fails. But this is probably perfectly OK, and is just a consequence that this is a clone 1541 drive which use a different track 0 sensor and mechanism. 
+
+Below are some screenshots from the testing process.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
