@@ -258,6 +258,7 @@ With the screws out of the way, the flywheel metal bracket is slightly lifted - 
     <img src="Images/Int_06.jpeg" alt="Description" width="500">
 </p>
 
+The belts are actually not in too bad condition. I have seen much worse. But they do lack some elasticity. Also, they are a bit deformed. See picture below.
 
 <!-- MARK STOP -->
 
