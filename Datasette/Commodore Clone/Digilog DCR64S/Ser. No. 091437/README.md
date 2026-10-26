@@ -50,6 +50,9 @@
       </ul>
     </li>      
     <li>
+      <a href="#casing">Casing</a>
+    </li>
+    <li>
       <a href="#final-result">Final result</a>
     </li>
   </ul>
@@ -199,7 +202,6 @@ The leaf switch is heavily oxidised. This oxidation is removed with a glassfiber
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
 # Drive mechanism
 
 The drive mechanism is marked with "WEICHIEN PW-33Z" and "87". See pictures below. My immediate guess is that "87" refers to the year it was manufactured - strengthened by the fact that this datasette was following the [Commodore 128](https://github.com/RefurbishedCommodore/Commodore128/blob/main/Artwork%20310381%20(Rev%209)/Ser.%20No.%20DA%204%20354432/README.md) which is also expected to be manufactured in 1987. 
@@ -270,8 +272,21 @@ New replacement belts are ordered from [dataserve-retro.co.uk](dataserve-retro.c
     <img src="Images/Int_08.jpeg" alt="Description" width="400">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Casing
+
+The casing consists of a top and bottom cover. The top cover also includes a semi-transparent lid which can be removed. All in all, the covers does not appear to be very dirty. And I think that the colour is more or less the original. If this were yellowed I would expect the yellowing to be more random. The colour seem to be the same all over the covers.
+
+There are some marks at the rear side of the top cover, and a "burn mark" from the cable which can be hard to remove, but the casing will be cleaned properly so hopefully it will look much better.
+
+Before the covers are cleaned the top lid is removed. This is not very complicated, but be careful not to break the brittle plastic. The two plastic arms (one on each side) is pushed inwards, while at the same time the lid is pushed outwards. A small drop of machine sewing oil is used on the plastic arms to reduce the friction when removing it.
+
 
 <!-- MARK STOP -->
+
+
+
 
 **Footnotes**
 
