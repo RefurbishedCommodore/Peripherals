@@ -48,7 +48,13 @@
           <a href="#replacing-the-rubber-belts">Replacing the rubber belts</a>
         </li>
       </ul>
-    </li>      
+    </li>    
+    <li>
+      <a href="#tape-head-azimuth-alignment">Tape head azimuth alignment</a>
+    </li>
+    <li>
+      <a href="#tape-speed">Tape speed</a>
+    </li>
     <li>
       <a href="#casing">Casing</a>
     </li>
@@ -273,6 +279,12 @@ New replacement belts are ordered from [dataserve-retro.co.uk](dataserve-retro.c
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# Tape head azimuth alignment
+
+# Tape speed
+
 
 # Casing
 
