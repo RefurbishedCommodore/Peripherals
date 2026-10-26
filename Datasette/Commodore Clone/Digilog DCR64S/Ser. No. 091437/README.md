@@ -260,6 +260,17 @@ With the screws out of the way, the flywheel metal bracket is slightly lifted - 
 
 The belts are actually not in too bad condition. I have seen much worse. But they do lack some elasticity. Also, they are a bit deformed. See picture below.
 
+<p align="center">
+    <img src="Images/Int_07.jpeg" alt="Description" width="600">
+</p>
+
+New replacement belts are ordered from [dataserve-retro.co.uk](dataserve-retro.co.uk). Notice that the belt size is named the "Taiwan version". These belts fit 1530 C2N datasettes which are made in Taiwan - and this Digilog datasette.
+
+<p align="center">
+    <img src="Images/Int_08.jpeg" alt="Description" width="400">
+</p>
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
