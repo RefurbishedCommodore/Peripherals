@@ -282,6 +282,12 @@ There are some marks at the rear side of the top cover, and a "burn mark" from t
 
 Before the covers are cleaned the top lid is removed. This is not very complicated, but be careful not to break the brittle plastic. The two plastic arms (one on each side) is pushed inwards, while at the same time the lid is pushed outwards. A small drop of machine sewing oil is used on the plastic arms to reduce the friction when removing it.
 
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="700">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 
 <!-- MARK STOP -->
 
