@@ -88,9 +88,9 @@
 
 The planned refurbishment activites for this Excelerator Plus floppy drive (Order may vary. Several of them in parallel):
 
-- [ ]Refurbish the mainboard
+- [x]Refurbish the mainboard
 - [x]Create power supply adapter cable
-- [ ]Refurbish the internal mechanics
+- [x]Refurbish the internal mechanics
 - [ ]Refurbish the casing
 - [ ]Testing and validation
 
