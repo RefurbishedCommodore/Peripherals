@@ -292,7 +292,10 @@ But now I discover something which I have not observed before: there is no easy 
 
 Nevertheless, both the Cassette-azimuth and the Azimuth Head Aligment kit shows that the R/W heads are properly aligned. There is maybe a slight misalignment seen from the Cassette-azimuth software, but I do not think this is substantial. And the Azimuth Head Alignment Kit is counting to 8000 without any issues each time (bang on every attempt). 
 
-
+<p align="center" float="left">
+    <img src="Images/Head_01.png" alt="Description" width="400">
+    <img src="Images/Head_02.png" alt="Description" width="400">
+</p>
 
 # Tape speed
 
