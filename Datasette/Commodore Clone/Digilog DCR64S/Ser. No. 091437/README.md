@@ -299,6 +299,20 @@ Nevertheless, both the Cassette-azimuth and the Azimuth Head Aligment kit shows 
 
 # Tape speed
 
+The idea is smart, but simple:
+
+A professional Speed Calibration Audio cassette which contains a 440 Hz and 3150 Hz sinewave recording is loaded in the datasette. During playback of this tape a software (developed by J. Deorgee) reads the registered frequency on a Commodore 64. The idea is to adjust the speed until the recorded frequency, 3150 Hz, is measured.
+
+Note that this great idea is not mine. The idea is based on a magnificent article by [Jan Derogee and his Tape Frequency Counter software.](https://janderogee.com/projects/1530_tapespeed/1530_tapespeed.htm)
+
+My experience so far is that the datasette (or datenrekorder) works best when the playback speed is in the range between 3150 - 3250 Hz. You could argue that the speed should be as close to 3150 Hz as possible, since this is the expected speed/frequency reading, but for reasons I have not understood yet I see that the tape deck works better with a slightly higher speed. I will continue to do these readings when refurbishing datasettes/datenrekorder to see if I can learn something!
+
+As can be seen from the picture below the speed is bout 3175 Hz/443 Hz which is very close to the reference. I would say this is "bang-on".
+
+<p align="center" float="left">
+    <img src="Images/Head_03.png" alt="Description" width="400">
+    <img src="Images/Head_04.png" alt="Description" width="400">
+</p>
 
 # Casing
 
