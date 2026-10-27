@@ -283,6 +283,17 @@ New replacement belts are ordered from [dataserve-retro.co.uk](dataserve-retro.c
 
 # Tape head azimuth alignment
 
+To check the tape head azimuth two software packages are used. [See Tools page for details.](https://refurbished-commodore.com/tools):
+
+- Cassette-azimuth H. Diebek
+- Azimuth Head Alignment Kit
+
+But now I discover something which I have not observed before: there is no easy way to adjust the head azimuth! On other datasette players there is a small hole which purpose is to allow for a small screwdriver to adjust the azimuth on the R/W head. But on the Digilog datasette there are no such hole. It is very important to adjust the R/W while the datasette is completely assembled.
+
+Nevertheless, both the Cassette-azimuth and the Azimuth Head Aligment kit shows that the R/W heads are properly aligned. There is maybe a slight misalignment seen from the Cassette-azimuth software, but I do not think this is substantial. And the Azimuth Head Alignment Kit is counting to 8000 without any issues each time (bang on every attempt). 
+
+
+
 # Tape speed
 
 
