@@ -71,8 +71,8 @@
 
 The planned refurbishment activites for this Digilog DCR64S (Order may vary. Several of them in parallel):
 
-- [ ]Refurbish the mainboard
-- [ ]Refurbish the internal drive mechanics
+- [x]Refurbish the mainboard
+- [x]Refurbish the internal drive mechanics
 - [ ]Refurbish the casing
 - [ ]Testing and validation
 
