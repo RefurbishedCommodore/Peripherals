@@ -329,6 +329,12 @@ Before the covers are cleaned the top lid is removed. This is not very complicat
     <img src="Images/Case_01.jpeg" alt="Description" width="700">
 </p>
 
+The covers are cleaned with mild soapy water and some glass cleaning spray.
+
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="700">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Testing
