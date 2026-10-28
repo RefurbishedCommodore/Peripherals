@@ -337,6 +337,27 @@ Before the covers are cleaned the top lid is removed. This is not very complicat
 
 Four original C64 games to be used for testing. Even if these games are old and worn the load without any problems at all. But, I also try with a few other games and they do not load as they should (they only load partially before crashing). Nevertheless, I think this is "as-good-as-it-gets" for this datasette.
 
+<p align="center" float="left">
+    <img src="Images/Test_02.png" alt="Description" width="225">
+    <img src="Images/Test_03.png" alt="Description" width="225">
+    <img src="Images/Test_04.png" alt="Description" width="225">
+    <img src="Images/Test_05.png" alt="Description" width="225">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_06.png" alt="Description" width="225">
+    <img src="Images/Test_07.png" alt="Description" width="225">
+    <img src="Images/Test_08.png" alt="Description" width="225">
+    <img src="Images/Test_09.png" alt="Description" width="225">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_01.png" alt="Description" width="225">
+    <img src="Images/Test_10.png" alt="Description" width="225">
+    <img src="Images/Test_11.png" alt="Description" width="225">
+    <img src="Images/Test_12.png" alt="Description" width="225">
+</p>
+
 **CONCLUSION** 
 
 Even if this datasette loads both alignment software and some games without any problem at all I think that this datasette is marginal unfortunately. Why? My guess is that this is not an electronic issue, but a mechanical issue related to old (but not worn) parts which prevents some tape from loading. To elaborate:
