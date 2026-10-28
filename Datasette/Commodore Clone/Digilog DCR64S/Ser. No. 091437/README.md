@@ -59,6 +59,9 @@
       <a href="#casing">Casing</a>
     </li>
     <li>
+      <a href="#testing">Testing</a>
+    </li>
+    <li>
       <a href="#final-result">Final result</a>
     </li>
   </ul>
@@ -328,6 +331,23 @@ Before the covers are cleaned the top lid is removed. This is not very complicat
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Testing
+
+*Playback*
+
+Four original C64 games to be used for testing. Even if these games are old and worn the load without any problems at all. But, I also try with a few other games and they do not load as they should (they only load partially before crashing). Nevertheless, I think this is "as-good-as-it-gets" for this datasette.
+
+**CONCLUSION** 
+
+Even if this datasette loads both alignment software and some games without any problem at all I think that this datasette is marginal unfortunately. Why? My guess is that this is not an electronic issue, but a mechanical issue related to old (but not worn) parts which prevents some tape from loading. To elaborate:
+
+- Probably the hardest game to load (the most worn tape) is "Ghostbusters". But this loads perfect without any issues at all. This points to the fact that the R/W head, amplifying circuits and A/D conversion works as it should.
+- The tape speed is "bang on" with the new belts. This points in the direction that the analog data is being processed with a good steady pace. The majority of the mechanical drive work is operational.
+- Tapes that fails to load / loads successfully is the same both when tested with top cover on and off. No difference. This points to the direction that the top cover does not affect the R/W alignment in any significant way.
+
+Is it impossible to improve it further? Well, nothing is impossible, but to replace every old mechanical gear on this datasette is more or less hopeless. Low cost datasette are not designed to be serviced at this level. You will end up damaging the drive work more than you fix it.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
