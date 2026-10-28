@@ -337,6 +337,11 @@ Before the covers are cleaned the top lid is removed. This is not very complicat
 
 Four original C64 games to be used for testing. Even if these games are old and worn the load without any problems at all. But, I also try with a few other games and they do not load as they should (they only load partially before crashing). Nevertheless, I think this is "as-good-as-it-gets" for this datasette.
 
+<p align="center">
+    <img src="Images/Test_20.jpeg" alt="Description" width="500">
+</p>
+
+
 <p align="center" float="left">
     <img src="Images/Test_02.png" alt="Description" width="225">
     <img src="Images/Test_03.png" alt="Description" width="225">
