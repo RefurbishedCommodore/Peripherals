@@ -369,6 +369,10 @@ Four original C64 games to be used for testing. Even if these games are old and 
     <img src="Images/Test_12.png" alt="Description" width="225">
 </p>
 
+*Recording*
+
+The saving functionality is also checked and verified. A small BASIC program is made and the SAVE command is used (and then the program is re-loaded). The LED is also on while recording is in progress.
+
 **CONCLUSION** 
 
 Even if this datasette loads both alignment software and some games without any problem at all I think that this datasette is marginal unfortunately. Why? My guess is that this is not an electronic issue, but a mechanical issue related to old (but not worn) parts which prevents some tape from loading. To elaborate:
