@@ -290,12 +290,14 @@ New replacement belts are ordered from [dataserve-retro.co.uk](https://dataserve
 After the new belts are installed and the function keys are reassembled, the read head, capstan, and pinch roller are cleaned. The reason for doing this while the datasette is partly reassembled is that it can then be connected to and powered by a Commodore 64. Functions such as PLAY/FF/REW can be activated, which makes the moving parts... move! And while they are moving, the parts can be cleaned.
 
 <p align="center">
-    <img src="Images/Int_09.jpeg" alt="Description" width="400">
+    <img src="Images/Int_09.jpeg" alt="Description" width="800">
 </p>
 
 The videos below show how this is done. Note that these videos are not from this particular datasette, but the principles are the same.
 [
 [Cleaning the capstan](https://www.youtube.com/watch?v=ig0aIlbpQRY&t=0s)
+
+[Cleaning the pinch roller](https://www.youtube.com/watch?v=jZ5zsrKKW5A)
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
