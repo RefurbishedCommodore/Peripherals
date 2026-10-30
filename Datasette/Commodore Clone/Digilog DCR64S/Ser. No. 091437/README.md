@@ -294,7 +294,7 @@ After the new belts are installed and the function keys are reassembled, the rea
 </p>
 
 The videos below show how this is done. Note that these videos are not from this particular datasette, but the principles are the same.
-[
+
 [Cleaning the capstan](https://www.youtube.com/watch?v=ig0aIlbpQRY&t=0s)
 
 [Cleaning the pinch roller](https://www.youtube.com/watch?v=jZ5zsrKKW5A)
