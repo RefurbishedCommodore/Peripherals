@@ -635,6 +635,10 @@ The metal top- and bottom covers are carefully cleaned with some glass cleaning 
 
 On the bottom cover there are only three out of four rubber feet. Also, some of the feet are quite dried out. Four new circular rubber feet (17 mm diameter // 7 mm thick) are installed on the bottom casing.
 
+<p align="center">
+    <img src="Images/Case_03.jpeg" alt="Description" width="800">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Testing
