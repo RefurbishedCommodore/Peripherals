@@ -71,6 +71,9 @@
         <li>
           <a href="#cleaning-the-covers">Cleaning the covers</a>
         </li>
+        <li>
+          <a href="#adding-new-rubber-feet">Adding new rubber feet</a>
+        </li>          
         </ul>
     </li>      
     <li>
@@ -630,7 +633,7 @@ The metal top- and bottom covers are carefully cleaned with some glass cleaning 
 
 ## Adding new rubber feet
 
-On the bottom cover there are only three out of four rubber feet. Also, some of the feet are quite dried out. 
+On the bottom cover there are only three out of four rubber feet. Also, some of the feet are quite dried out. Four new circular rubber feet (17 mm diameter // 7 mm thick) are installed on the bottom casing.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
