@@ -91,8 +91,8 @@ The planned refurbishment activites for this Excelerator Plus floppy drive (Orde
 - [x] Refurbish the mainboard
 - [x] Create power supply adapter cable
 - [x] Refurbish the internal mechanics
-- [ ] Refurbish the casing
-- [ ] Testing and validation
+- [x] Refurbish the casing
+- [x] Testing and validation
 
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
@@ -627,6 +627,8 @@ The front bezel is quite dirty. There is a lot of residue from floppies being in
 </p>
 
 The metal top- and bottom covers are carefully cleaned with some glass cleaning liquid on a cloth. There is a significant amount of scratches on the top cover, but this something that can´t be easily fixed.
+
+## Adding new rubber feet
 
 On the bottom cover there are only three out of four rubber feet. Also, some of the feet are quite dried out. 
 
