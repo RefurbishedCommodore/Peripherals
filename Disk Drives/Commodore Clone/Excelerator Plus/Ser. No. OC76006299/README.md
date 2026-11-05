@@ -699,12 +699,9 @@ Below is a collection of pictures showing the final result of the refurbishment 
 </div>
 
 <p align="center">
-    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+    <img src="Images/Final_05.jpeg" alt="Description" width="800">
 </p>
 
-<p align="center">
-    <img src="Images/Final_02.jpeg" alt="Description" width="800">
-</p>
 
 <p align="center">
     <img src="Images/Final_03.jpeg" alt="Description" width="800">
@@ -714,13 +711,20 @@ Below is a collection of pictures showing the final result of the refurbishment 
     <img src="Images/Final_04.jpeg" alt="Description" width="800">
 </p>
 
-<p align="center">
-    <img src="Images/Final_05.jpeg" alt="Description" width="800">
-</p>
 
 <p align="center">
     <img src="Images/Final_06.jpeg" alt="Description" width="800">
 </p>
+
+
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_02.jpeg" alt="Description" width="800">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
