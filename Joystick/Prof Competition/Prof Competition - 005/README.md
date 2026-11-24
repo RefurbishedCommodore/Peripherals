@@ -103,5 +103,12 @@ To start the disassembly, the two (should be three) screws at the bottom are rem
     <img src="Images/Dis_01.jpeg" alt="Description" width="600">
 </p>
 
-**Footnotes**
+The top part is lifted from the bottom, and the interior is exposed. Any holy moly! What a sight - and smell! A weird smell - something close to tar - is coming from the interior. There is a huge amount of dirt inside. It is hard to describe, but it is like some "tar" like material has accumulated around the microswitches. How bizarre...
+
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="600">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+**Footnotes*
 [^1]: Phillips flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
