@@ -19,7 +19,7 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
-      <a href="#refurbish-activities">Refurbish activities</a>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
     </li>
     <li>
       <a href="#disassembly">Disassembly</a>
@@ -79,7 +79,7 @@ Below are some pictures of the joystick before refurbishment.
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
-# Refurbish activities
+# Refurbishment activities
 
 The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
 
