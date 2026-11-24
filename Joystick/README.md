@@ -10,7 +10,10 @@ Sorry - none at the moment
 
 # Loading - in progress
 
-Sorry - none at the moment
+[![Name](https://img.shields.io/badge/Brand-Prof_Competition-white?style=plastic)](https://github.com/RefurbishedCommodore/Peripherals/blob/main/Joystick/Prof%20Competition/Prof%20Competition%20-%20005/README.md)
+<br>
+![Name](https://img.shields.io/badge/Remark-High_quality_joystick_by_Suzo_International-white?style=plastic)
+![Name](https://img.shields.io/badge/Int.Ref.-005-white?style=plastic)
 
 # List - archived
 
