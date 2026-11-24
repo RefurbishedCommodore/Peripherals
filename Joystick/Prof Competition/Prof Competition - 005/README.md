@@ -117,5 +117,16 @@ Now the PCB is lifted away and the bottom cover is exposed. The first thing I no
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Casing
+
+As mentioned are the plastic parts incredibly dirty. So, the parts are first placed in a box filled with mild soapy water for a few hours. This dissolves some of the dirt, but the most stubborn grease is still hanging on.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="600">
+</p>
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 **Footnotes**
 [^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
