@@ -154,6 +154,12 @@ Now everything is cleaned (again) with mild soapy water. The most stubborn marks
     <img src="Images/Case_07.jpeg" alt="Description" width="700">
 </p>
 
+The quality sticker is brushed with a Q-tip (no liquid). Now it is possible to read what the sticker says: "SUZO ROTTERDAM TEL. 010-4766399 M.S 1-88". My assumption is that someone with the initials "M.S." did the QA on this joystick in January 1988. Nice!
+
+<p align="center">
+    <img src="Images/Case_08.jpeg" alt="Description" width="500">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
