@@ -103,10 +103,16 @@ To start the disassembly, the two (should be three) screws at the bottom are rem
     <img src="Images/Dis_01.jpeg" alt="Description" width="600">
 </p>
 
-The top part is lifted from the bottom, and the interior is exposed. Any holy moly! What a sight - and smell! A weird smell - something close to tar - is coming from the interior. There is a huge amount of dirt inside. It is hard to describe, but it is like some "tar" like material has accumulated around the microswitches. How bizarre...
+The top part is lifted from the bottom, and the interior is exposed. Any holy moly! What a sight - and smell! A weird smell - something close to tar - is coming from the interior. There is a huge amount of dirt inside. It is hard to describe, but it is like some "tar" like material has accumulated around the microswitches. How bizarre... Something else I notice during disassembly is that there is a broken screw post (see arrow in picture below).
 
 <p align="center">
     <img src="Images/Dis_02.jpeg" alt="Description" width="600">
+</p>
+
+Now the PCB is lifted away and the bottom cover is exposed. The first thing I notice is the missing screw post. I will collect this and try to repair it later. Also, the Suzo International sticker is visible. It is full of dirt, but I think I can discern "88".
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="600">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
