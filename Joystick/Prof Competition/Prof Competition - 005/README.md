@@ -52,4 +52,26 @@ I do not know if this joystick works or not, but I will clean it properly, both 
 
 Below are some pictures of the joystick before refurbishment.
 
+<p align="center">
+    <img src="Images/Start_01.jpeg" alt="Description" width="800">
+</p>
 
+<p align="center" float="left">
+    <img src="Images/Start_02.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_05.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Start_06.jpeg" alt="Description" width="800">
+</p>
