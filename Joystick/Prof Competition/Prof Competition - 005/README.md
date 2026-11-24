@@ -93,5 +93,10 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Disassembly
+
+To start the disassembly, the two (should be three) screws at the bottom are removed[^1]. Note that these screws are "flat headed" (coned).
+
+
 **Footnotes**
-[^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
+[^1]: Phillips flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
