@@ -146,6 +146,14 @@ The plastic shaft is pulled out of the large rubber ring. It is pulled from the 
 
 Now everything is cleaned (again) with mild soapy water. The most stubborn marks are removed with isopropanol. Below are some pictures of the parts after cleaning.
 
+<p align="center">
+    <img src="Images/Case_06.jpeg" alt="Description" width="700">
+</p>
+
+<p align="center">
+    <img src="Images/Case_07.jpeg" alt="Description" width="700">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
