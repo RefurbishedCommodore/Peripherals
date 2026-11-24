@@ -116,5 +116,6 @@ Now the PCB is lifted away and the bottom cover is exposed. The first thing I no
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-**Footnotes*
+
+**Footnotes**
 [^1]: Phillips flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
