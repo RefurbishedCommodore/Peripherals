@@ -125,6 +125,11 @@ As mentioned are the plastic parts incredibly dirty. So, the parts are first pla
     <img src="Images/Case_01.jpeg" alt="Description" width="600">
 </p>
 
+To clean the shaft properly it must be disassembled. First action is to carefully pry away the top of the ball with a thin prying tool.
+
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
