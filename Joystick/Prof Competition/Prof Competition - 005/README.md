@@ -134,7 +134,14 @@ To clean the shaft properly it must be disassembled. First action is to carefull
 With the top removed the inner shaft is exposed. To remove the bottom part of the ball, the two plastic "arms" are pushed inwards (see arrows in picture below) while the ball is pulled off.
 
 <p align="center">
-    <img src="Images/Case_03.jpeg" alt="Description" width="700">
+    <img src="Images/Case_03.jpeg" alt="Description" width="500">
+</p>
+
+The plastic shaft is pulled out of the large rubber ring. It is pulled from the other side (not the side shown in the picture).
+
+<p align="center">
+    <img src="Images/Case_04.jpeg" alt="Description" width="300">
+    <img src="Images/Case_05.jpeg" alt="Description" width="300">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
