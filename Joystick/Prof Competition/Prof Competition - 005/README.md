@@ -99,6 +99,9 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 To start the disassembly, the two (should be three) screws at the bottom are removed[^1]. Note that these screws are "flat headed" (coned).
 
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 [^1]: Phillips flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
