@@ -83,7 +83,7 @@ The planned refurbishment activites for this Prof Competition joystick (Order ma
 - [x] Refurbish casing
 - [x] Refurbish the interior electronics
 - [x] Refurbish the cable and connector
-- [ ] Testing and validation
+- [x] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
 <br>
