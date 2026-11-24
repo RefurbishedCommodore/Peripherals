@@ -48,7 +48,7 @@ The Prof Competition is a joystick I enjoy more and more. It is very similar to 
 
 From a starting point of view, the condition of this joystick can be summarised in one word: dirty. The pictures don´t do this joystick justice - it is more dirty than it looks. There is some kind of fat grime all over it.
 
-One of the four rubber feet is misaligned. I am not sure if these rubber feet are original from Suzo International, or if these are added by a previous owner at some time.
+Two of the four rubber feet are misaligned. I am not sure if these rubber feet are original from Suzo International, or if these are added by a previous owner at some time.
 
 I do not know if this joystick works or not, but I will clean it properly, both inside and outside before even testing it. Looking past how dirty this joystick is, it does seem to be in good mechanical condition. I can not see any damage to it. There are some marks from use, but nothing significant.
 
