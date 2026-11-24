@@ -79,7 +79,19 @@ Below are some pictures of the joystick before refurbishment.
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
-Test
+# Refurbish activities
+
+The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
+
+- [ ] Refurbish casing
+- [ ] Refurbish the interior electronics
+- [ ] Refurbish the cable and connector
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+<br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
