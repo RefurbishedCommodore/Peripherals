@@ -131,6 +131,12 @@ To clean the shaft properly it must be disassembled. First action is to carefull
     <img src="Images/Case_02.jpeg" alt="Description" width="600">
 </p>
 
+With the top removed the inner shaft is exposed. To remove the bottom part of the ball, the two plastic "arms" are pushed inwards (see arrows in picture below) while the ball is pulled off.
+
+<p align="center">
+    <img src="Images/Case_03.jpeg" alt="Description" width="700">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
