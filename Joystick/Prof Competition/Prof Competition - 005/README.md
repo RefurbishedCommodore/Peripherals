@@ -57,21 +57,21 @@ Below are some pictures of the joystick before refurbishment.
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Start_02.jpeg" alt="Description" width="800">
+    <img src="Images/Start_02.jpeg" alt="Description" width="500">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Start_03.jpeg" alt="Description" width="800">
+    <img src="Images/Start_03.jpeg" alt="Description" width="500">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Start_04.jpeg" alt="Description" width="800">
+    <img src="Images/Start_04.jpeg" alt="Description" width="500">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Start_05.jpeg" alt="Description" width="800">
+    <img src="Images/Start_05.jpeg" alt="Description" width="500">
 </p>
 
 <p align="center">
-    <img src="Images/Start_06.jpeg" alt="Description" width="800">
+    <img src="Images/Start_06.jpeg" alt="Description" width="500">
 </p>
