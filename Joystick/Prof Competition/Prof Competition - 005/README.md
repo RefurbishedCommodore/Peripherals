@@ -201,6 +201,8 @@ The PCB and microswitches are properly cleaned with isopropanol. After cleaning 
     <img src="Images/Main_07.jpeg" alt="Description" width="500">
 </p>
 
+**NOTE:** The microswitches are marked "NTE 10A 125VAC".
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
