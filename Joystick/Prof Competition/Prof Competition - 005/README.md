@@ -211,6 +211,14 @@ Both the cable and the connector is cleaned properly with isopropanol and glass 
 
 Before everything is re-assembled it is tested properly with a multimeter in "beep-mode". All switches (both micro- and leaf switches) work as they should, and I can not register any issues with the cable or connector.
 
+<p align="center">
+    <img src="Images/Cable_01.jpeg" alt="Description" width="700">
+</p>
+
+<p align="center">
+    <img src="Images/Cable_02.jpeg" alt="Description" width="700">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
