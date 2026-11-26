@@ -170,15 +170,15 @@ Some [Prof Competition](https://github.com/RefurbishedCommodore/Peripherals/edit
 Below are some pictures of the PCB and the microswitches before cleaning.
 
 <p align="center">
-    <img src="Images/Main01.jpeg" alt="Description" width="500">
+    <img src="Images/Main_01.jpeg" alt="Description" width="500">
 </p>
 
 <p align="center">
-    <img src="Images/Main02.jpeg" alt="Description" width="500">
+    <img src="Images/Main_02.jpeg" alt="Description" width="500">
 </p>
 
 <p align="center">
-    <img src="Images/Main03.jpeg" alt="Description" width="500">
+    <img src="Images/Main_03.jpeg" alt="Description" width="500">
 </p>
 
 
