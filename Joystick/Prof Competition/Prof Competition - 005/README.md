@@ -190,11 +190,11 @@ To remove the oxidation which is expected to be on the underside of the two FIRE
 The PCB and microswitches are properly cleaned with isopropanol. After cleaning the these look good as new.
 
 <p align="center">
-    <img src="Images/Main_05.jpeg" alt="Description" width="500">
+    <img src="Images/Main_05.jpeg" alt="Description" width="700">
 </p>
 
 <p align="center">
-    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+    <img src="Images/Main_06.jpeg" alt="Description" width="700">
 </p>
 
 <p align="center">
