@@ -31,7 +31,7 @@
       <a href="#pcb-and-swithces">PCB and swithces</a>
     </li>      
     <li>
-      <a href="#cable-and-connector">Cable and connector</a>
+      <a href="#checking-the-cable-and-connector">Checking the cable and connector</a>
     </li>      
     <li>
       <a href="#testing">Testing</a>
@@ -190,19 +190,29 @@ To remove the oxidation which is expected to be on the underside of the two FIRE
 The PCB and microswitches are properly cleaned with isopropanol. After cleaning the these look good as new.
 
 <p align="center">
-    <img src="Images/Main_05.jpeg" alt="Description" width="500">
+    <img src="Images/Main_05.jpeg" alt="Description" width="700">
 </p>
 
 <p align="center">
-    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+    <img src="Images/Main_06.jpeg" alt="Description" width="700">
 </p>
 
 <p align="center">
     <img src="Images/Main_07.jpeg" alt="Description" width="500">
 </p>
 
+**NOTE:** The microswitches are marked "NTE 10A 125VAC".
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Checking the cable and connector
+
+Both the cable and the connector is cleaned properly with isopropanol and glass cleaning spray (on the rubber parts). It appears to be in good condition, I can not see any damage to neither cable or connector.
+
+Before everything is re-assembled it is tested properly with a multimeter in "beep-mode". All switches (both micro- and leaf switches) work as they should, and I can not register any issues with the cable or connector.
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
