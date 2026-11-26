@@ -181,6 +181,25 @@ Below are some pictures of the PCB and the microswitches before cleaning.
     <img src="Images/Main_03.jpeg" alt="Description" width="500">
 </p>
 
+To remove the oxidation which is expected to be on the underside of the two FIRE leaf switches, the small wires and switches itself are sanded gently.
+
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="500">
+</p>
+
+The PCB and microswitches are properly cleaned with isopropanol. After cleaning the these look good as new.
+
+<p align="center">
+    <img src="Images/Main_05.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main_07.jpeg" alt="Description" width="500">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
