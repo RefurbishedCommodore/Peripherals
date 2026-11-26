@@ -165,14 +165,21 @@ The quality sticker is brushed with a Q-tip (no liquid). Now it is possible to r
 
 # PCB and swithces
 
-Some [Prof Competition](https://github.com/RefurbishedCommodore/Peripherals/edit/main/Joystick/Prof%20Competition/Prof%20Competition%20-%20004/README.md) joysticks does not have a PCB at all, but this version does. The PCB here is absolutely filthy! I am struggling to understand how on earth it became so dirty. There is some "tar-ish" looking stuff all over the PCB, and this sticky stuff has accumulated under the leaf blade connected to the microswitches. How strange...
+Some [Prof Competition](https://github.com/RefurbishedCommodore/Peripherals/edit/main/Joystick/Prof%20Competition/Prof%20Competition%20-%20004/README.md) joysticks does not have a PCB at all, but this version does. The PCB is marked "22-3120-A S.T.C Rotterdam". But, the PCB here is absolutely filthy! I am struggling to understand how on earth it became so dirty. There is some "tar-ish" looking stuff all over the PCB, and this sticky stuff has accumulated under the leaf blade connected to the microswitches. How strange...
 
-Below are some pictures of the microswitches after cleaning and polishing.
+Below are some pictures of the PCB and the microswitches before cleaning.
 
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="500">
 </p>
 
+<p align="center">
+    <img src="Images/Main02.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main03.jpeg" alt="Description" width="500">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
