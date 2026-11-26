@@ -28,7 +28,7 @@
       <a href="#casing">Casing</a>
     </li>      
     <li>
-      <a href="#interior-electronics">Interior electronics</a>
+      <a href="#pcb-and-swithces">PCB and swithces</a>
     </li>      
     <li>
       <a href="#cable-and-connector">Cable and connector</a>
@@ -161,6 +161,22 @@ The quality sticker is brushed with a Q-tip (no liquid). Now it is possible to r
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# PCB and swithces
+
+Some [Prof Competition](https://github.com/RefurbishedCommodore/Peripherals/edit/main/Joystick/Prof%20Competition/Prof%20Competition%20-%20004/README.md) joysticks does not have a PCB at all, but this version does. The PCB here is absolutely filthy! I am struggling to understand how on earth it became so dirty. There is some "tar-ish" looking stuff all over the PCB, and this sticky stuff has accumulated under the leaf blade connected to the microswitches. How strange...
+
+Below are some pictures of the microswitches after cleaning and polishing.
+
+<p align="center">
+    <img src="Images/Main01.jpeg" alt="Description" width="500">
+</p>
+
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 
 **Footnotes**
 [^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
