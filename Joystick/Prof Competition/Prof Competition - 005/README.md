@@ -31,7 +31,7 @@
       <a href="#pcb-and-swithces">PCB and swithces</a>
     </li>      
     <li>
-      <a href="#cable-and-connector">Cable and connector</a>
+      <a href="#checking-the-cable-and-connector">Checking the cable and connector</a>
     </li>      
     <li>
       <a href="#testing">Testing</a>
@@ -205,6 +205,14 @@ The PCB and microswitches are properly cleaned with isopropanol. After cleaning 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Checking the cable and connector
+
+Both the cable and the connector is cleaned properly with isopropanol and glass cleaning spray (on the rubber parts). It appears to be in good condition, I can not see any damage to neither cable or connector.
+
+Before everything is re-assembled it is tested properly with a multimeter in "beep-mode". All switches (both micro- and leaf switches) work as they should, and I can not register any issues with the cable or connector.
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
