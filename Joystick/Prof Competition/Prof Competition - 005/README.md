@@ -160,6 +160,12 @@ The quality sticker is brushed with a Q-tip (no liquid). Now it is possible to r
     <img src="Images/Case_08.jpeg" alt="Description" width="500">
 </p>
 
+Since I doubt that the rubber feet are the original ones, I choose to add four new rubber feet. These are matching the circumference in the plastic cover, and also have a lower profile.
+
+<p align="center">
+    <img src="Images/Case_09.jpeg" alt="Description" width="500">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
