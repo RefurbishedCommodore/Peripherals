@@ -168,7 +168,6 @@ Since I doubt that the rubber feet are the original ones, I choose to add four n
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
 # PCB and swithces
 
 Some [Prof Competition](https://github.com/RefurbishedCommodore/Peripherals/edit/main/Joystick/Prof%20Competition/Prof%20Competition%20-%20004/README.md) joysticks does not have a PCB at all, but this version does. The PCB is marked "22-3120-A S.T.C Rotterdam". But, the PCB here is absolutely filthy! I am struggling to understand how on earth it became so dirty. There is some "tar-ish" looking stuff all over the PCB, and this sticky stuff has accumulated under the leaf blade connected to the microswitches. How strange...
@@ -225,6 +224,29 @@ Before everything is re-assembled it is tested properly with a multimeter in "be
     <img src="Images/Cable_02.jpeg" alt="Description" width="700">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Testing
+
+To verify that the joystick work as it should I check it with the [Joyride software](https://refurbished-commodore.com/tools). Result is that all directions and fire buttons works fine works as expected. All tests pass.
+
+<p align="center" float="left">
+    <img src="Images/Test01.jpeg" alt="Description" width="250">
+    <img src="Images/Test02.jpeg" alt="Description" width="250">   
+    <img src="Images/Test03.jpeg" alt="Description" width="250">
+    <img src="Images/Test04.jpeg" alt="Description" width="250">   
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test05.jpeg" alt="Description" width="250">
+    <img src="Images/Test06.jpeg" alt="Description" width="250">   
+    <img src="Images/Test07.jpeg" alt="Description" width="250">
+    <img src="Images/Test08.jpeg" alt="Description" width="250">   
+</p>
+
+<p align="center">
+    <img src="Images/Test09.jpeg" alt="Description" width="250">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
