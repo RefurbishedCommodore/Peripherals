@@ -186,13 +186,7 @@ Below are some pictures of the PCB and the microswitches before cleaning.
     <img src="Images/Main_03.jpeg" alt="Description" width="500">
 </p>
 
-To remove the oxidation which is expected to be on the underside of the two FIRE leaf switches, the small wires and switches itself are sanded gently.
-
-<p align="center">
-    <img src="Images/Main_04.jpeg" alt="Description" width="500">
-</p>
-
-Also, the top side of both leaf switches are cleaned. This is done by first polishing the switches with a glass fibre pen, and then cleaning them with isopropanol.
+The top side of both leaf switches are cleaned. This is done by first polishing the switches with a glass fibre pen, and then cleaning them with isopropanol.
 
 <p align="center" float="left">
     <img src="Images/Main_08.jpeg" alt="Description" width="400">
@@ -202,6 +196,12 @@ Also, the top side of both leaf switches are cleaned. This is done by first poli
 <p align="center" float="left">
     <img src="Images/Main_10.jpeg" alt="Description" width="400">
     <img src="Images/Main_11.jpeg" alt="Description" width="400">   
+</p>
+
+To remove the oxidation which is expected to be on the underside of the two FIRE leaf switches, the small wires and switches itself are sanded gently.
+
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="500">
 </p>
 
 The PCB and microswitches are properly cleaned with isopropanol. After cleaning the these look good as new.
