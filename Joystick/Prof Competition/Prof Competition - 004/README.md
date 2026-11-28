@@ -204,8 +204,9 @@ The FIRE and GND connections shows a bit high resistance level, but I think that
     <img src="Images/Main06.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-## Testing
+# Testing
 
 To verify that the joystick work as it should I check it with the [Joyride software](https://refurbished-commodore.com/tools). Result is that all directions and fire buttons works fine works as expected. All tests pass.
 
@@ -227,7 +228,9 @@ To verify that the joystick work as it should I check it with the [Joyride softw
     <img src="Images/Test09.jpeg" alt="Description" width="306">    
 </p>
 
-## Final result
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Final result
 
 <div align="center">
     
@@ -245,6 +248,8 @@ Below is a collection of the final result from the refurbishment of this QuickSh
     <img src="Images/Final05.jpeg" alt="Description" width="483">
     <img src="Images/Final06.jpeg" alt="Description" width="600">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 16.0 mm
