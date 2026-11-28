@@ -192,6 +192,18 @@ To remove the oxidation which is expected to be on the underside of the two FIRE
     <img src="Images/Main_04.jpeg" alt="Description" width="500">
 </p>
 
+Also, the top side of both leaf switches are cleaned. This is done by first polishing the switches with a glass fibre pen, and then cleaning them with isopropanol.
+
+<p align="center" float="left">
+    <img src="Images/Main_08.jpeg" alt="Description" width="400">
+    <img src="Images/Main_09.jpeg" alt="Description" width="400">   
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_10.jpeg" alt="Description" width="400">
+    <img src="Images/Main_11.jpeg" alt="Description" width="400">   
+</p>
+
 The PCB and microswitches are properly cleaned with isopropanol. After cleaning the these look good as new.
 
 <p align="center">
@@ -207,6 +219,7 @@ The PCB and microswitches are properly cleaned with isopropanol. After cleaning 
 </p>
 
 **NOTE:** The microswitches are marked "NTE 10A 125VAC".
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -267,19 +280,19 @@ Below is a collection of the final result from the refurbishment of this Prof Co
     <img src="Images/Final_01.jpeg" alt="Description" width="800">
 </p>
 
-<p align="center" float="left">
+<p align="center">
     <img src="Images/Final_02.jpeg" alt="Description" width="500">
 </p>
 
-<p align="center" float="left">
+<p align="center">
     <img src="Images/Final_03.jpeg" alt="Description" width="500">
 </p>
 
-<p align="center" float="left">
+<p align="center">
     <img src="Images/Final_04.jpeg" alt="Description" width="500">
 </p>
 
-<p align="center" float="left">
+<p align="center">
     <img src="Images/Final_05.jpeg" alt="Description" width="500">
 </p>
 
