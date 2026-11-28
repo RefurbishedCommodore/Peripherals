@@ -230,18 +230,20 @@ Before everything is re-assembled it is tested properly with a multimeter in "be
 
 To verify that the joystick work as it should I check it with the [Joyride software](https://refurbished-commodore.com/tools). Result is that all directions and fire buttons works fine works as expected. All tests pass.
 
+<!-- IMAGE SIZE: 590 x 450 -->
+
 <p align="center" float="left">
-    <img src="Images/Test01.jpeg" alt="Description" width="250">
-    <img src="Images/Test02.jpeg" alt="Description" width="250">   
-    <img src="Images/Test03.jpeg" alt="Description" width="250">
-    <img src="Images/Test04.jpeg" alt="Description" width="250">   
+    <img src="Images/Test01.png" alt="Description" width="250">
+    <img src="Images/Test02.png" alt="Description" width="250">   
+    <img src="Images/Test03.png" alt="Description" width="250">
+    <img src="Images/Test04.png" alt="Description" width="250">   
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Test05.jpeg" alt="Description" width="250">
-    <img src="Images/Test06.jpeg" alt="Description" width="250">   
-    <img src="Images/Test07.jpeg" alt="Description" width="250">
-    <img src="Images/Test08.jpeg" alt="Description" width="250">   
+    <img src="Images/Test05.png" alt="Description" width="250">
+    <img src="Images/Test06.png" alt="Description" width="250">   
+    <img src="Images/Test07.png" alt="Description" width="250">
+    <img src="Images/Test08.png" alt="Description" width="250">   
 </p>
 
 <p align="center">
