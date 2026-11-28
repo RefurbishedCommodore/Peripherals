@@ -171,6 +171,10 @@ As mentioned, one of the screw post stems are broken. A piece of the post was fo
     <img src="Images/Case_12.jpeg" alt="Description" width="400">   
 </p>
 
+<p align="center">
+    <img src="Images/Case_13.jpeg" alt="Description" width="500">
+</p>
+
 Since I doubt that the rubber feet are the original ones, I choose to add four new rubber feet. These are matching the circumference in the plastic cover, and also have a lower profile. Also, a new screw is added[^2]. **NOTE:** The new screw have the same thread diameter, but it is slightly shorter. 
 
 <p align="center">
