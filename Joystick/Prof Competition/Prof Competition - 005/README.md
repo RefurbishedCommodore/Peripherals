@@ -85,10 +85,10 @@ Below are some pictures of the joystick before refurbishment.
 
 The planned refurbishment activites for this Prof Competition joystick (Order may vary. Several of them in parallell):
 
-- [ ] Refurbish casing
-- [ ] Refurbish the interior electronics
-- [ ] Refurbish the cable and connector
-- [ ] Testing and validation
+- [x] Refurbish casing
+- [x] Refurbish the interior electronics
+- [x] Refurbish the cable and connector
+- [x] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
 <br>
@@ -251,6 +251,43 @@ To verify that the joystick work as it should I check it with the [Joyride softw
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Final result
+
+<div align="center">
+    
+*"A picture worth a thousand words"*
+
+Below is a collection of the final result from the refurbishment of this Prof Competition joystick. Hope you like it! Click to enlarge!
+
+</div>
+
+
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_02.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_03.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_04.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_05.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Final_06.jpeg" alt="Description" width="500">
+</p>
+
+
 
 **Footnotes**
 [^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.9 mm, Fastener length: 17.5 mm
