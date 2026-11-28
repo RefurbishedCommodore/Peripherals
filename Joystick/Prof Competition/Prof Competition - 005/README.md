@@ -247,7 +247,7 @@ To verify that the joystick work as it should I check it with the [Joyride softw
 </p>
 
 <p align="center">
-    <img src="Images/Test_09.jpeg" alt="Description" width="200">
+    <img src="Images/Test_09.png" alt="Description" width="200">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
