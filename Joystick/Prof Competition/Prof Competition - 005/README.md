@@ -160,11 +160,14 @@ The quality sticker is brushed with a Q-tip (no liquid). Now it is possible to r
     <img src="Images/Case_08.jpeg" alt="Description" width="500">
 </p>
 
+As mentioned, one of the screw post stems are broken. A piece of the post was found inside the joystick, but this piece only cover a part of the post. Nevertheless, the post stem is fixed by gluing back the plastic piece together with a thin plastic pin. It is glued with both super glue and some special plastic glue. I doesn´t look so great, but it will do the trick. Finally, the stem is fastened with two tie bands. Below are some pictures from the repair process.
+
 Since I doubt that the rubber feet are the original ones, I choose to add four new rubber feet. These are matching the circumference in the plastic cover, and also have a lower profile. Also, a new screw is added[^2]. **NOTE:** The new screw have the same thread diameter, but it is slightly shorter. 
 
 <p align="center">
     <img src="Images/Case_09.jpeg" alt="Description" width="500">
 </p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
