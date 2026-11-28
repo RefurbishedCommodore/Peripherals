@@ -160,7 +160,7 @@ The quality sticker is brushed with a Q-tip (no liquid). Now it is possible to r
     <img src="Images/Case_08.jpeg" alt="Description" width="500">
 </p>
 
-Since I doubt that the rubber feet are the original ones, I choose to add four new rubber feet. These are matching the circumference in the plastic cover, and also have a lower profile.
+Since I doubt that the rubber feet are the original ones, I choose to add four new rubber feet. These are matching the circumference in the plastic cover, and also have a lower profile. Also, a new screw is added[^2]. **NOTE:** The new screw have the same thread diameter, but it is slightly shorter. 
 
 <p align="center">
     <img src="Images/Case_09.jpeg" alt="Description" width="500">
@@ -229,4 +229,6 @@ Before everything is re-assembled it is tested properly with a multimeter in "be
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
-[^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 17.5 mm
+[^1]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.9 mm, Fastener length: 17.5 mm
+[^2]: Pozidrive flat head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.9 mm, Fastener length: 16.0 mm
+
