@@ -233,21 +233,21 @@ To verify that the joystick work as it should I check it with the [Joyride softw
 <!-- IMAGE SIZE: 590 x 450 -->
 
 <p align="center" float="left">
-    <img src="Images/Test01.png" alt="Description" width="250">
-    <img src="Images/Test02.png" alt="Description" width="250">   
-    <img src="Images/Test03.png" alt="Description" width="250">
-    <img src="Images/Test04.png" alt="Description" width="250">   
+    <img src="Images/Test_01.png" alt="Description" width="250">
+    <img src="Images/Test_02.png" alt="Description" width="250">   
+    <img src="Images/Test_03.png" alt="Description" width="250">
+    <img src="Images/Test_04.png" alt="Description" width="250">   
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Test05.png" alt="Description" width="250">
-    <img src="Images/Test06.png" alt="Description" width="250">   
-    <img src="Images/Test07.png" alt="Description" width="250">
-    <img src="Images/Test08.png" alt="Description" width="250">   
+    <img src="Images/Test_05.png" alt="Description" width="250">
+    <img src="Images/Test_06.png" alt="Description" width="250">   
+    <img src="Images/Test_07.png" alt="Description" width="250">
+    <img src="Images/Test_08.png" alt="Description" width="250">   
 </p>
 
 <p align="center">
-    <img src="Images/Test09.jpeg" alt="Description" width="250">
+    <img src="Images/Test_09.jpeg" alt="Description" width="250">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
